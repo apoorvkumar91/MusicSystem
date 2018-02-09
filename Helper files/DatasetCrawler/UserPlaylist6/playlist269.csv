@@ -1,0 +1,1001 @@
+,Songs,Listeners,Playcount,Duration,Tags
+0,暗湧,2345,20530,258000,"[u'favorites', u'C-pop', u'temp', u'piano prelude']"
+1,曖昧,2887,20170,379000,"[u'C-pop', u'pop', u'90s', u'female vocals', u'Ballad', u'chinese', u'1995', u'linxi']"
+2,容易受傷的女人,2814,17280,155000,"[u'cantonese', u'Faye Wong', u'interessant', u'C-pop', u'2015', u'heart and soul', u'flittchen', u'klasse', u'nktslst']"
+3,愛與痛的邊緣,1906,12743,274000,[]
+4,夢遊,1648,9153,280000,"[u'C-pop', u'pop', u'pop rock', u'90s', u'female vocals', u'chinese', u'1994']"
+5,CRAZY感情STYLE,6775,63479,300000,"[u'indie', u'alternative']"
+6,nakano kill you,10423,134512,190000,"[u'rock', u'alternative rock', u'J-rock', u'indie', u'japanese', u'math rock', u'Progressive rock', u'shoegaze', u'Japanese Indie', u'mathcore', u'j-indies', u'noisy and beautiful', u'riotous alt rock']"
+7,DISCO FLIGHT,11358,148943,270000,"[u'J-rock', u'rock', u'indie', u'japanese', u'2007', u'love at first listen', u'j-indies', u'screaming', u'J-Indie', u'noisy and beautiful', u'riotous alt rock', u'so badass you wouldnt believe']"
+8,O.F.T,7377,68401,291000,"[u'favorite songs', u'japanese rock', u'alternative rock', u'My Favorites', u'najlepsze piosenki']"
+9,想像のSecurity,7069,92604,211000,"[u'japanese rock', u'rock', u'beautiful', u'Rocking', u'J-rock', u'J-Indie', u'favorite guitar riffs', u'Indies J-Rock']"
+10,秘密,931,5359,295000,[]
+11,見つめてごらん,972,6403,215000,"[u'japanese', u'Shione Yukawa']"
+12,Gloria's Step [take 3],1437,3911,0,[]
+13,Detour Ahead [Take 2],1594,6663,0,"[u'jazz piano', u'jazz', u'Bill Evans', u'paul motian', u'scott lafaro']"
+14,Milestones,12576,56314,395000,"[u'jazz', u'Bill Evans', u'bass', u'bebop', u'jazz piano', u'Air', u'shiny', u'recos', u'Jazzdeluxe', u'jazzpiano', u'surrealistic', u'pre-party', u'lyons- top 101 jazz albums', u'Jazz-KH']"
+15,My Romance [Take 2],1139,3796,0,[u'jazz']
+16,"Porgy (I Loves You, Porgy)",7625,35125,370000,"[u'jazz', u'piano', u'introspective', u'jazz piano', u'Bill Evans', u'short story inspiration']"
+17,Alice in Wonderland [Take 2],1580,5013,0,[]
+18,Waltz For Debby [Take 1],1261,4677,0,[]
+19,Detour Ahead [Take 1],1252,4172,0,[]
+20,All Of You [take 2],1811,5289,0,[u'jazz']
+21,We're No Here,169514,840805,337000,"[u'post-rock', u'instrumental', u'indie', u'post rock', u'alternative', u'indie rock', u'rock', u'Mogwai', u'experimental', u'Scottish', u'Soundtrack', u'ambient', u'noise', u'Experimental Rock', u'intense', u'electronic', u'doom metal', u'instrumental rock', u'powerful', u'torchwood', u'Awesome', u'guitar', u'vugube62', u'heavy', u'epic', u'shoegaze', u'slowcore', u'heard on Pandora', u'00s', u'alt rock', u'angst', u'Mind blowing', u'Top Gear', u'euphoric misery', u'black metal', u'metal', u'pop', u'british', u'alternative rock', u'Hard', u'emo', u'noise rock', u'best of 2006', u'hard rock', u'Progressive rock', u'memories', u'energy', u'new wave', u'britpop', u'Soundtracks']"
+22,I Chose Horses,148528,676554,313000,"[u'post-rock', u'ambient', u'instrumental', u'post rock', u'Scottish', u'Sleep', u'beautiful', u'Mogwai', u'indie', u'alternative', u'chillout', u'indie rock', u'piano', u'Experimental Rock', u'slowcore', u'rock', u'japanese', u'experimental', u'downtempo', u'Awesome', u'glasgow', u'Mellow', u'space rock', u'cool', u'alt rock', u'animals', u'horses', u'Slow Rock', u'Calme', u'i chose horses', u'japanese vocal', u'Soundtrack', u'french', u'seen live', u'chill', u'british', u'favorites', u'epic', u'spoken', u'britpop', u'night', u'atmospheric', u'floating', u'trip hop', u'scotland', u'Progressive', u'melancholy', u'soft', u'ethereal', u'melancholic']"
+23,Folk Death 95,158433,794361,214000,"[u'post-rock', u'instrumental', u'post rock', u'rock', u'Mogwai', u'indie', u'indie rock', u'Scottish', u'instrumental rock', u'alternative', u'Experimental Rock', u'british', u'ambient', u'shoegaze', u'beautiful', u'space rock', u'00s', u'Perfection', u'powerful', u'songs I wish were longer', u'seen live', u'favorite songs', u'england', u'scotland', u'intense', u'alt rock', u'shoegazing', u'repeatrepeatrepeat', u'absolutely beautiful', u'beloved', u'play this music loud', u'i detect massive win in this song', u'--loved tracks--', u'headphoneorgy', u'chillout', u'noise rock', u'prog', u'catchy', u'britpop', u'Awesome', u'post', u'Mellow', u'melancholic', u'loved', u'cool', u'good', u'buy', u'shoegazer', u'accoustic', u'Favourites']"
+24,Emergency Trap,162561,811396,211000,"[u'post-rock', u'instrumental', u'Mogwai', u'Scottish', u'post rock', u'indie', u'ambient', u'rock', u'alternative', u'chill', u'experimental', u'indie rock', u'Experimental Rock', u'beautiful', u'Mellow', u'space rock', u'alt rock', u'chillout', u'shoegaze', u'melancholic', u'beautiful post-rock', u'seen live', u'favorite songs', u'noise rock', u'calm', u'Love', u'piano', u'epic', u'britpop', u'Dreamy', u'trip hop', u'glasgow', u'scotland', u'postrock', u'soft', u'relaxing', u'nice', u'00s', u'gorgeous', u'depression', u'melancholie', u'2006', u'matador', u'temazo', u'sleepy', u'floaty', u'easy', u'sara', u'Manu Chao', u'soothing']"
+25,Friend of the Night,221478,1374089,330000,"[u'post-rock', u'instrumental', u'Mogwai', u'beautiful', u'post rock', u'indie', u'alternative', u'piano', u'chillout', u'ambient', u'Scottish', u'instrumental rock', u'rock', u'alternative rock', u'epic', u'Experimental Rock', u'atmospheric', u'indie rock', u'Mellow', u'Progressive rock', u'experimental', u'chill', u'shoegaze', u'Progressive', u'slowcore', u'relax', u'seen live', u'sleepytime', u'scotland', u'nice', u'favorites', u'melodic', u'melancholy', u'shoegazing', u'grandiose', u'blue room', u'sonic rock', u'what a fucking great day', u'Absolutely Magic', u'songs that have the capacity to change your life', u'Eremuse-42-0o0o0o0o', u'electronic', u'best of 2006', u'Love', u'Awesome', u'psychedelic', u'night', u'guitar', u'contemplative', u'late night']"
+26,Team Handed,164385,807323,238000,"[u'post-rock', u'instrumental', u'post rock', u'ambient', u'Mogwai', u'indie', u'alternative rock', u'chillout', u'rock', u'indie rock', u'alternative', u'downtempo', u'instrumental rock', u'jazz', u'chill', u'Experimental Rock', u'Mellow', u'space rock', u'till human voices wake us', u'piano', u'easy listening', u'beautiful', u'atmospheric', u'postrock', u'slowcore', u'alt rock', u'instrumental post-rock', u'trip-hop', u'british', u'folk', u'experimental', u'Progressive rock', u'Scottish', u'guitar', u'thoughtful', u'car', u'scotland', u'chilled', u'favourite', u'shoegazer', u'chill out', u'Beautiful Songs', u'immersive', u'funeral music', u'inspiring', u'classics', u'2000s', u'mine', u'sleepy', u'silent']"
+27,Travel Is Dangerous,183238,1109247,238000,"[u'post-rock', u'instrumental', u'post rock', u'Mogwai', u'experimental', u'Scottish', u'epic', u'alternative', u'shoegaze', u'indie', u'indie rock', u'Experimental Rock', u'ambient', u'postrock', u'melancholy', u'space rock', u'alt rock', u'rock', u'noise rock', u'Progressive rock', u'favorites', u'Progressive', u'Mellow', u'chillout', u'seen live', u'british', u'beautiful', u'Awesome', u'scotland', u'emotional', u'chill', u'alternative rock', u'math rock', u'sad', u'best of 2006', u'downtempo', u'dub', u'happy', u'Love', u'post-punk', u'instrumental rock', u'idm', u'Driving', u'haunting', u'post', u'genius', u'excellent', u'A Perfect Circle', u'melancholic', u'slowcore']"
+28,Acid Food,186401,1019313,220000,"[u'post-rock', u'instrumental', u'indie', u'post rock', u'Mellow', u'indie rock', u'alternative', u'Scottish', u'ambient', u'Mogwai', u'electronic', u'Experimental Rock', u'atmospheric', u'relax', u'seen live', u'rock', u'british', u'alternative rock', u'experimental', u'shoegaze', u'slide guitar', u'melancholic', u'slowcore', u'chillout', u'chill', u'sexy', u'sad', u'Progressive rock', u'calm', u'beautiful', u'psychedelic', u'postrock', u'space rock', u'soft', u'relaxing', u'vocoder', u'twang', u'alt rock', u'everything is dead and what is not i will kill', u'food', u'post-rock/experimental', u'to listen at night', u'trip out', u'extreme loud noise jazz punk sheer paranoid terror', u'songs in love with', u'to jest to', u'country', u'favorite songs', u'emo', u'noise rock']"
+29,Glasgow Mega-Snake,206279,1211453,231000,"[u'post-rock', u'instrumental', u'rock', u'alternative', u'post rock', u'Mogwai', u'indie', u'Scottish', u'alternative rock', u'Experimental Rock', u'seen live', u'epic', u'shoegaze', u'Awesome', u'indie rock', u'Progressive rock', u'scotland', u'favorites', u'loud', u'noise', u'favorite songs', u'experimental', u'hard rock', u'glasgow', u'Progressive', u'space rock', u'00s', u'Post-Metal', u'Instrumental music that makes you feel-group tag radio', u'electronic', u'british', u'instrumental rock', u'atmospheric', u'post', u'postrock', u'alt rock', u'MM', u'dense', u'mnogo dobro', u'Game Boss Music and stuff that would work well as it', u'powerful song', u'massive riffs', u'metal', u'chillout', u'heavy', u'hardcore', u'folk', u'ambient', u'noise rock', u'best of 2006']"
+30,Auto Rock,284260,1691708,258000,"[u'post-rock', u'instrumental', u'indie', u'post rock', u'Mogwai', u'piano', u'ambient', u'alternative', u'rock', u'indie rock', u'Soundtrack', u'beautiful', u'experimental', u'electronic', u'shoegaze', u'Scottish', u'Progressive rock', u'instrumental rock', u'Mellow', u'miami vice', u'Auto Rock', u'chillout', u'Experimental Rock', u'melancholy', u'grey storia', u'favorites', u'epic', u'intense', u'relaxing', u'2006', u'amayzes loved', u'seen live', u'atmospheric', u'Progressive', u'space rock', u'cool', u'alt rock', u'alternative rock', u'calm', u'Awesome', u'amazing', u'Top Gear', u'davaho53', u'chill', u'british', u'sad', u'Love', u'Dreamy', u'lounge', u'Driving']"
+31,Il bidone,1735,4598,194000,"[u'soundtrackgdchill', u'Nino Rota', u'fellini']"
+32,La Dolce Vita - Finale,2013,5495,0,[]
+33,Blues (La Dolce Vita dei Nobili),491,1804,345000,[u'soundtracks- karavaki']
+34,Valzer (parlami di me),379,1491,158000,"[u'claseco', u'vils']"
+35,La dolce vita,14907,44192,213000,"[u'Soundtrack', u'lovedbyale', u'italianigdchill', u'soundtrackgdchill', u'cinema', u'Soft jazz', u'Nino Rota', u'Classical', u'easy listening', u'theme', u'fellini', u'instrumental', u'cinematic', u'summer', u'fip', u'italian', u'2010', u'score', u'film noir', u'Awesomest', u'earthbound', u'The Sopranos', u'jaz', u'retroschool', u'jacques tati', u'Cinematique', u'doSluchania', u'kolekcja', u'La Dolce Vita', u'orquestrada', u'Filmes', u'movies-soundtrack', u'urbanitas', u'nye favoritter', u'soundtrack pn', u'Special-Classica-ed-Operetta', u'temas de peliculas', u'claseco', u'nightstuff', u'eveningair', u'perficta', u'maypi italia', u'filmesetrilhas', u'whiffer top-notch', u'eclectisizer']"
+36,青ミント,5,14,0,[]
+37,ライトの裏側,4,15,0,[]
+38,Mardy Bum,1025057,8650857,175000,"[u'indie rock', u'indie', u'british', u'rock', u'alternative', u'arctic monkeys', u'alternative rock', u'britpop', u'00s', u'brit rock', u'seen live', u'UK', u'Love', u'favorites', u'happy', u'Awesome', u'mardy bum', u'Favourites', u'Britrock', u'Garage Rock', u'artic monkeys', u'indie pop', u'catchy', u'favourite', u'Sheffield', u'2006', u'pop', u'love at first listen', u'english', u'Brit', u'punk', u'post-punk', u'cool', u'pop rock', u'cute', u'punk rock', u'lovely', u'Love it', u'british indie', u'romantic', u'fun', u'brit pop', u'british rock', u'Post-punk revival', u'beautiful', u'Favorite', u'want to see live', u'alternative-rock', u'memories', u'guitar']"
+39,Selfish Jean,157861,807081,240000,"[u'indie', u'britpop', u'rock', u'indie rock', u'Scottish', u'alternative rock', u'alternative', u'british', u'travis', u'makes me happy', u'favorites', u'seen live', u'indie pop', u'happy', u'00s', u'UK', u'2007', u'male vocalists', u'british i like', u'Brit', u'Love', u'soft rock', u'chillout', u'pop', u'scotland', u'male vocalist', u'Lust for life', u'unbelievably cheerful sound', u'songs meant for the sunroof open and windows down', u'Selfish Jean', u'whole lotta smile', u'easy listening', u'feel good', u'summer', u'Mellow', u'party', u'favourite', u'fun', u'relax', u'fav', u'love at first listen', u'scotpop', u'perfect', u'wonderful', u'2000s', u'names', u't-shirts', u'positive', u'feeling good', u'mychart-toppers']"
+40,After Hours (Closet Mix),12650,50967,129000,"[u'rock', u'teh luv', u'girl singer', u'alternative', u'acoustic', u'genius', u'nostalgic', u'velvets', u'beautiful sad', u'songs I absolutely love', u'superguay', u'new beginnings and light in my face', u'homesick alien']"
+41,Rock And Roll,115396,424956,0,"[u'rock', u'classic rock', u'60s', u'psychedelic', u'Rock and Roll', u'proto-punk', u'alternative', u'Psychedelic Rock', u'70s', u'Favourite Songs', u'pop', u'experimental', u'classic', u'garage', u'1970', u'rock out in your cube', u'punk', u'new york', u'pop rock', u'Avant-Garde', u'american', u'The Velvet Underground', u'Velvet Underground', u'red shoes ecstasy', u'Soundtrack', u'indie rock', u'happy', u'art rock', u'Garage Rock', u'favourite', u'cool', u'a subtle use of vocal harmony', u'extensive vamping', u'major key tonality', u'acoustic rhythm guitars', u'mixed acoustic and electric instrumentation', u'fucking incredible', u'prominent organ', u'political lyrics', u'groovy jazzy goodness', u'pop rock qualities', u'an emotional male lead vocal performance', u'an electric guitar solo', u'heavy metal', u'metal', u'seen live', u'indie', u'chill', u'alternative rock', u'hard rock']"
+42,Heroin,527629,2679225,430000,"[u'psychedelic', u'rock', u'classic rock', u'60s', u'drugs', u'proto-punk', u'Psychedelic Rock', u'experimental', u'alternative', u'The Velvet Underground', u'art rock', u'heroin', u'Experimental Rock', u'new york', u'Lou Reed', u'Velvet Underground', u'Avant-Garde', u'american', u'indie', u'classic', u'alternative rock', u'Garage Rock', u'epic', u'1967', u'70s', u'favorites', u'noise', u'beautiful', u'intense', u'mindblowing', u'punk', u'sad', u'moody', u'Favourites', u'noise rock', u'dark', u'glam rock', u'trippy', u'best songs ever', u'andy warhol', u'favorite songs', u'Love', u'post-punk', u'Awesome', u'avantgarde', u'amazing', u'legend', u'songs about drugs', u'proto punk', u'avant rock']"
+43,I'll Be Your Mirror,339621,1792021,137000,"[u'rock', u'classic rock', u'60s', u'psychedelic', u'alternative', u'Psychedelic Rock', u'art rock', u'proto-punk', u'Nico', u'american', u'female vocalists', u'beautiful', u'experimental', u'Mellow', u'Avant-Garde', u'The Velvet Underground', u'pop', u'Love', u'Experimental Rock', u'1967', u'indie', u'new york', u'chillout', u'oldies', u'best songs ever', u'Dreamy', u'Morose Deep dilate Crimson', u'classic', u'alternative rock', u'favorites', u'psychedelic pop', u'romantic', u'Garage Rock', u'melancholic', u'Lou Reed', u'Velvet Underground', u'aproragadozo loves this music', u'vugube62', u'chill', u'punk', u'favorite songs', u'sexy', u'sad', u'Progressive rock', u'calm', u'cute', u'NYC', u'favourite', u'garage', u'loved']"
+44,Femme Fatale,465033,2449056,149000,"[u'rock', u'60s', u'classic rock', u'psychedelic', u'alternative', u'Psychedelic Rock', u'female vocalists', u'proto-punk', u'art rock', u'experimental', u'The Velvet Underground', u'Nico', u'Avant-Garde', u'Velvet Underground', u'pop', u'new york', u'Mellow', u'femme fatale', u'Experimental Rock', u'indie', u'sexy', u'american', u'alternative rock', u'favorites', u'1967', u'Dreamy', u'Garage Rock', u'Ballad', u'classic', u'sad', u'oldies', u'Lou Reed', u'soundtrackgdchill', u'70s', u'punk', u'Awesome', u'atmospheric', u'melancholy', u'drugs', u'amayzes loved', u'favorite songs', u'beautiful', u'female vocalist', u'Favourite Songs', u'1966', u'best songs ever', u'Morose Deep dilate Crimson', u'edie sedgwick', u'Love', u'acoustic']"
+45,Candy Says (Closet Mix),20602,59215,244000,"[u'rock', u'alternative', u'red shoes ecstasy', u'Mellow', u'folk rock', u'proto-punk', u'moving', u'classic rock', u'chill', u'alternative rock', u'singer-songwriter', u'lovely', u'Ecstasy', u'FUCKING AWESOME', u'truth', u'Lou Reed', u'velvets', u'fucking beautiful', u'criterio', u'kcrw henry rollins', u'Songs to cry to', u'US rock', u'tastes like grandpa grapefruit', u'Willis', u'FMHZ', u'chaser i', u'Jozzs Magic Moments', u'rosis', u'radio as i want it', u'rariru', u'before the 70s', u'late60s-early 70s']"
+46,Sister Ray,144792,515209,1020000,"[u'proto-punk', u'experimental', u'psychedelic', u'60s', u'Psychedelic Rock', u'rock', u'Avant-Garde', u'noise', u'noise rock', u'art rock', u'classic rock', u'Experimental Rock', u'epic', u'drugs', u'The Velvet Underground', u'alternative', u'Garage Rock', u'garage', u'Jam', u'70s', u'best song ever', u'Consistent Dodo Radio - Flittering', u'long', u'trippy', u'1968', u'alternative rock', u'Progressive', u'hypnotic', u'Velvet Underground', u'velvets', u'fucking incredible', u'Morose Deep dilate Crimson', u'punk', u'motorik', u'cool', u""60's"", u'Garage Punk', u'over ten minutes', u'transcendent', u'fucking brilliant', u'Songs over 10 minutes long', u'indie', u'classic', u'Progressive rock', u'fantastic', u'beautiful', u'Awesome', u'american', u'best', u'Favourites']"
+47,Lady Godiva's Operation,146072,502710,292000,"[u'psychedelic', u'rock', u'60s', u'classic rock', u'alternative', u'proto-punk', u'Psychedelic Rock', u'experimental', u'alternative rock', u'Experimental Rock', u'art rock', u'Velvet Underground', u'garage', u'Lou Reed', u'Morose Deep dilate Crimson', u'noise', u'new york', u'Avant-Garde', u'Rock and Roll', u'1968', u'punk', u'noise rock', u'USA', u'The Velvet Underground', u'fucking brilliant', u'andy warhol', u'pop', u'american', u'drone', u'psych', u'Favourites', u'drugs', u'psych rock', u'where is my bong', u'gdchills60s', u'indie', u'classic', u'70s', u'indie rock', u'hard rock', u'Love', u'Rock  Roll', u'Awesome', u'bass', u'genius', u'avantgarde', u'punk rock', u'My', u'NYC', u'Garage Rock']"
+48,The Murder Mystery (Closet Mix),8571,23067,535000,"[u'rock', u'alternative', u'Velvet Underground', u'Avant-Garde', u'lovedbybeyondwithin', u'60s', u'new york', u'shoegaze', u'art rock', u'hypnotic', u'proto-punk', u'heroin', u'Lou Reed', u'The Velvet Underground', u'velvets', u'Solomusika-Loved', u'all time favs', u'sprockets', u'pretensions', u'bit tedious']"
+49,Stephanie Says,202203,875393,170000,"[u'classic rock', u'rock', u'60s', u'The Velvet Underground', u'sad', u'alternative', u'psychedelic', u'beautiful', u'Experimental Rock', u'proto-punk', u'pop', u'chill', u'classic', u'Soundtrack', u'indie', u'Avant-Garde', u'NYC', u'amayzes loved', u'70s', u'alternative rock', u'experimental', u'favorites', u'american', u'art rock', u'Mellow', u'Lou Reed', u'women saying things to lou reed', u'quiet', u'sweet', u'names', u'Velvet Underground', u'sad love', u'davaho53', u'punk', u'new york', u'guitar', u'violin', u'beauty', u'oldies', u'pretty', u'ethereal', u'favourite', u'melancholic', u'Psychedelic Rock', u'Favourites', u'underground', u'8 of 10 stars', u'nostalgia', u'Satellite', u'Love it']"
+50,見つめてごらん,972,6403,215000,"[u'japanese', u'Shione Yukawa']"
+51,風よ吹かないで,1028,7025,228000,"[u'japanese', u'Shione Yukawa']"
+52,Henry Lee,12248,69169,235000,"[u'alternative', u'colaborations', u'songs to listen to with my eyes closed', u'beautiful', u'interesting lyrics', u'rock', u'female vocalists', u'favorites', u'easy listening', u'amazing', u'lovely', u'listen while alone', u'the most beautiful songs', u'indie', u'alternative rock', u'Driving', u'male vocalists', u'duet', u'Favourites', u'FM4', u'temazo', u'duets', u'just perfect', u'Spleen', u'All time classics', u'Rustig', u'Ultimate Love Song', u'Dragonfly kiss your tail', u'dreamfull', u'heroic rock', u'ueber', u'study years', u'soothening', u'feeling low', u'beh si quelle', u'amo este tema', u'TEMON', u'hermoso tema', u'hermosa letra', u'hermosa melodia', u'pj harvey and nick', u'songs to listen to while Im writing', u'voices that amaze me', u'about murder and-or other dark and great stuff', u'viatabatefilmuastaesoundrackulmeu', u'no pain - no game', u'loved it at a concert']"
+53,Where the Wild Roses Grow,329578,1828931,237000,"[u'alternative', u'Ballad', u'rock', u'duet', u'Nick Cave', u'singer-songwriter', u'melancholic', u'alternative rock', u'Kylie Minogue', u'duets', u'post-punk', u'90s', u'blues rock', u'rock ballad', u'all time favorites', u'preraphaelites', u'before the last step', u'classic rock', u'experimental', u'indie rock', u'australian', u'Love', u'folk-rock', u'new wave', u'chamber pop', u'blues', u'violin', u'art rock', u'australia', u'alternative pop', u'murder ballads', u'alt rock', u'ZicCool', u'gdchills90s', u'art', u'Murder ballad', u'1995', u'college memories', u'zictop', u'adult', u'5 Star', u""1990's"", u'Phat', u'All time favourite', u'stardust', u'to listen at night', u'secret', u'harmonize', u'slgdmbestof', u'oldies but goldies']"
+54,Christmas Sucks,6708,25965,176000,"[u'christmas', u'cabaret', u'Gothic', u'alcomusic', u'experimental', u'other', u'duet', u'dark cabaret', u'duets', u'peter murphy', u'Jul', u'deep throat', u'they fucked my brains', u'suicidalne tendencije', u'polveka do leta']"
+55,Bedazzled,4768,14462,118000,[u'other']
+56,New York Hell Sonic Ballet,280,1317,0,[]
+57,CRAZY感情STYLE,6775,63479,300000,"[u'indie', u'alternative']"
+58,nakano kill you,10423,134512,190000,"[u'rock', u'alternative rock', u'J-rock', u'indie', u'japanese', u'math rock', u'Progressive rock', u'shoegaze', u'Japanese Indie', u'mathcore', u'j-indies', u'noisy and beautiful', u'riotous alt rock']"
+59,DISCO FLIGHT,11358,148943,270000,"[u'J-rock', u'rock', u'indie', u'japanese', u'2007', u'love at first listen', u'j-indies', u'screaming', u'J-Indie', u'noisy and beautiful', u'riotous alt rock', u'so badass you wouldnt believe']"
+60,O.F.T,7377,68401,291000,"[u'favorite songs', u'japanese rock', u'alternative rock', u'My Favorites', u'najlepsze piosenki']"
+61,24REVERSE,5114,64206,307000,"[u'J-rock', u'rock', u'japanese', u'alternative', u'alternative rock', u'math rock', u'Progressive rock', u'shoegaze', u'post-hardcore', u'really amazing', u'24reverse']"
+62,A'Rebours,82386,420447,203000,"[u'indie', u'indie rock', u'british', u'rock', u'00s', u'babyshambles', u'pete doherty', u'alternative', u'britpop', u'post-punk', u'Sommer', u'prozac', u'Garage-Rock', u'Peter Doherty', u'Albion', u'Rock my socks', u'dance indie dance', u'pop', u'alternative rock', u'Favoriter', u'UK', u'london', u'Retro', u'england', u'Indie-Rock', u'Garage Rock', u'post rock', u'brit rock', u'Europe', u'2005', u'drugs', u'perfect', u'Love it', u'Hmm', u'alltime fave songs', u'love the lyrics', u'Brit', u'Britrock', u'british rock', u'hip', u'Brit indie', u'songs that i will still be listening to in a billion years', u'21st century', u'BeatbabeBop selection', u'all-time favourite', u'freakey stylish', u'Like this', u'tanzen', u'new songs', u'favourite lyrics']"
+63,What Katie Did,4321,18668,276000,[]
+64,What A Waster,685,2703,0,[]
+65,Killamangiro,146005,864837,193000,"[u'indie', u'indie rock', u'rock', u'british', u'britpop', u'00s', u'pete doherty', u'Awesome', u'babyshambles', u'Brit indie', u'alternative rock', u'loud', u'england', u'funky', u'Indie-Rock', u'Garage Rock', u'Garage-Rock', u'british friends', u'brit hit', u'alternative', u'happy', u'epic', u'garage rock revival', u'RockPop', u'2004', u'post rock', u'brit rock', u'Rock and Roll', u'Favorite', u'2005', u'2000s', u'6 of 10 stars', u'teen', u'laut', u'Punk Revival', u'songs I absolutely love', u'somafm', u'top song radio', u'topartiststream', u'not full track', u'happy dance', u'21st century', u'loved on first listen', u'BeatbabeBop selection', u'Bagel', u'aceness', u'freakey stylish', u'british and new rock definitely maybe', u'cooper was here', u'over and over and over again']"
+66,I Love You (But You're Green),7658,45280,236000,"[u'pete doherty', u'rock', u'british', u'great lyrics', u'music is my boyfriend', u'nuevo en febrero de 2006', u'parentheses love', u'nicolelove88']"
+67,Pipedown,112840,659930,154000,"[u'indie', u'indie rock', u'rock', u'british', u'alternative', u'babyshambles', u'britpop', u'Garage Rock', u'alternative rock', u'favorites', u'heard on Pandora', u'00s', u'Favourite Songs', u'on repeat', u'pete doherty', u'Favourite song', u'pete', u'Albion', u'doherty', u'seen live', u'Love', u'lalala', u'catchy', u'Awesome', u'london', u'Retro', u'genius', u'party', u'new', u'post rock', u'gorgeous', u'indierock', u'Favorite', u'Obsession', u'Favourites', u'great songs', u'perfect', u'Hmm', u'alltime fave songs', u'all time faves', u'favourite artists', u'Brit', u'more cowbell', u'very british', u'loved tracks', u'Perfect song', u'idle', u'best song', u'Brit indie', u'Peter Doherty']"
+68,Arcady,3848,16787,0,"[u'indie', u'seen live', u'rock', u'indie rock', u'acoustic', u'favourite artists', u'best man ever']"
+69,Loyalty Song,83437,389517,212000,"[u'indie rock', u'indie', u'british', u'alternative', u'britpop', u'rock', u'great lyrics', u'alternative rock', u'brit rock', u'00s', u'great songs', u'pop', u'favorite songs', u'Love', u'london', u'driving music', u'Indie-Rock', u'Garage Rock', u'harmonica', u'post rock', u'glam', u'heard on Pandora', u'love at first listen', u'2005', u'wonderful', u'love the lyrics', u'Soundtrack des Lebens', u'addicting', u'green', u'I was there', u'rural', u'all time favorites', u'Garage-Rock', u'linus', u'fucking CLASSIC', u'my favorite songs', u'pete doherty', u'21st century', u'freakey stylish', u'have this CD', u'at ease', u'synapse', u'today this is my life', u'light up', u'my fave tracks', u'english songs', u'Grim Reaper', u'likely lads', u'can listen', u'Rock a honey']"
+70,Back From the Dead,86269,453516,172000,"[u'indie', u'indie rock', u'british', u'alternative', u'rock', u'britpop', u'babyshambles', u'the libertines', u'sad', u'UK', u'Love', u'great lyrics', u'00s', u'Favorite', u'brilliant', u'babyshambles favorite', u'shoop de-lang de-lang', u'seen live', u'alternative rock', u'singer-songwriter', u'new wave', u'easy listening', u'Awesome', u'london', u'summer', u'Indie-Rock', u'post rock', u'brit rock', u'interesting', u'gorgeous', u'Favourites', u'lovely', u'fashion', u'english', u'2005', u'sweet', u'perfect', u'Love it', u'Soundtrack des Lebens', u'good lyrics', u'mine', u'favourite artists', u'<3', u'clementine', u'yeah', u'heavy rotation', u'songs about death', u'brit pop', u'hit', u'Garage-Rock']"
+71,Mardy Bum,1025057,8650857,175000,"[u'indie rock', u'indie', u'british', u'rock', u'alternative', u'arctic monkeys', u'alternative rock', u'britpop', u'00s', u'brit rock', u'seen live', u'UK', u'Love', u'favorites', u'happy', u'Awesome', u'mardy bum', u'Favourites', u'Britrock', u'Garage Rock', u'artic monkeys', u'indie pop', u'catchy', u'favourite', u'Sheffield', u'2006', u'pop', u'love at first listen', u'english', u'Brit', u'punk', u'post-punk', u'cool', u'pop rock', u'cute', u'punk rock', u'lovely', u'Love it', u'british indie', u'romantic', u'fun', u'brit pop', u'british rock', u'Post-punk revival', u'beautiful', u'Favorite', u'want to see live', u'alternative-rock', u'memories', u'guitar']"
+72,ファム・ファタール～妖婦,363,1754,0,[]
+73,プラザ・レアル,414,2123,0,"[u'jazz', u'japanese', u'saxophone', u'wayne shorter']"
+74,"組曲「ヴィオラ・トリコロール」 3) 第三楽章 金 ""アルトサクソフォンとハープのデュエット"" (菊地成孔のために)",318,1136,0,[]
+75,組曲「ヴィオラ・トリコロール」 2) 第二楽章 赤,357,1443,0,[]
+76,組曲「ヴィオラ・トリコロール」 1) 第一楽章 紫,361,1379,0,[]
+77,チェルシー・ブリッジ,407,2047,0,[]
+78,組曲「キャバレー・タンガフリーク」 4) 夜の全裸,373,1733,0,[]
+79,組曲「キャバレー・タンガフリーク」 3) 儀式,390,1713,0,[]
+80,組曲「キャバレー・タンガフリーク」 2) 生け花,415,1708,0,[]
+81,組曲「キャバレー・タンガフリーク」 1) 孔雀,418,1946,0,[]
+82,はなればなれに,506,3162,0,[]
+83,組曲「キャバレー・タンガフリーク」 2) 生け花,415,1708,0,[]
+84,組曲「キャバレー・タンガフリーク」 1) 孔雀,418,1946,0,[]
+85,エアコンディショナーのTVCMの悪夢,337,1481,0,[]
+86,映画「8 1/2」 ～ それから・・・・(ワルツ)より,297,1350,0,[]
+87,時さえ忘れて,286,1616,0,[]
+88,暗くなるまで待って,258,1333,0,[]
+89,暗くなるまで待って,258,1333,0,[]
+90,嵐が丘,300,1926,0,[]
+91,導引,258,1100,0,[]
+92,時さえ忘れて,286,1616,0,[]
+93,儀式,188,821,0,[]
+94,行列,257,1044,0,[]
+95,アリア 私が土の下に横たわる時,192,816,0,[]
+96,導引,258,1100,0,[]
+97,時さえ忘れて,286,1616,0,[]
+98,暗くなるまで待って,258,1333,0,[]
+99,嵐が丘,300,1926,0,[]
+100,導引,258,1100,0,[]
+101,時さえ忘れて,286,1616,0,[]
+102,儀式,188,821,0,[]
+103,暗くなるまで待って,258,1333,0,[]
+104,嵐が丘,300,1926,0,[]
+105,導引,258,1100,0,[]
+106,時さえ忘れて,286,1616,0,[]
+107,儀式,188,821,0,[]
+108,行列,257,1044,0,[]
+109,アリア 私が土の下に横たわる時,192,816,0,[]
+110,New York Hell Sonic Ballet,280,1317,0,[]
+111,Killing Time,302,1703,0,[]
+112,"Get Me Away from Here, I'm Dying",334181,2053330,205000,"[u'indie', u'indie pop', u'belle and sebastian', u'pop', u'Scottish', u'twee', u'alternative', u'indie rock', u'rock', u'britpop', u'Mellow', u'favorites', u'90s', u'favorite songs', u'british', u'acoustic', u'beautiful', u'seen live', u'sweet', u'twee pop', u'chamber pop', u'lovely', u'Im dying', u'sad', u'happy', u'Love', u'melodic', u'Favourites', u'folk', u'upbeat', u'Bittersweet', u'british i like', u'the most beautiful song in the world', u'get me away from here', u'glasgow', u'nice', u'Favorite', u'lyrics', u'sunday morning', u'positive', u'music to chase squirrels by', u'chill', u'alternative rock', u'UK', u'catchy', u'Awesome', u'scotland', u'summer', u'melancholy', u'chilled']"
+113,There's Too Much Love,117605,619692,225000,"[u'indie', u'alternative', u'indie pop', u'Scottish', u'belle and sebastian', u'Hoje Eu Quero Voltar Sozinho', u'twee', u'rock', u'chamber pop', u'pop', u'british', u'favorite songs', u'folk', u'twee pop', u'beautiful', u'sad songs', u'handclaps', u'clapping', u'sitrc: handclaps', u'Soundtrack', u'seen live', u'indie rock', u'female vocalists', u'singer-songwriter', u'favorites', u'memories', u'Love', u'acoustic', u'Alternative  Punk', u'britpop', u'RockPop', u'kolla upp', u'cinematic', u'violin', u'sunday', u'favourite', u'Bittersweet', u'Uplifting', u'live', u'rock n roll', u'00s', u'alternative pop', u'riot grrrl', u'whistling', u'wow', u'nostalgia', u'electro rock', u'Hmm', u'i love it', u'gute laune']"
+114,Big John Shaft,45978,142806,235000,"[u'indie', u'indie pop', u'alternative', u'twee', u'chamber pop', u'pop', u'rock', u'indie rock', u'relaxed', u'00s', u'english', u'names', u'Soundtrack', u'british', u'folk', u'singer-songwriter', u'Love', u'britpop', u'Scottish', u'beautiful', u'exp', u'Mellow', u'heard on Pandora', u'male vocalists', u'folkrock', u'best song ever', u'relax', u'Friday', u'Hmm', u'pop-folk', u'emusic', u'makes me happy', u'john', u'clementine', u'belle and sebastian', u'happy tunes', u'Jackson 5', u'alt pop', u'songs that make me happy', u'duyster', u'Glasgow Bands', u'coffee break', u'pflicht', u'heard on lastfm', u'jangly guitars', u'Name Droppers', u'lisbe', u'i love you stuart murdoch', u'do you want me to touch', u'sightless movies']"
+115,Storytelling,55842,194707,183000,"[u'indie pop', u'indie', u'alternative', u'pop', u'happy', u'rock', u'piano', u'chamber pop', u'beautiful', u'heard on Pandora', u'Favorite', u'Soundtrack', u'female', u'indie rock', u'twee', u'Love', u'quirky', u'belle and sebastian', u'seen live', u'japanese', u'british', u'alternative rock', u'female vocalists', u'twee pop', u'favorites', u'acoustic', u'sunshine pop', u'Twee as Fuck', u'trumpet', u'feel good', u'scotland', u'Mellow', u'oldies', u'piano rock', u'cool', u'sunshine', u'warm', u'duet', u'Favourites', u'boys and girls singing together', u'Playful', u'innocence', u'youth', u'Yay', u'eclectonia', u'emusic', u'feelgood', u'dance party', u'positive', u'want to see']"
+116,The Model,118369,559475,240000,"[u'indie', u'indie pop', u'twee', u'rock', u'chamber pop', u'Scottish', u'belle and sebastian', u'alternative', u'favorites', u'happy', u'baroque pop', u'seen live', u'pop', u'chill', u'indie rock', u'twee pop', u'chillout', u'alternative rock', u'beautiful', u'violin', u'Mellow', u'heard on Pandora', u'emusic', u'harpsichord', u'the model', u'oh how i love this song', u'Songs that are great', u'baroque', u'favorite songs', u'folk', u'post-rock', u'indiepop', u'Lo-Fi', u'Alternative  Punk', u'RockPop', u'Awesome', u'strings', u'relaxed', u'upbeat', u'male vocal', u'Avant-Garde', u'scotland', u'summer', u'great', u'Sleep', u'amazing', u'Indiesoc faves', u'Bittersweet', u'relaxing', u'fun']"
+117,ANOTHER SUNNY DAY,325265,1955901,0,"[u'indie', u'indie pop', u'alternative', u'belle and sebastian', u'twee', u'pop', u'indie rock', u'happy', u'Scottish', u'summer', u'sunny', u'british', u'indiepop', u'beautiful', u'upbeat', u'alternative rock', u'folk', u'twee pop', u'britpop', u'00s', u'sweet', u'rock', u'singer-songwriter', u'Mellow', u'2006', u'british i like', u'chill', u'best of 2006', u'catchy', u'relaxing', u'fun', u'Another Sunny Day', u'UK', u'Love', u'chamber pop', u'jangle pop', u'feel good', u'scotland', u'nice', u'weather', u'My Favorites', u'Happy Music', u'joyful', u'greatest songs ever', u'Alternative  Punk', u'melodic', u'Favorite Artists', u'nostalgic', u'heard on Pandora', u'sunshine']"
+118,Dear Catastrophe Waitress,182659,970215,142000,"[u'indie', u'indie pop', u'alternative', u'Scottish', u'belle and sebastian', u'twee', u'pop', u'indie rock', u'british i like', u'rock', u'fun', u'amayzes loved', u'favorites', u'catchy', u'davaho53', u'british', u'favorite songs', u'folk', u'indiepop', u'chamber pop', u'beautiful', u'Mellow', u'Favorite Artists', u'soft', u'00s', u'Good Stuff', u'My Favorites', u'seen live', u'Favorite Bands', u'female vocalists', u'singer-songwriter', u'pop rock', u'happy', u'acoustic', u'Alternative  Punk', u'britpop', u'other', u'2003', u'strings', u'violin', u'good shit', u'aa', u'favourite', u'music to dance to', u'Berlin', u'fip', u'loved', u'sleepytime', u'Precious', u'Favourites']"
+119,Rock And Roll,115396,424956,0,"[u'rock', u'classic rock', u'60s', u'psychedelic', u'Rock and Roll', u'proto-punk', u'alternative', u'Psychedelic Rock', u'70s', u'Favourite Songs', u'pop', u'experimental', u'classic', u'garage', u'1970', u'rock out in your cube', u'punk', u'new york', u'pop rock', u'Avant-Garde', u'american', u'The Velvet Underground', u'Velvet Underground', u'red shoes ecstasy', u'Soundtrack', u'indie rock', u'happy', u'art rock', u'Garage Rock', u'favourite', u'cool', u'a subtle use of vocal harmony', u'extensive vamping', u'major key tonality', u'acoustic rhythm guitars', u'mixed acoustic and electric instrumentation', u'fucking incredible', u'prominent organ', u'political lyrics', u'groovy jazzy goodness', u'pop rock qualities', u'an emotional male lead vocal performance', u'an electric guitar solo', u'heavy metal', u'metal', u'seen live', u'indie', u'chill', u'alternative rock', u'hard rock']"
+120,Changes,639083,3507464,213000,"[u'classic rock', u'rock', u'glam rock', u'70s', u'british', u'david bowie', u'bowie', u'pop', u'glam', u'80s', u'singer-songwriter', u'alternative', u'classic', u'art rock', u'changes', u'favorites', u'male vocalists', u'piano', u'alternative rock', u'new wave', u'1971', u'indie', u'Favorite', u'Favourites', u'experimental', u'live', u'electronic', u'Progressive rock', u'UK', u'pop rock', u'Love', u'catchy', u'oldies', u'upbeat', u'Favourite Songs', u'Rolling Stone 500 Greatest Songs of All Time', u'britpop', u'amazing', u'melancholic', u'time', u'british i like', u'shrek', u'british rock', u'seen live', u'beautiful', u'Awesome', u'england', u'Progressive', u'favourite', u'fun']"
+121,Creep,1521028,12768937,233000,"[u'alternative', u'rock', u'alternative rock', u'radiohead', u'indie', u'90s', u'british', u'britpop', u'creep', u'indie rock', u'sad', u'melancholy', u'favorites', u'melancholic', u'Awesome', u'Grunge', u'Love', u'beautiful', u'Mellow', u'Favourites', u'depressing', u'rock band', u'male vocalists', u'favorite songs', u'UK', u'Progressive rock', u'electronic', u'favourite', u'Favorite', u'1993', u'thom yorke', u'so fucking special', u'pop', u'emo', u'experimental', u'amazing', u'classic', u'Soundtrack Of My Life', u'radiohead - creep', u'chill', u""90's"", u'best songs ever', u'art rock', u'emotional', u'Psychedelic Rock', u'Favourite Songs', u'epic', u'Love it', u'fucking beautiful', u'seen live']"
+122,Back From the Dead,86269,453516,172000,"[u'indie', u'indie rock', u'british', u'alternative', u'rock', u'britpop', u'babyshambles', u'the libertines', u'sad', u'UK', u'Love', u'great lyrics', u'00s', u'Favorite', u'brilliant', u'babyshambles favorite', u'shoop de-lang de-lang', u'seen live', u'alternative rock', u'singer-songwriter', u'new wave', u'easy listening', u'Awesome', u'london', u'summer', u'Indie-Rock', u'post rock', u'brit rock', u'interesting', u'gorgeous', u'Favourites', u'lovely', u'fashion', u'english', u'2005', u'sweet', u'perfect', u'Love it', u'Soundtrack des Lebens', u'good lyrics', u'mine', u'favourite artists', u'<3', u'clementine', u'yeah', u'heavy rotation', u'songs about death', u'brit pop', u'hit', u'Garage-Rock']"
+123,チェルシー・ブリッジ,407,2047,0,[]
+124,組曲「キャバレー・タンガフリーク」 4) 夜の全裸,373,1733,0,[]
+125,組曲「キャバレー・タンガフリーク」 3) 儀式,390,1713,0,[]
+126,組曲「キャバレー・タンガフリーク」 2) 生け花,415,1708,0,[]
+127,組曲「キャバレー・タンガフリーク」 1) 孔雀,418,1946,0,[]
+128,はなればなれに,506,3162,0,[]
+129,a 7days wonder,10353,115552,279000,"[u'alternative rock', u'J-rock', u'indie', u'rock', u'japanese', u'Progressive rock', u'post-hardcore', u'noisy and beautiful', u'alternative', u'2009', u'indie rock', u'shoegaze', u'Dreamy', u'Progressive', u'00s', u'love at first listen', u'j-indies', u'Math-rock', u'electro-funk', u'Indies', u'dat bass', u'japanese post-hardcore', u'high hz overlay', u'epic pureness', u'i heard xbox']"
+130,mib126,8654,84368,322000,"[u'Progressive rock', u'J-rock', u'indie', u'japanese', u'alternative', u'alternative rock', u'math rock', u'epic', u'intense', u'post-hardcore']"
+131,Telecastic fake show,14299,213683,268000,"[u'J-rock', u'rock', u'post-hardcore', u'japanese', u'J-Indie', u'post-rock', u'Progressive rock', u'japanese rock', u'alternative', u'math rock', u'experimental', u'prog', u'2008', u'Experimental Rock', u'shoegaze', u'psychedelic', u'japan', u'post hardcore', u'mathcore', u'title track', u'japan post-hardcore', u'rare voice']"
+132,mib126,8654,84368,322000,"[u'Progressive rock', u'J-rock', u'indie', u'japanese', u'alternative', u'alternative rock', u'math rock', u'epic', u'intense', u'post-hardcore']"
+133,moment A rhythm (short ver.),9443,89590,438000,"[u'ambient', u'alternative rock', u'2009', u'post-rock', u'Progressive rock', u'epic', u'Progressive', u'postrock', u'melancholic', u'post rock']"
+134,Tremolo+A,10078,103041,236000,"[u'indie', u'japanese', u'alternative', u'alternative rock', u'experimental', u'indie rock', u'Progressive rock', u'Experimental Rock', u'shoegaze', u'Progressive', u'post-hardcore', u'J-rock', u'love at first listen', u'intricate']"
+135,seacret cm,9930,117182,245000,"[u'shoegaze', u'alternative rock', u'post-rock', u'atmospheric']"
+136,JPOP Xfile,12077,161825,240000,"[u'J-rock', u'japanese', u'math rock', u'indie rock', u'post-hardcore', u'indie', u'alternative', u'emo', u'beautiful', u'screamo', u'Rocking', u'j-pop', u'Indies J-Rock', u'kininaru']"
+137,Hysteric phase show,10472,107275,215000,"[u'indie', u'japanese', u'alternative', u'math rock', u'post-hardcore', u'J-rock']"
+138,ハカイヨノユメ,10716,117248,276000,"[u'indie', u'japanese', u'alternative', u'math rock', u'post-hardcore', u'J-rock', u'fuck', u'shivers', u'god tier', u'fuckfuckfuck']"
+139,COOL J,9194,96225,236000,"[u'J-rock', u'indie', u'rock', u'love at first listen', u'j-indies', u'noisy and beautiful']"
+140,nakano kill you,10423,134512,190000,"[u'rock', u'alternative rock', u'J-rock', u'indie', u'japanese', u'math rock', u'Progressive rock', u'shoegaze', u'Japanese Indie', u'mathcore', u'j-indies', u'noisy and beautiful', u'riotous alt rock']"
+141,CRAZY感情STYLE,6775,63479,300000,"[u'indie', u'alternative']"
+142,Sadistic Summer,8477,87579,266000,"[u'japanese rock', u'J-Indie', u'My Favorites']"
+143,O.F.T,7377,68401,291000,"[u'favorite songs', u'japanese rock', u'alternative rock', u'My Favorites', u'najlepsze piosenki']"
+144,鮮やかな殺人,8311,95036,285000,"[u'alternative rock', u'rock', u'J-rock', u'noisy and beautiful', u'japanese', u'catchy', u'2005', u'j-indies', u'Favourite songs ever', u'Favourite bands', u'very cool', u'strasse', u'riotous alt rock', u'was stuck in my head', u'recent favourite', u'early morning walks']"
+145,映画「バターフィールド08」 ～ バターフィールド8のテーマ,328,1776,0,[]
+146,Come Back Margaret,132528,653368,227000,"[u'indie pop', u'indie', u'female vocalists', u'twee', u'pop', u'Scottish', u'handclaps', u'amayzes loved', u'alternative', u'female vocalist', u'sweet', u'come back Margaret', u'seen live', u'female', u'rock', u'Dreamy', u'orchestral', u'00s', u'Camera Obscura', u'davaho53', u'chamber pop', u'Twee as Fuck', u'glasgow', u'pretty', u'Favorite', u'lovely', u'adorable', u'british', u'folk', u'indie rock', u'twee pop', u'best of 2006', u'slow', u'Love', u'indiepop', u'easy listening', u'britpop', u'other', u'Awesome', u'strings', u'loud', u'90s', u'Retro', u'vocals', u'peace', u'Mellow', u'k', u'soft', u'ethereal', u'female vocals']"
+147,Tears For Affairs,159175,854784,246000,"[u'indie', u'indie pop', u'female vocalists', u'Scottish', u'twee', u'pop', u'Mellow', u'indie rock', u'Camera Obscura', u'female vocalist', u'sweet', u'alternative', u'Love', u'Retro', u'female vocals', u'lovely', u'female', u'british', u'twee pop', u'favorites', u'cute', u'rock', u'Flutter', u'Tears for AFFAIRS', u'folk', u'girls', u'Brit', u'That day was mine and everyone else knows it', u'Nice cafe sounding songs', u'MRW', u'chamber pop', u'romantic', u'shoegaze', u'dream pop', u'scotland', u'pretty', u'gentle', u'soft', u'most female singers', u'love at first listen', u'2006', u'easy', u'blue', u'castanets', u'break-up songs', u'fucking beautiful', u'songs I absolutely love', u'unconscionably good', u'Musical orgasm', u'for the painfully alone']"
+148,"Lloyd, I'm Ready To Be Heartbroken",224859,1426769,227000,"[u'indie pop', u'indie', u'female vocalists', u'Scottish', u'twee', u'pop', u'alternative', u'Camera Obscura', u'indie rock', u'Love', u'sweet', u'happy', u'00s', u'best of 2006', u'cute', u'strings', u'female vocalist', u'lloyd', u'female', u'twee pop', u'favorites', u'catchy', u'heartbroken', u'rock', u'british', u'indiepop', u'glasgow', u'scotland', u'Mellow', u'music to do little jumpy happy dances to', u'Twee as Fuck', u'beautiful', u'female vocals', u'Heartbreaking', u'2006', u'Awesome', u'Rainy Day', u'fun', u'Favorite', u'Sigh and swoon in equal measure', u'Favourites', u'title is a full sentence', u'Perfect Pop', u'so catchy it should be outlawed', u'Resistance is futile', u'i want to marry this song', u'crazy indiepop dancing', u'extremely catchy', u'bike ride music', u'favorite songs']"
+149,Introductions & Announcements,2414,10050,96000,[u'jazz']
+150,SUPER GENERATION,7234,105162,361000,"[u'j-pop', u'seiyuu', u'Nana Mizuki', u'japanese', u'JPop', u'voice actress', u'pop', u'female vocalists', u'Asian', u'asian music', u'Asian Pop', u'upbeat', u'anime', u'beautiful voice', u'Jpop women solo', u'Elements Garden', u'a-pop', u'voice act']"
+151,POWER GATE,5699,91971,275000,"[u'JPop', u'j-pop', u'voice actress', u'japanese', u'seiyuu', u'female vocalists', u'Asian', u'female vocalist', u'sing-along', u'asian music', u'Nana Mizuki', u'Asian Pop', u'Topa J-Rock', u'mae-muki']"
+152,Constipation Blues,16301,36911,330000,"[u'blues', u'humourous', u'a song about real pain', u'Rock and Roll', u'rhythm and blues', u'hilarious', u'Classic Blues', u'soul', u'whimsical', u'humor', u'funny', u'amusing', u'jazz or blues', u'Toilet Humour', u'peculiar', u'nice elevator music', u'Strange Music', u'favourite tracks', u'looney', u'my life', u'dif', u'gotanygoodmusic', u'halftoned singles club', u'slow mo', u'best mouth in rock', u'Fecal', u'hi fidelity', u'2giveme5', u'codepuce', u'pm stuff', u'keeping it real', u'ub', u'fucking insanity', u'etcetera', u'BLUEZZZ', u'Mondo Frinko', u'Constipation Blues', u'song about real pain', u'stigrancazzi', u'mi HO preso una pasta per sballare', u'opporcaputt', u'for j', u'budala rabota', u'have to shit', u'dakor']"
+153,I Love You,827,1949,257000,"[u'blues', u'rhythm and blues']"
+154,Stone Crazy,3213,7813,148000,"[u'blues', u'rhythm and blues', u'aberrant mental states']"
+155,Do You Really Love Me?,4971,14353,130000,"[u'blues', u'title is a full sentence']"
+156,Feast of the Mau Mau,7029,18827,209000,"[u'rhythm and blues', u'blues', u'60s', u'weird', u'food', u'Ghoul', u'2giveme5', u'voodoo  blues', u'gimpels favourite']"
+157,What That Is!,2615,7210,142000,"[u'rhythm and blues', u'blues']"
+158,Wang Dang Doodle,75912,193061,300000,"[u'blues', u'Chicago Blues', u'howlin wolf', u'electric blues', u'guitar', u'rhythm and blues', u'Classic Blues', u'blues guitar', u'60s', u'american', u'male vocalist', u'soul', u'delta blues', u'wolf', u'blues classic', u'whiskey drinking music', u'zonk', u'Awesome Guitar Jam', u'sexy blues', u'blues legend', u'chillout', u'rock', u'classic', u'favorites', u'world', u'electric guitar', u'train', u'oldies', u'party', u'spiritual', u'blues rock', u'fip', u'heard on Pandora', u'best song ever', u'warm', u'Awesome Guitar Jams', u'drinking', u'vocalists', u'solyaris', u'Black', u'guitar rock', u'Fuck yes', u'great voice', u'Old Blues', u'17', u'blue', u'rough', u'nasty', u'bluesrock', u'gritty']"
+159,Poor Boy,33425,82022,247000,"[u'blues', u'Chicago Blues', u'electric blues', u'and carry me away', u'rock', u'soul', u'guitar', u'rhythm and blues', u'chicago', u'freedom', u'GiLA', u'blues guitar', u'6 of 10 stars', u'blue', u'1967', u'keyboards', u'howlin wolf', u'i feel good', u'sexy soul', u'blues singer', u'luisa', u'Hartz IV', u'Chicagoblues', u'urbanblues', u'west side chicago blues', u'bluz', u'double-ender 4', u'amja', u'tungt09-', u'Blues Tunes', u'brownie mc ghee', u'radio-ffer2']"
+160,Worried About My Baby,21408,51409,176000,"[u'blues', u'Chess Records', u'rock', u'Classic Blues', u'howlin wolf', u'allboutguitar', u'German Blues Lovers', u'BRC Blues Band', u'BRC Blues Band Karlsruhe', u'BRC Blues Band - Juke And The Blue Joint', u'allboutGuitar Lessons - Blues Workshops', u'allbout Guitar Lessons - Blues Workshops Karlsruhe', u'allbout Guitar Lessons Karlsruhe', u'guitar', u'blues rock', u""Rock 'n' Roll"", u'Chicago Blues', u'freedom', u'eric clapton', u'harmonica blues', u'steve winwood', u'i feel good', u'rockability', u'babies and babylon', u'west side chicago blues', u'Blues Rock Club Radio Karlsruhe', u'blues rock radio deutschland', u'double-ender 4', u'allboutGuitarcom', u'Blues-Rockclub', u'allboutGuitar Lesson', u'-------------------------------------------', u'like a fire', u'Walter Buddy Freter', u'lautfm bluesclub', u'wwwlautfmbluesclub', u'Walter Mojo Freter', u'gitarrenunterricht in karlsruhe', u'allboutguitar Karlsruhe', u'blues rock radio germany', u'blues rock radio germany deutschland', u'radio-ffer2']"
+161,Highway 49,27827,67498,170000,"[u'blues', u'Chicago Blues', u'guitar', u'allboutguitar', u'west side chicago blues', u'ironman blues', u'BRC Blues Band', u'BRC Blues Band Karlsruhe', u'wwwlautfmbluesclub', u'american', u'oldies', u'blues rock', u'delta blues', u'freedom', u'Favourite Songs', u'transportation', u'satisfaction', u'howlin wolf', u'harmonica blues', u'Karlsruhe', u'3 of 10 stars', u'LKS', u'General Blues', u'hwolf', u'Gitarrenunterricht', u'h3', u'bluz', u'Blues Rock Club Radio Karlsruhe', u'blues rock radio deutschland', u'stepping into muddy water', u'double-ender 4', u'allboutGuitarcom', u'chaser i', u'tungt09-', u'howlin wolf-highway 49', u'Walter Buddy Freter', u'lautfm bluesclub', u'yet another 4', u'radio as i want it', u'Walter Mojo Freter', u'BluesRockclub Radiostation', u'breakingbluesnews', u'allbout Guitar Lessons - Blues Workshops Karlsruhe', u'lautfmbluesclub', u'blues rock radio germany', u'bounced', u'gr bl', u'gr ya3', u'blues rock radio germany deutschland', u'friends5']"
+162,Do the Do,24834,60278,133000,"[u'blues', u'Chicago Blues', u'jazz', u'70s', u'3', u'good shit', u'delta blues', u'freedom', u'legends', u'Old Blues', u'howlin wolf', u'for sex', u'3 of 10 stars', u'fear and loathing', u'gotanygoodmusic', u'halftoned singles club', u'blues classic', u'bluezzzandlove', u'hi fidelity', u'General Blues', u'pm stuff', u'ub', u'makinout', u'Chicagoblues', u'urbanblues', u'west side chicago blues', u'rockin party', u'Z3PO like this', u'rockabilly soul', u'sticazzi', u'double-ender 4', u'tungt09-', u'do the do', u'bluezzzrockin', u'epileptic shaking', u'stigrancazzi', u'mi HO preso una pasta per sballare', u'do to do', u'radio-ffer2']"
+163,What A Women,22,96,0,[]
+164,Built For Comfort,62907,159904,128000,"[u'blues', u'Chicago Blues', u'Classic Blues', u'delta blues', u'Old Blues', u'blues classic', u'black blues', u'blues rock', u'howlin wolf', u'favorites', u'american', u'comfort', u'zonk blues', u'piano', u'male vocalist', u'amusing lyrics', u'zonk', u'couch potato', u'Wolf Blues', u'slgdmblues', u'classic rock', u'jazz', u'rock', u'reggae', u'americana', u'singer', u'guitar', u'fun', u'funny', u'Favorite', u'electric blues', u'evil', u'Black', u'radio paradise', u'radioparadise', u'pizza', u'3 of 10 stars', u'BFC', u'under three minutes', u'very cool', u'lovage', u'jukebox', u'cooper was here', u'the strombo show', u'blues singer', u'fat jokes', u'loved by fromTopeka', u'BRC Blues Band', u'BRC Blues Band Karlsruhe', u'first time I heard this I completely dug it']"
+165,The Red Rooster,120352,341609,341000,"[u'blues', u'Chicago Blues', u'blues classic', u'guitar', u'jazz', u'howlin wolf', u'Classic Blues', u'60s', u'delta blues', u'1961', u'animals', u'howlin', u'guitar blues', u'critically acclaimed song', u'acclaimed music top 3000 bubbling under', u'chillout', u'vocal', u'favorites', u'dance-pop', u'afternoon', u'american', u'r&b', u'blues rock', u'male vocalist', u'male vocalists', u'rhythm and blues', u'50s', u'standard', u'Awesome Guitar Jams', u'4', u'cleaning', u'solyaris', u'electric blues', u'freedom', u'Black', u'Favourite Songs', u'Seminal', u'boogie woogie', u'birds', u'5', u'compilations', u'H5N1', u'staccato', u'kick ass', u'psychedelic blues', u'old favorites', u'hard blues', u'RnR Hall of Fame 500 songs that shaped rock and roll', u'mislabeled', u'edge']"
+166,Who's Been Talkin',34802,104953,144000,"[u'blues', u'Chicago Blues', u'male vocalist', u'howlin wolf', u'favorite songs', u'american', u'loved', u'underrated', u'4', u'radio paradise', u'radioparadise', u'wolf', u'to cover', u'500 essential songs', u'howlin-wolf-who-s been talkin-']"
+167,I Want To Have A Word With You,1641,3558,245000,"[u'blues', u'blue blues', u'Chicago Blues', u'Deep Blue', u'Howling Wolf', u'tungt09-']"
+168,Goin' Down Slow,38681,97900,244000,"[u'blues', u'delta blues', u'Chicago Blues', u'electric blues', u'Classic Blues', u'harmonica blues', u'rhythm and blues', u'blues guitar', u'howlin wolf', u'allboutguitar', u'zonk blues', u'slgdmblues', u'Blues Tag', u'jazz', u'chill', u'60s', u'piano', u'americana', u'cover', u'american', u'rnb', u'male vocalists', u'piano blues', u'freedom', u'Black', u'acoustic blues', u'gotanygoodmusic', u'halftoned singles club', u'blues classic', u'electric chicago blues', u'Acoustic Chicago Blues', u'blues revival', u'soul-blues', u'electric harmonica blues', u'a classic', u'proper blues', u'Early RB', u'the blues aint nothing but a good man feelin bad', u'pm stuff', u'hwolf', u'The Radio Of Perfection', u'German Blues Lovers', u'nomongo', u'blues men', u'BRC Blues Band', u'on the delta', u'bluz', u'stepping into muddy water', u'playlist 2012', u'double-ender 4']"
+169,Killing Floor,90472,233344,171000,"[u'blues', u'Chicago Blues', u'rhythm and blues', u'Classic Blues', u'howlin wolf', u'rythm and blues', u'classic rock', u'guitar', u'delta blues', u'Urban Blues', u'traditional blues', u'rock', u'folk', u'blues rock', u'Awesome Guitar Jams', u'60s', u'male vocalist', u'Southern Rock', u'Favourites', u'electric blues', u'guitar rock', u'killing floor', u'red shoes ecstasy', u'steach blues', u'vugube62', u'Progressive rock', u'vocals', u'oldies', u'male vocalists', u'Favorite', u'Led Zeppelin', u'chess', u'ironman blues', u'slgdmblues', u'steppenwolf has a similiar song named chicken wolf']"
+170,Scarborough Fair,10504,43836,191000,"[u'female vocalists', u'folk', u'irish', u'new age', u'beautiful', u'vocals', u'female vocal', u'Favourites', u'Hayley Westenra', u'Mellow', u'contemporary classical', u'quiet', u'crossover', u'celtic', u'ruhig', u'sweet voice', u'songs', u'Stunning', u'SC', u'beautiful voices', u'vocals female', u'gnom', u'muhtesem', u'scarborough', u'Dream melodies', u'as heard on slacker', u'grilo', u'fH Projex', u'dance:wiener walzer', u'love this groove to sing chill to', u'Hayley Westenra  Scarborough Fair iin', u'dance:viennese waltz', u'dance:waltz']"
+171,Let Me Lie,15981,43817,306000,"[u'Classical', u'female vocalist', u'female vocalists', u'new age', u'Hayley Westenra', u'celtic', u'folk', u'Love', u'contemporary classical', u'relax', u'chillout', u'pop', u'instrumental', u'ambient', u'romantique', u'world', u'beautiful', u'Mellow', u'2007', u'favourite', u'crossover', u'neo-classical', u'healing', u'delicate', u'first person songs', u'culture', u'the word me', u'the word lie', u'ulubione', u'classical crossover', u'my fav', u'sopran', u'bjarte like', u'flavourspace', u'Favoritt', u'shay', u'operatic pop', u'the word let', u'Nesten bedre enn sex', u'when Bjarte needs to get his ass going WBNTGHAG', u'Bjartes calm down channel', u'Dream melodies', u'soft female voice', u'magicaly', u'm3nosliberaalt', u'm3nos', u'm3noslibera', u'm3noskg', u'm3nosliberaaltggg', u'm3nosliberaaltsg']"
+172,She Moves Through The Fair,4331,17260,276000,"[u'chillout', u'vocal', u'female vocalists', u'new age', u'celtic', u'relax', u'superb', u'gnom', u'Hayley Westenra', u'mellowish']"
+173,Laudate Dominum,944,4174,271000,[u'klein classical favorites']
+174,The Mists Of Islay,3955,12660,148000,"[u'celtic', u'new age', u'female vocalists', u'female vocalist', u'vocal', u'folk', u'easy listening', u'New Zealand', u'gnom', u'femenina', u'AnArtfuldodger', u'brightman', u'evocadora', u'The mists of islay']"
+175,Both Sides Now,23074,67886,223000,"[u'Classical', u'female vocalists', u'Hayley Westenra', u'female vocalist', u'pop', u'vocal', u'jazzysfemvocalist', u'both sides now', u'folk', u'easy listening', u'new age', u'relaxing', u'celtic', u'classical crossover', u'test', u'rock', u'classic', u'alternative', u'ambient', u'favorites', u'Love', u'acoustic', u'world', u'New Zealand', u'Dreamy', u'cover', u'ballard', u'Mellow', u'top', u'contemporary classical', u'favourite', u'irish', u'Kiwi', u'guilty pleasure', u'great lyrics', u'00s', u'2005', u'cover song', u'joni mitchell', u'good music', u'NOT Classical', u'ay', u'popera', u'soft music', u'gnom', u'Brill', u'classical vocals', u'musicspirit', u'operatic pop', u'hypermusic']"
+176,What You Never Know (Won't Hurt You),7987,27632,222000,"[u'female vocalists', u'new age', u'Hayley Westenra', u'Classical', u'Love', u'contemporary classical', u'Westenra', u'chillout', u'pop', u'classic', u'romantic', u'chanson francaise', u'relax', u'Sentimental', u'beautiful voices', u'classical crossover', u'Five Star', u'hayley', u'florentina', u'this is my celine tag', u'New Zealand chick like bocelli']"
+177,0 Mio Babbino Caro,27,142,0,[]
+178,Quanta Qualia,10228,30106,264000,"[u'Classical', u'female vocalists', u'female vocalist', u'classical voices', u'vocal', u'female', u'piano', u'new age', u'beautiful', u'pretty', u'relax', u'neoclassical', u'study', u'writing', u'sarah brightman', u'close harmony', u'classical crossover', u'songs i like', u'Hayley Westenra']"
+179,Scarborough Fair,10504,43836,191000,"[u'female vocalists', u'folk', u'irish', u'new age', u'beautiful', u'vocals', u'female vocal', u'Favourites', u'Hayley Westenra', u'Mellow', u'contemporary classical', u'quiet', u'crossover', u'celtic', u'ruhig', u'sweet voice', u'songs', u'Stunning', u'SC', u'beautiful voices', u'vocals female', u'gnom', u'muhtesem', u'scarborough', u'Dream melodies', u'as heard on slacker', u'grilo', u'fH Projex', u'dance:wiener walzer', u'love this groove to sing chill to', u'Hayley Westenra  Scarborough Fair iin', u'dance:viennese waltz', u'dance:waltz']"
+180,Ave Maria (Caccini),2222,12439,224000,"[u'Classical', u'female vocalists', u'new age', u'study music', u'Hayley Westenra', u'grilo']"
+181,Prayer,37227,124876,261000,"[u'new age', u'celtic', u'female vocalist', u'Classical', u'female vocalists', u'Hayley Westenra', u'chillout', u'prayer', u'vocal', u'relax', u'chill', u'classical crossover', u'Dream melodies', u'a bit celtic', u'opera', u'ambient', u'Vocal Music', u'romantic', u'New Zealand', u'Mellow', u'contemporary classical', u'Favourites', u'hayley westerna', u'Love', u'easy listening', u'beautiful', u'christian', u'relaxing', u'neo-classical', u'ruhig', u'study', u'angelic', u'Secret Garden', u'Makes me dream', u'jazz', u'classic', u'folk', u'slow', u'piano', u'ethereal', u'melancholic', u'quiet', u'loved', u'heard on Pandora', u'mood', u'Ballad', u'vocalists', u'inspiration', u'yes', u'angel']"
+182,Lascia Ch'io Pianga,858,8327,211000,"[u'vocal', u'vocals', u'celtic', u'vocals female']"
+183,Dell'Amore Non Si Sa (duet with Andrea Bocelli),274,1340,0,[]
+184,The Water Is Wide,13506,39704,213000,"[u'Classical', u'celtic', u'female vocalist', u'vocal', u'female vocalists', u'pop', u'new age', u'New Zealand', u'contemporary classical', u'soprano', u'chillout', u'diva', u'relaxing', u'crossover', u'Favorite', u'beautiful voice', u'good listening', u'my favourite songs', u'gnom', u'uber', u'the word is', u'the word water', u'the word wide', u'Haley Westenra', u'endless ocean', u'grilo', u'boidheach', u'fH Projex', u'emozionante', u'Hayley Westenra - the water is wide']"
+185,May It Be (From ''The Fellowship Of The Ring''),569,3656,0,"[u'Classical', u'new age', u'contemporary classical']"
+186,What Goes On (Closet Mix),22090,62140,275000,"[u'rock', u'lovedbybeyondwithin', u'60s', u'alternative', u'indie rock', u'Love', u'psychedelic', u'Mellow', u'Psychedelic Rock', u'proto-punk', u'velvets', u'pure awesomeness', u'devastating', u'boozey', u'Protopunk', u'somafm', u'Bagel', u'loureedhasrhythm', u'good during short runs', u'good during long runs', u'schubidu', u'tastes like grandpa grapefruit', u'i know you have a little life in you yet', u'rumpelmusik', u'schubidu garage', u'schubidu rocknroll', u'ogun la baraka', u'hammond rhodes wurlitzer moog', u'zomg so much prog in d', u'ponyhof']"
+187,Torso,4644,12439,255000,"[u'post-revolutionary pop song', u'industrial', u'electronic', u'electronica', u'experimental', u'funk', u'industrial rock', u'breakbeat', u'eerie', u'1992', u'1990s', u'martial industrial', u'rockin', u'Laibach', u'baylok']"
+188,White Law,4824,13463,263000,"[u'industrial', u'male vocalist', u'1992', u'post-revolutionary pop song', u'english lyrics', u'1990s', u'rockin', u'Laibach', u'El-Nico', u'KAPITAL', u'k1r7m']"
+189,The Hunter's Funeral Procession,2082,5663,334000,[u'played at snakebite']
+190,Neuropa Humbug,717,1565,677000,"[u'experimental', u'techno', u'5 of 10 stars', u'The Divine Taboo', u'misterpleth', u'tbqstp-loved', u'testing 1-2-3']"
+191,Tankens mirakel,2151,16360,220000,[u'ebm']
+192,Hugg det i sten,670,4047,230000,"[u'ebm', u'futurepop', u'ultra mega dance']"
+193,Skål!,921,5720,162000,[u'ebm']
+194,Revolution 2.1,752,4435,212000,[u'ebm']
+195,Popkomplex,1294,9814,257000,"[u'ebm', u'electronic', u'Old school EBM']"
+196,Hela din värld,1318,8451,0,[u'ebm']
+197,Dom kommer tillbaka,976,4695,191000,[u'ebm']
+198,Döden och jag,1690,11268,293000,[u'ebm']
+199,Man överbord,418,2355,270000,[]
+200,Mouse to mouth,52,91,0,[]
+201,Construct,49,94,0,[]
+202,Construct,49,94,0,[]
+203,Construct,49,94,0,[]
+204,Construct,49,94,0,[]
+205,Frog,60,117,0,[]
+206,Frog,60,117,0,[]
+207,Frog,60,117,0,[]
+208,Frog,60,117,0,[]
+209,Kid Napper,53,112,0,[]
+210,Kid Napper,53,112,0,[]
+211,Kid Napper,53,112,0,[]
+212,Kid Napper,53,112,0,[]
+213,Chrome,59,121,0,[]
+214,Chrome,59,121,0,[]
+215,Chrome,59,121,0,[]
+216,Chrome,59,121,0,[]
+217,Dung,65,136,0,[]
+218,Dung,65,136,0,[]
+219,Dung,65,136,0,[]
+220,Dung,65,136,0,[]
+221,Neo Psychick,64,130,0,[]
+222,Neo Psychick,64,130,0,[]
+223,Neo Psychick,64,130,0,[]
+224,Neo Psychick,64,130,0,[]
+225,Wild Fire,63,197,0,[]
+226,Wild Fire,63,197,0,[]
+227,Wild Fire,63,197,0,[]
+228,Wild Fire,63,197,0,[]
+229,Over lap,44,74,0,[]
+230,Over lap,44,74,0,[]
+231,Over lap,44,74,0,[]
+232,Terminal point,23,41,0,[]
+233,Terminal point,23,41,0,[]
+234,Terminal point,23,41,0,[]
+235,Rock out,23,39,0,[]
+236,Rock out,23,39,0,[]
+237,Rock out,23,39,0,[]
+238,Acoustic birds,48,81,0,[]
+239,Acoustic birds,48,81,0,[]
+240,Acoustic birds,48,81,0,[]
+241,Vanish,47,82,0,[]
+242,Vanish,47,82,0,[]
+243,Vanish,47,82,0,[]
+244,Computerstaat,1969,6110,135000,"[u'punk', u'punk rock', u'political', u'deutschpunk', u'german lyrics', u'Slime', u'cover', u'male vocalist', u'German Punk', u'1990', u'1990s', u'cover version', u'left-wing', u'german artists', u'deutsch-punk', u'abwaerts', u'viva la muerte', u'die letzten', u'abwaerts cover', u'mega-influential', u'k1r7m']"
+245,Gerechtigkeit,4468,18420,173000,"[u'punk', u'deutschpunk', u'punk rock', u'political', u'german', u'German Punk', u'deutsch', u'hamburg', u'german lyrics', u'Slime', u'yankees raus', u'1980s', u'old', u'justice', u'1982', u'left-wing', u'german artists', u'politisch', u'mei lieblingsbands', u'die exekutive als rechtsfreier raum', u'die letzten', u'deutsche justiz', u'gerechtigkeit', u'k1r7m']"
+246,Polizei,1891,5840,123000,"[u'punk', u'punk rock', u'political', u'german lyrics', u'cover', u'police', u'deutschpunk', u'German Punk', u'left-wing', u'german artists', u'police and thieves', u'Slime', u'die exekutive als rechtsfreier raum', u'die letzten', u'k1r7m']"
+247,Demokratie,3812,14817,219000,"[u'punk', u'punk rock', u'political', u'german', u'german lyrics', u'deutsch', u'male vocalist', u'deutschpunk', u'German Punk', u'1980s', u'1982', u'democracy', u'left-wing', u'german artists', u'Live recording', u'politisch', u'Slime', u'Slime - Demokratie', u'yankees raus', u'compilation 81 bis 87', u'k1r7m']"
+248,Großer Bruder,1919,6797,146000,"[u'punk', u'deutschpunk', u'german', u'punk rock', u'political', u'German Punk', u'1990', u'1990s', u'6 of 10 stars', u'german lyrics', u'00', u'left-wing', u'german artists', u'attitude', u'80er', u'Slime', u'viva la muerte', u'deutcher punk', u'die letzten']"
+249,Wir müssen hier raus,2033,7697,244000,"[u'punk rock', u'punk', u'cover', u'political', u'german', u'deutschsprachig', u'deutschpunk', u'German Punk', u'friendsofthekingofrummelpop', u'german artist', u'german lyrics', u'left-wing', u'german artists', u'german band', u'songs die so gut sind das ich meiner oma ihr klein haeuschen zwar nicht verkaufen aber zumindest dafuer beleihen wuerde', u'Slime', u'die letzten']"
+250,4. Reich,2898,9909,129000,"[u'punk', u'deutschpunk', u'ska', u'political', u'german', u'male vocalist', u'political punk', u'hardcore punk', u'german lyrics', u'80er', u'Live recording', u'Slime', u'fourth reich', u'live pankehallen 21 1 1984', u'die letzten']"
+251,United,401,1054,170000,"[u'punk iberico', u'lusopunk']"
+252,United,401,1054,170000,"[u'punk iberico', u'lusopunk']"
+253,Sem moral,423,1158,165000,[u'tugacaos']
+254,Sem moral,423,1158,165000,[u'tugacaos']
+255,Auto-estima,445,1276,211000,[]
+256,Auto-estima,445,1276,211000,[]
+257,Obey,475,1336,180000,"[u'portuguese', u'punk iberico', u'lusopunk']"
+258,Obey,475,1336,180000,"[u'portuguese', u'punk iberico', u'lusopunk']"
+259,A solução,370,1017,93000,"[u'punk iberico', u'lusopunk']"
+260,A solução,370,1017,93000,"[u'punk iberico', u'lusopunk']"
+261,I Told You So,1450,4152,124000,[]
+262,The Rock'n'Roll (acoustic),43,94,0,[]
+263,Der Stacheldrahtmann (remix),43,89,0,[]
+264,Intro: Der Stacheldrahtmann,128,224,39000,[]
+265,A Step Back,137,251,269000,[]
+266,Home Town,149,272,187000,[]
+267,It Don't Work,145,493,237000,[]
+268,Festival of Fools,176,629,167000,[]
+269,London Hum,178,666,203000,[]
+270,Cutbacks,162,751,169000,[]
+271,Long Gone,166,350,216000,[]
+272,First One to Sign Up,192,581,181000,[]
+273,I Delete,269,567,181000,[]
+274,Replay,260,547,165000,[]
+275,Replay,260,547,165000,[]
+276,KILLING ME,1033,2757,105000,"[u'80s', u'punk', u'hardcore', u'USA', u'old school']"
+277,no one's ever coming home,426,1125,110000,[]
+278,Die For Life,356,914,224000,[]
+279,Now or Never,4898,13520,39000,"[u'80s', u'alternative', u'punk rock', u'under a minute', u'American Punk', u'real punk']"
+280,Idiots at Happy Hour,5238,15032,58000,"[u'hardcore punk', u'Old School Punk', u'misc', u'under a minute', u'bland', u'All', u'generic', u'fast punk', u'stereotypical', u'nano', u'hardcore thrash punk', u'free waterfall senior', u'milquetoast', u'a dime a dozen', u'expected']"
+281,We Make Sanity,451,1271,166000,[]
+282,Halloween Night,1958,5341,117000,"[u'hardcore punk', u'real punk']"
+283,FALSE MESSIAH,1187,2956,192000,"[u'80s', u'punk', u'hardcore', u'punk rock', u'boston', u'hardcore punk', u'1980s', u'Punk-Rock', u'boston hardcore', u'hardcore-punk', u'Boston Crew', u'boston-hardcore', u'1980s hardcore', u'1980s punk', u'1980s-hardcore', u'1980s-punk', u'1980s american punk', u'1980s-american-punk', u'1980s American hardcore', u'1980s-american-hardcore', u'boston-crew', u'the freeze  false messiah']"
+284,Nothing Left,1205,3435,168000,[]
+285,I'm Too Good For You,695,2270,89000,[]
+286,We're Not The Abnormal Ones,673,1930,96000,[u'title is a full sentence']
+287,Lexicon Devil,606,1844,98000,"[u'punk', u'satan and hell', u'beanoboo']"
+288,Guilty Face,1644,4511,99000,"[u'hardcore punk', u'real punk']"
+289,Refrigerator Heaven,2425,5679,221000,"[u'punk', u'hardcore', u'punk rock', u'80s hardcore', u'hardcore punk', u'80s punk', u'real punk', u'melodic punk', u'free waterfall senior']"
+290,Warped Confessional,1563,4517,105000,[]
+291,No Exposure,1316,3621,150000,[u'real punk']
+292,Food Lava,643,1860,114000,[u'food and drink']
+293,Gardener And The Maid,1192,3062,78000,"[u'punk', u'Old school Hardcore', u'freeze', u'Skaterock', u'Vinyl Fetish Hollywood', u'VinylFetishFavs']"
+294,American Town,1641,4739,142000,"[u'punk rock', u'real punk']"
+295,United,4613,15344,0,[u'under a minute']
+296,Police Beat,5429,19112,0,"[u'The Police', u'bands that would eat children if only they could fit a whole one inside their mouths', u'boston hardcore', u'free range caucasians', u'poo poo', u'PO PO', u'dookie poo', u'the po po']"
+297,Who's To Judge,4073,13086,0,[]
+298,Teach Me Violence,5491,19019,0,"[u'punk', u'Straight Edge', u'under a minute', u'Shady', u'boston hardcore', u'bean town']"
+299,War Threat,5264,18342,0,[]
+300,Headed Straight,5381,19205,0,[]
+301,The Kids Will Have Their Say,5184,19580,0,"[u'punk', u'alternative', u'straightedge']"
+302,How Much Art,5095,18904,0,[u'Old school Hardcore']
+303,V.a.,3284,11795,0,[]
+304,Fun To You,6162,23518,0,[u'under a minute']
+305,Jock Itch,6097,23524,0,"[u'hardcore', u'under a minute']"
+306,Wasted Youth,6592,26044,0,"[u'punk', u'alternative', u'hardcore', u'Straight Edge', u'punk rock', u'old school', u'boston', u'hardcore punk', u'Young', u'youth', u'misc', u'under a minute', u'x', u'All', u'Boston punk', u'American Punk', u'straight-edge', u'straightedge', u'boston hardcore', u'Classic Punk', u'SxE', u'edge', u'free range caucasians', u'free range', u'young people', u'inclusive', u'all-ages', u'auditory', u'you can listen to this', u'this is something you can listen to', u'beneficial', u'sometimes auditory', u'this is beneficial', u'the youth will have their say', u'when punk was not dead']"
+307,Not Normal,6600,26547,0,"[u'punk', u'alternative', u'under a minute', u'straightedge']"
+308,Do You Even Care,1571,5662,0,"[u'punk', u'hardcore', u'aggressive', u'ss', u'Bring back the old last fm', u'Decontrol']"
+309,Fight Back,567,1940,0,"[u'punk rock', u'hardcore punk']"
+310,Boiling Point,12546,64371,51000,"[u'hardcore', u'hardcore punk', u'punk', u'shardcore', u'punk minute']"
+311,03 - Have You,1,14,0,[]
+312,03 - Have You,1,14,0,[]
+313,03 - Have You,1,14,0,[]
+314,03 - Have You,1,14,0,[]
+315,03 - Have You,1,14,0,[]
+316,03 - Have You,1,14,0,[]
+317,03 - Have You,1,14,0,[]
+318,03 - Have You,1,14,0,[]
+319,03 - Have You,1,14,0,[]
+320,03 - Have You,1,14,0,[]
+321,03 - Have You,1,14,0,[]
+322,03 - Have You,1,14,0,[]
+323,02 - Erase,1,15,0,[]
+324,02 - Erase,1,15,0,[]
+325,02 - Erase,1,15,0,[]
+326,02 - Erase,1,15,0,[]
+327,02 - Erase,1,15,0,[]
+328,02 - Erase,1,15,0,[]
+329,02 - Erase,1,15,0,[]
+330,02 - Erase,1,15,0,[]
+331,02 - Erase,1,15,0,[]
+332,02 - Erase,1,15,0,[]
+333,02 - Erase,1,15,0,[]
+334,02 - Erase,1,15,0,[]
+335,01 - Anyway,1,15,0,[]
+336,01 - Anyway,1,15,0,[]
+337,01 - Anyway,1,15,0,[]
+338,01 - Anyway,1,15,0,[]
+339,01 - Anyway,1,15,0,[]
+340,01 - Anyway,1,15,0,[]
+341,01 - Anyway,1,15,0,[]
+342,01 - Anyway,1,15,0,[]
+343,01 - Anyway,1,15,0,[]
+344,01 - Anyway,1,15,0,[]
+345,01 - Anyway,1,15,0,[]
+346,01 - Anyway,1,15,0,[]
+347,Icon,23480,101646,250000,"[u'death metal', u'metal', u'Brutal Death Metal', u'old school death metal', u'seen live', u'brutal', u'grindcore', u'UK', u'90s', u'Death/Doom Metal', u'BOLT THROWER', u'british death metal', u'vollkorn', u'karma-g', u'bolt thrower pl']"
+348,The Ivth Crusade,30514,147439,299000,"[u'death metal', u'metal', u'old school death metal', u'Brutal Death Metal', u'BOLT THROWER', u'black metal', u'brutal', u'grindcore', u'doom metal', u'speed metal', u'90s', u'blabla', u'10 of 10 stars', u'Extreme', u'superb', u'stenchcore', u'no radiohead radio', u'Killer', u'Death/Doom Metal', u'massive assault', u'oldschool deathmetal', u'british death metal', u'killer riffs part1', u'rythmnically powerfull', u'gwds grindcore', u'forever war']"
+349,Never Change,2930,14167,116000,[]
+350,Flash Out,3035,15387,114000,[]
+351,Misery,3361,19948,142000,[u'hc punk']
+352,dommedag,112,502,61000,[]
+353,dommedag,112,502,61000,[]
+354,botha dra te haelvete,18,50,0,[]
+355,botha dra te haelvete,18,50,0,[]
+356,vi vil ikkje ha,119,418,0,[]
+357,vi vil ikkje ha,119,418,0,[]
+358,ingentin e som for,16,50,0,[]
+359,ingentin e som for,16,50,0,[]
+360,det e'kje nakka artig laenger,9,16,0,[]
+361,det e'kje nakka artig laenger,9,16,0,[]
+362,Kyrie eleison,130,410,0,[]
+363,Kyrie eleison,130,410,0,[]
+364,NRK,39,113,0,[]
+365,NRK,39,113,0,[]
+366,Alt for Norge!,156,490,0,[]
+367,Alt for Norge!,156,490,0,[]
+368,til ellen,116,417,0,[]
+369,Dilemma,671,4158,223000,[]
+370,Sorte Ravne,689,4764,119000,[]
+371,Verden I Brand,721,5276,155000,"[u'punk rock', u'Danish Punk', u'melodic punk']"
+372,Undskyld Vi Flygter,1,5,0,[]
+373,Med næb og klør,49,173,193000,[]
+374,The Herald,11840,51263,213000,"[u'death metal', u'old school death metal', u'Death Doom Metal', u'Asphyx', u'Z3PO like this', u'extra doomed']"
+375,Scorbutics,13835,65572,266000,"[u'death metal', u'old school death metal', u'Asphyx', u'metal', u'Brutal Death Metal', u'death doom', u'song is win', u'deathgrindcrust']"
+376,After the Lights Go Out,689,1939,137000,[]
+377,No Love,679,1912,138000,[]
+378,Separate Peace,581,2178,122000,[]
+379,Stupid Girl,516,1418,137000,[u'punk']
+380,What About Me?,749,2183,116000,"[u'punk', u'la punk']"
+381,Harry,178,474,132000,"[u'schrei doch', u'Blut und Eisen', u'k1r7m']"
+382,Wumm,158,586,0,[]
+383,Sehnsucht,214,590,71000,"[u'male vocalist', u'1984', u'1980s', u'german lyrics', u'schrei doch', u'Blut und Eisen', u'k1r7m']"
+384,Stiletto,211,537,167000,"[u'friendsofthekingofrummelpop', u'german lyrics', u'schrei doch', u'Blut und Eisen', u'k1r7m']"
+385,Ford,220,688,48000,"[u'male vocalist', u'1984', u'hardcore punk', u'friendsofthekingofrummelpop', u'1980s', u'german lyrics', u'schrei doch', u'Blut und Eisen', u'k1r7m']"
+386,lange Gesichter,228,647,0,"[u'schrei doch', u'Blut und Eisen']"
+387,Can't Get You Out of My Head,512493,2620788,230000,"[u'pop', u'dance', u'Kylie Minogue', u'female vocalists', u'australian', u'electronic', u'Disco', u'sexy', u'00s', u'party', u'electronica', u'female vocalist', u'catchy', u'kylie', u'Cant Get You Out Of My Head', u'2001', u'Love', u'dance pop', u'female', u'dance-pop', u'fun', u'Guilty Pleasures', u'female vocals', u'electropop', u'pop dance', u'favorites', u'techno', u'la la la', u'rock', u'favourite', u'groovy', u'guilty pleasure', u'anthem', u'classic', u'favorite songs', u'synthpop', u'Aussie', u'electro', u'australia', u'female artists', u'2000s', u'2002', u'Fever', u'club-dance', u'Soundtrack', u'House', u'eurodance', u'top 40', u'sing along', u'Europop']"
+388,Can't Get You Out of My Head,512493,2620788,230000,"[u'pop', u'dance', u'Kylie Minogue', u'female vocalists', u'australian', u'electronic', u'Disco', u'sexy', u'00s', u'party', u'electronica', u'female vocalist', u'catchy', u'kylie', u'Cant Get You Out Of My Head', u'2001', u'Love', u'dance pop', u'female', u'dance-pop', u'fun', u'Guilty Pleasures', u'female vocals', u'electropop', u'pop dance', u'favorites', u'techno', u'la la la', u'rock', u'favourite', u'groovy', u'guilty pleasure', u'anthem', u'classic', u'favorite songs', u'synthpop', u'Aussie', u'electro', u'australia', u'female artists', u'2000s', u'2002', u'Fever', u'club-dance', u'Soundtrack', u'House', u'eurodance', u'top 40', u'sing along', u'Europop']"
+389,Can't Get You Out of My Head,512493,2620788,230000,"[u'pop', u'dance', u'Kylie Minogue', u'female vocalists', u'australian', u'electronic', u'Disco', u'sexy', u'00s', u'party', u'electronica', u'female vocalist', u'catchy', u'kylie', u'Cant Get You Out Of My Head', u'2001', u'Love', u'dance pop', u'female', u'dance-pop', u'fun', u'Guilty Pleasures', u'female vocals', u'electropop', u'pop dance', u'favorites', u'techno', u'la la la', u'rock', u'favourite', u'groovy', u'guilty pleasure', u'anthem', u'classic', u'favorite songs', u'synthpop', u'Aussie', u'electro', u'australia', u'female artists', u'2000s', u'2002', u'Fever', u'club-dance', u'Soundtrack', u'House', u'eurodance', u'top 40', u'sing along', u'Europop']"
+390,Is that your secret？ off vocal,6,14,0,[]
+391,DOOR,150,944,273000,[]
+392,うたたねサンシャイン,279,3289,225000,[]
+393,Strings of My Soul,1594,8851,351000,"[u'japanese', u'instrumental', u'japanese rock', u'J-rock', u'music']"
+394,MY SAD LOVE,1806,11901,238000,"[u'japanese', u'japanese rock', u'J-rock']"
+395,闇の雨,1442,10246,284000,"[u'J-rock', u'rock', u'japanese', u'j-pop', u'soul rock', u""B'z"", u'Koshi Inaba', u'Tak Matsumoto']"
+396,未成年,1448,9641,274000,"[u'japanese', u'J-rock']"
+397,金の愛、銀の愛,233,2552,261000,"[u'sad', u'dark', u'JPop']"
+398,河内音頭,7,20,250000,[]
+399,東京音頭,30,173,0,[]
+400,炭坑節,5,19,0,[]
+401,アラレちゃん音頭,1,4,0,[]
+402,にんにん忍たま音頭,1,5,0,[]
+403,オバケのなみだ,315,1510,290000,[]
+404,Every Single Day,250,1092,376000,[]
+405,そばにいて、ラジオ,240,1247,339000,[]
+406,さよなら Summer Breeze,237,961,300000,[]
+407,シティボーイなアイツ,249,1612,208000,[]
+408,Hello To The World,495,4894,231000,[]
+409,we,257,1007,124000,[]
+410,I Wish,259,1074,312000,[]
+411,Party Girl,283,1299,387000,[]
+412,恍惚,269,1258,233000,[]
+413,君がくれた夏,839,32691,259000,[]
+414,Brand New Tomorrow,307,2296,275000,[]
+415,僕たちの未来,517,5177,264000,[]
+416,オキドキ,4400,68352,262000,"[u'j-pop', u'SKE48', u'japanese', u'female vocalists', u'JPop', u'female singers', u'japanese female vocalists', u'dance', u'catchy', u'Asian', u'idol', u'BK', u'aidoru', u'dont worry', u'idol group', u'akane', u'j-idol', u'ske', u'hey say jump', u'asian group', u'j-disco', u'kuumin', u'shiorin', u'akarin']"
+417,unkown track8,2,2,0,[]
+418,PADDLE (虹 Tour 2016.10.14 KUMAMOTO),130,582,296000,[]
+419,ランニングハイ (虹 Tour 2016.11.7 FUKUI),131,561,335000,[]
+420,CANDY (Studio Live),165,800,284000,[]
+421,つよがり (Studio Live),182,896,311000,[]
+422,涙のあとは,107,564,281000,[]
+423,コイセヨオトメ,107,682,257000,[]
+424,Lucky Clover,108,605,289000,[]
+425,夢のつぼみ,380,7528,298000,[u'j-pop']
+426,春空,122,724,270000,[]
+427,ONE NIGHT KISS,76,394,204000,[]
+428,SILENT SIREN,83,425,220000,[]
+429,きみを想う夜,78,543,275000,[]
+430,STYLISTIC,87,376,233000,[]
+431,僕は泣く,84,1550,290000,[]
+432,わたがし,2174,26723,259000,[u'back number']
+433,君がドアを閉めた後,1369,10443,238000,[]
+434,そのドレスちょっと待った,1262,10135,276000,[]
+435,fish,1552,15671,325000,[]
+436,エンディング,1627,12328,362000,[u'amazing']
+437,はなびら,2027,20909,281000,"[u'j-pop', u'rock', u'japanese', u'JPop', u'Asian', u'amazing', u'band', u'J-rock', u'jrock', u'group', u'asian music', u'asian rock', u'Asian Pop']"
+438,繋いだ手から - alljpop.co -,16,42,0,[]
+439,クリスマスソング - alljpop.co -,20,48,0,[]
+440,助演女優症,1725,14204,303000,[]
+441,ハッピーエンド,94,797,0,[]
+442,花束,2907,39904,288000,"[u'rock', u'j-pop']"
+443,春を歌にして,1246,11566,381000,[u'good']
+444,高嶺の花子さん,2202,38321,295000,[u'Y']
+445,おくりうた,3,3,319000,[]
+446,ラーメン食べたいな,2,2,0,[]
+447,アノソラ,2,2,0,[]
+448,キャッチボール,2,2,0,[]
+449,ラブソング,2,2,0,[]
+450,虹,2,2,0,[]
+451,シンデレラ,4,4,0,[]
+452,ロンリー,2,2,389000,[]
+453,チャイニーズガール,4,7,0,[]
+454,MONDAY,3,3,0,[]
+455,Lens,3,3,0,[]
+456,ジリジリスパーク,42,78,0,[]
+457,ファイター,1742,25980,337000,[]
+458,You were here,1414,16987,324000,[]
+459,孤独の合唱,1047,7200,294000,[]
+460,大我慢大会,1062,7671,246000,[]
+461,パレード,1433,17578,234000,[]
+462,コロニー,2053,23886,316000,[]
+463,宝石になった日,1194,10526,297000,[]
+464,流星群,1145,8352,407000,[]
+465,Butterfly,1506,17132,0,[]
+466,"Hello,world!",5334,84932,248000,[u'j-country']
+467,GO,1349,10582,361000,[]
+468,'Rain Sounds' with no Music 90mins 'Sleep Sounds',1,8,0,[]
+469,優勝者に捧げる曲～Can't Get Over You～,1,16,0,[]
+470,MARIA,298,1689,208000,[]
+471,MARIA,298,1689,208000,[]
+472,Ascendancy,185651,961506,265000,"[u'metalcore', u'metal', u'thrash metal', u'Trivium', u'heavy metal', u'Melodic Death Metal', u'american', u'hardcore', u'metallica', u'rock', u'Nu Metal', u'ascendancy', u'thrash', u'Melodic Thrash Metal', u'East - West SpeedChor', u'speed metal', u'death metal', u'Power metal', u'I love this song', u'2000s', u'current favourites', u'Slipknot', u'nice solo', u'Double Kick', u'KoRn Trivium Avenged Sevenfold Zacky Caliban', u'i wish trivium hadnt went bitch', u'Female fronted metal', u'seen live', u'60s', u'hard rock', u'USA', u'modern', u'Awesome', u'gay', u'screamo', u'amazing', u'Gothic Metal', u'good', u'guilty pleasure', u'Awesome Guitar Jams', u'symphonic metal', u'Favorite', u'guitar virtuoso', u'fav', u'lyrical', u'2005', u'melodic metal', u'overrated', u'FUCKING AWESOME', u'7 of 10 stars']"
+473,湘南SEPTEMBER,1951,7921,273000,[]
+474,Stand Inside Your Love,253410,1365489,254000,"[u'alternative rock', u'rock', u'alternative', u'Grunge', u'90s', u'beautiful', u'Smashing Pumpkins', u'favorites', u'Love', u'melancholy', u'the smashing pumpkins', u'Awesome', u'hard rock', u'Favourites', u'indie', u'billy corgan', u'epic', u'emotional', u'love songs', u'Progressive rock', u'dark', u'intense', u'melancholic', u'heard on Pandora', u'roadtrip', u'lyrics', u'Love it', u'2000', u'everything you always wanted to say but could never find the words', u'seen live', u'favorite songs', u'sad', u'romantic', u'winter', u'favourite', u'male vocalist', u'brilliant', u'FUCKING AWESOME', u'metal', u'indie rock', u'drums', u'longing', u'american', u'amazing', u'underrated', u'Favorite', u'alt rock', u'perfect', u'love song', u'wake up']"
+475,Bullet With Butterfly Wings,769039,4555034,320000,"[u'alternative rock', u'rock', u'90s', u'alternative', u'Grunge', u'Smashing Pumpkins', u'hard rock', u'favorites', u'indie rock', u'angry', u'indie', u'the smashing pumpkins', u'american', u'billy corgan', u'punk', u'Awesome', u'dark', u'seen live', u'Love', u'Favourites', u'angst', u'1995', u'favourite', u'post-grunge', u'classic rock', u'favorite songs', u'Progressive rock', u'metal', u'aggressive', u'Favorite', u'High School', u'All time favourites', u'Energetic', u'rage', u'bullet with butterfly wings', u'pop', u'great lyrics', u'Favourite Songs', u'heavy', u'USA', u'male vocalists', u'chicago', u'nostalgia', u'smashing', u'vampire', u'new wave', u'post-punk', u'beautiful', u'great', u'cool']"
+476,Cherub Rock,597025,3168643,312000,"[u'alternative rock', u'rock', u'Grunge', u'90s', u'alternative', u'Smashing Pumpkins', u'rock band', u'Guitar Hero', u'indie', u'hard rock', u'american', u'1993', u'Guitar Hero 3', u'the smashing pumpkins', u'billy corgan', u'guitar', u'indie rock', u'favorites', u'cherub rock', u'seen live', u'guitar hero III', u'90s Rock', u'pumpkins', u'classic rock', u'post-punk', u'post-grunge', u'pop', u'epic', u'Awesome', u'Garage Rock', u'High School', u'beautiful', u'heard on Pandora', u'male vocalists', u'chicago', u'hitch24soab', u'classic', u'heavy', u'Progressive rock', u'catchy', u'drums', u'male vocalist', u'Favourites', u'alt rock', u'good riffs', u'1990s', u'Roctronik', u'theo73 loves this music', u'albums I own', u'Alternative  Punk']"
+477,Silhouette,1249,6138,398000,[]
+478,Reptilia,1140808,8367153,221000,"[u'indie rock', u'rock', u'indie', u'alternative', u'alternative rock', u'The Strokes', u'Garage Rock', u'post-punk', u'00s', u'new york', u'rock band', u'favorites', u'american', u'Strokes', u'garage rock revival', u'Guitar Hero', u'2003', u'Energetic', u'Awesome', u'reptilia', u'Favorite', u'FUCKING AWESOME', u'seen live', u'british', u'Love', u'indie pop', u'Guitar Hero 3', u'party', u'punk rock', u'male vocalists', u'NYC', u'garage', u'britpop', u'sexy', u'USA', u'Favourites', u'favorite songs', u'2000s', u'Post-punk revival', u'Favourite Songs', u'rock alternativo', u'Lo-Fi', u'excellent', u'amazing', u'favourite', u'heard on Pandora', u'Good Stuff', u'guitar hero III', u'my music', u'The Strokes - Reptilla']"
+479,Wild Horses,601912,2774615,341000,"[u'classic rock', u'rock', u'the rolling stones', u'70s', u'british', u'blues rock', u'blues', u'60s', u'rolling stones', u'Wild Horses', u'oldies', u'Mellow', u'rock ballads', u'acoustic', u'Ballad', u'1971', u'beautiful', u'favorites', u'Love', u'male vocalists', u'Rock and Roll', u'classic', u'guitar', u'melancholy', u'melancholic', u'country rock', u'rock ballad', u'sad', u'slow', u'pop', u'folk', u'hard rock', u'ballads', u'rock n roll', u'blues-rock', u'british invasion', u'Favourite Songs', u'Sticky Fingers', u'chillout', u'chill', u'1970s', u'horses', u'Stones', u'calm', u'easy listening', u'soft rock', u'folk rock', u'Favourites', u'acoustic guitar', u'epic']"
+480,Under My Thumb,621680,2944378,200000,"[u'classic rock', u'rock', u'60s', u'the rolling stones', u'british', u'rolling stones', u'british invasion', u'Rock and Roll', u'pop', u'oldies', u'blues rock', u'1966', u'Under My Thumb', u'hard rock', u'blues', u'male vocalists', u'xylophone', u'classic', u'rock n roll', u'Stones', u'Progressive rock', u'70s', u'UK', u'favorites', u'The Rolling Stones - Under My Thumb', u'favourite', u'1960s', u'psychedelic', u'party', u'mick jagger', u'guitar', u'great song', u'mixed acoustic and electric instrumentation', u'golden oldies', u'60s rock', u'scott pilgrim', u'an electric guitar solo', u'Morose Deep dilate Crimson', u'soul', u'favorite songs', u'catchy', u'britpop', u'beautiful', u'Awesome', u'male vocalist', u""60's"", u'British Blues', u'Favourites', u'8 of 10 stars', u'Love it']"
+481,Paint It Black,1150752,6791830,226000,"[u'classic rock', u'rock', u'60s', u'the rolling stones', u'british', u'Paint It Black', u'oldies', u'rolling stones', u'classic', u'Psychedelic Rock', u'psychedelic', u'rock n roll', u'british invasion', u'Rock and Roll', u'70s', u'favorites', u'1966', u'blues rock', u'Stones', u'blues', u'Guitar Hero', u'hard rock', u'Awesome', u'male vocalists', u'dark', u'sitar', u'legend', u'favorite songs', u'Black', u'Guitar Hero 3', u'Soundtrack', u'Favourites', u'pop', u'Masterpiece', u'party', u'Favorite', u'Legendary', u'seen live', u'80s', u'alternative', u'UK', u'guitar', u'cool', u'great lyrics', u'vietnam', u'Love', u'Driving', u'Full Metal Jacket', u'loved', u'depression']"
+482,Under My Thumb,621680,2944378,200000,"[u'classic rock', u'rock', u'60s', u'the rolling stones', u'british', u'rolling stones', u'british invasion', u'Rock and Roll', u'pop', u'oldies', u'blues rock', u'1966', u'Under My Thumb', u'hard rock', u'blues', u'male vocalists', u'xylophone', u'classic', u'rock n roll', u'Stones', u'Progressive rock', u'70s', u'UK', u'favorites', u'The Rolling Stones - Under My Thumb', u'favourite', u'1960s', u'psychedelic', u'party', u'mick jagger', u'guitar', u'great song', u'mixed acoustic and electric instrumentation', u'golden oldies', u'60s rock', u'scott pilgrim', u'an electric guitar solo', u'Morose Deep dilate Crimson', u'soul', u'favorite songs', u'catchy', u'britpop', u'beautiful', u'Awesome', u'male vocalist', u""60's"", u'British Blues', u'Favourites', u'8 of 10 stars', u'Love it']"
+483,Under My Thumb,621680,2944378,200000,"[u'classic rock', u'rock', u'60s', u'the rolling stones', u'british', u'rolling stones', u'british invasion', u'Rock and Roll', u'pop', u'oldies', u'blues rock', u'1966', u'Under My Thumb', u'hard rock', u'blues', u'male vocalists', u'xylophone', u'classic', u'rock n roll', u'Stones', u'Progressive rock', u'70s', u'UK', u'favorites', u'The Rolling Stones - Under My Thumb', u'favourite', u'1960s', u'psychedelic', u'party', u'mick jagger', u'guitar', u'great song', u'mixed acoustic and electric instrumentation', u'golden oldies', u'60s rock', u'scott pilgrim', u'an electric guitar solo', u'Morose Deep dilate Crimson', u'soul', u'favorite songs', u'catchy', u'britpop', u'beautiful', u'Awesome', u'male vocalist', u""60's"", u'British Blues', u'Favourites', u'8 of 10 stars', u'Love it']"
+484,こぶ取り爺さん,7,13,0,[]
+485,初恋,493,1777,250000,[u'guitar']
+486,初恋,493,1777,250000,[u'guitar']
+487,In Your Eyes,245869,1315321,208000,"[u'pop', u'dance', u'Disco', u'Kylie Minogue', u'female vocalists', u'electronic', u'australian', u'kylie', u'sexy', u'In Your Eyes', u'00s', u'party', u'dance pop', u'female vocalist', u'female', u'electronica', u'House', u'gay', u'favorites', u'90s', u'Fever', u'rock', u'female vocals', u'Favorite', u'Minogue', u'Pop Songs', u'australia', u'eurodance', u'english', u'seen live', u'vocal', u'80s', u'club', u'favourite', u'Favourites', u'2002', u'dance - techno', u'gotanygoodmusic', u'halftoned singles club', u'electrodance', u'love the video', u'pop favorites', u'reminds me of something', u'chill', u'favorite songs', u'happy', u'Love', u'dance-pop', u'Driving', u'Energetic']"
+488,Pink,77200,372266,260000,"[u'Stoner Rock', u'japanese', u'rock', u'Sludge', u'doom metal', u'drone', u'experimental', u'stoner', u'noise rock', u'groove', u'Doom', u'stoner metal', u'Experimental Rock', u'psychedelic', u'noise', u'hard rock', u'Awesome', u'sludge metal', u'FUCKING AWESOME', u'alternative metal', u'hardcore punk', u'southern lord', u'oh yeah', u'alternative', u'heavy', u'aggressive', u'J-rock', u'violent', u'pink', u'jrock', u'colours', u'randomly awesome', u'stoner punk', u'male voice', u'boris', u'noise metal', u'japanese heavy metal', u'churning', u'i specifically told you to turn it up', u'psych boris', u'metal', u'punk', u'Grunge', u'ambient', u'indie rock', u'Love', u'industrial', u'8bit', u'8-bit', u'drums']"
+489,Savitri,43372,173485,227000,"[u'acoustic', u'latin', u'instrumental', u'acoustic guitar', u'spanish guitar', u'world', u'guitar', u'Rodrigo Y Gabriela', u'gimme sum acoustic magic', u'lounge', u'summer', u'favourite', u'fip', u'mexican', u'Flamenco', u'classical guitar', u'uptempo', u'Latin Guitar', u'sunday afternoon', u'Fuck yes', u'rhythmic', u'non english', u'lively', u'Foreign', u'acoustic metal', u'Summer Afternoon', u'sunny afternoon', u'Channel X', u'Flamenco music', u'zcat', u'Majors beloved FM', u'new playlist', u'good for step dancing to']"
+490,うまく言えない,1056,9171,282000,"[u'rock', u'orchestral', u'nostalgic', u'emotional', u'Ballad', u'romance', u'acoustic guitar', u'j music']"
+491,パレオはエメラルド,3338,71379,287000,"[u'SKE48', u'japanese', u'j-pop', u'idol', u'female vocalists', u'JPop', u'summer', u'Asian', u'asian music', u'Asian Pop', u'girl band', u'Girl Groups', u'group', u'aidoru', u'idol group']"
+492,花占い(松井珠理奈),10,17,0,[]
+493,制服を脱ぎたくなって来た,61,179,0,[]
+494,てっぺんとったるて！,7,24,0,[]
+495,あの先の未来まで,63,361,276000,[]
+496,コップの中の木漏れ日,116,1308,263000,[]
+497,ホライズン,38,149,0,[]
+498,ゼロベース,78,276,0,[]
+499,ライフルガール,24,126,0,[]
+500,夏よ、急げ！,10,26,0,[]
+501,DESTRUCTION,45,523,0,[]
+502,Purest,44,200,0,[]
+503,Forget me Not…,46,235,0,[]
+504,魔法少女は嗤う,45,252,0,[]
+505,Betrayal,50,446,0,[]
+506,ピーキーわんだふる！,41,216,0,[]
+507,おやすみパラレル,44,320,0,[]
+508,ユメトユメ,50,256,0,[]
+509,Gonna Jump,187,1667,299000,[]
+510,今の私じゃダメなんだ(須田亜香里),5,9,0,[]
+511,愛してるとか、愛してたとか,63,918,227000,[]
+512,世界が泣いてるなら,333,3990,210000,"[u'japanese', u'j-pop', u'SKE48', u'epic pureness']"
+513,愛のために何を捨てる？,6,18,0,[]
+514,だって 雨じゃない？,15,67,0,[]
+515,アイシテラブル!,1108,35188,214000,[u'idol']
+516,キスだって左利き,1484,36860,300000,"[u'japanese', u'j-pop', u'48', u'idol', u'SKE48']"
+517,チョコの奴隷,1592,38518,242000,"[u'SKE48', u'pop', u'japanese', u'female vocalists', u'JPop', u'Asian', u'j-pop', u'earworm', u'idol', u'akb48']"
+518,美しい稲妻,1191,36580,283000,"[u'SKE48', u'japanese', u'2013', u'j-pop', u'pj48']"
+519,賛成カワイイ！,169,3313,259000,"[u'japanese', u'idol group']"
+520,未来とは？,242,2978,0,"[u'j-pop', u'idol']"
+521,不器用太陽,847,20299,311000,"[u'japanese', u'good', u'j-pop', u'SUN', u'idol', u'aidoru', u'idol group', u'SKE48', u'j-idol', u'ske', u'jurina', u'somehow nostalgic']"
+522,コケティッシュ渋滞中,500,7624,245000,"[u'j-pop', u'japanese', u'idol', u'aidoru', u'idol group', u'SKE48', u'j-idol']"
+523,前のめり,481,9020,254000,[]
+524,チキンLINE,310,4264,292000,"[u'JPop', u'pripara']"
+525,金の愛、銀の愛,233,2552,261000,"[u'sad', u'dark', u'JPop']"
+526,強がり時計,778,20309,288000,"[u'j-pop', u'Perfection', u'kamikyoku', u'could repeat this forever', u'fodastica', u'ugh soo good', u'melhor que a a-side']"
+527,強がり時計,778,20309,288000,"[u'j-pop', u'Perfection', u'kamikyoku', u'could repeat this forever', u'fodastica', u'ugh soo good', u'melhor que a a-side']"
+528,花占い(松井珠理奈),10,17,0,[]
+529,制服を脱ぎたくなって来た,61,179,0,[]
+530,てっぺんとったるて！,7,24,0,[]
+531,あの先の未来まで,63,361,276000,[]
+532,コップの中の木漏れ日,116,1308,263000,[]
+533,ホライズン,38,149,0,[]
+534,ゼロベース,78,276,0,[]
+535,ライフルガール,24,126,0,[]
+536,夏よ、急げ！,10,26,0,[]
+537,ユメトユメ,50,256,0,[]
+538,ピンク スパイダー,1420,15664,220000,[]
+539,Fantastic Story,1196,6328,0,"[u'rock', u'japanese', u'pop rock', u'japanese rock', u'male vocalist', u'J-rock', u'Pop-Rock', u'jrock', u'j rock', u'japanese pop rock', u'boowy']"
+540,Cast No Shadow,395748,1934228,291000,"[u'britpop', u'rock', u'oasis', u'british', u'90s', u'alternative', u'indie', u'alternative rock', u'indie rock', u'brit pop', u'Love', u'pop', u'chill', u'favorites', u'beautiful', u'lovedbygdchill', u'1995', u'Britrock', u'lovedbyale', u'UK', u'calm', u'acoustic', u'brit rock', u'british i like', u'classic rock', u'seen live', u'sad', u'hard rock', u'Awesome', u'relaxing', u'male vocalists', u'british rock', u'classic', u'british trad rock', u'funk', u'nostalgic', u'groovy', u'Favorite', u'SUN', u'Masterpiece', u'jecks', u'poprock', u'sunny morning', u'Oasis - Cast no Shadow', u'dear old dismal england', u'metal', u'jazz', u'soul', u'Rock  Roll', u'funky']"
+541,Some Might Say,554164,2843358,329000,"[u'britpop', u'rock', u'90s', u'oasis', u'british', u'alternative', u'indie', u'alternative rock', u'indie rock', u'1995', u'pop', u'classic rock', u'favorites', u'UK', u'brit pop', u'hard rock', u'Britrock', u'I would play this stuff while driving if I had a car', u'Love', u'british i like', u'guitar', u'Uplifting', u'uk number one', u'some might say', u'favorite songs', u'Awesome', u'upbeat', u'brit rock', u'cool', u'good', u'male vocalist', u'perfect', u'1990s', u'Favourite Songs', u'Brit', u'oasis - some might say', u'metal', u'classic', u'catchy', u'funk', u'psychedelic', u'glam rock', u'Manchester', u'groovy', u'Guitar Hero', u'Favourites', u'jecks', u'6 of 10 stars', u'Good Stuff', u'Brit-pop']"
+542,Wonderwall,1800031,14638996,258000,"[u'rock', u'britpop', u'90s', u'alternative', u'oasis', u'british', u'indie', u'alternative rock', u'wonderwall', u'pop', u'Love', u'favorites', u'indie rock', u'acoustic', u'classic', u'beautiful', u'UK', u'classic rock', u'guitar', u'Awesome', u'Mellow', u'chill', u'brit pop', u'Favourites', u'favorite songs', u'Britrock', u'oasis - wonderwall', u'pop rock', u'brit rock', u'1995', u'nostalgia', u'male vocalists', u'male vocalist', u'Favorite', u'memories', u'cool', u'british rock', u'sad', u'indie pop', u'england', u'romantic', u'melancholy', u'amazing', u'FUCKING AWESOME', u'rock ballad', u'chillout', u'seen live', u'Brit', u'Favourite Songs', u'Manchester']"
+543,Hello,399413,1863656,201000,"[u'britpop', u'rock', u'british', u'oasis', u'90s', u'indie', u'alternative', u'alternative rock', u'indie rock', u'UK', u'1995', u'pop', u'male vocalist', u'male vocalists', u'british i like', u'brit pop', u'classic rock', u'england', u'brit rock', u'hello', u'seen live', u'chill', u'favorite songs', u'favorites', u'acoustic', u'funk', u'Awesome', u'groovy', u'gdchills90s', u'jecks', u'british rock', u'to cheer up my day', u'metal', u'chillout', u'soul', u'funky', u'Manchester', u'World Music', u'Favourites', u'1990s', u'Brit-pop', u'Britrock', u'Noel Gallagher', u'Morning glory', u'Skitz0rz', u'uitluisteren artist', u'holloween skitz0rz']"
+544,NO.NEW YORK [live],7,60,0,[]
+545,IMAGE DOWN [Live Ver.],1,4,0,[]
+546,DREAMIN' [Live Ver.],1,5,0,[]
+547,わがままジュリエット [Live Ver.],1,5,0,[]
+548,ホンキー・トンキー・クレイジー [Live],229,1231,0,[]
+549,BABY ACTION [Live Ver.],1,5,0,[]
+550,JUSTY [Live Ver.],1,5,0,[]
+551,夢を勝ち取ろう,43,225,0,[]
+552,17歳の唄,1530,8812,345000,"[u'pop', u'japanese', u'blues', u'JPop', u'female vocalist', u'j-pop', u'Japanese pop', u'j pop', u'abe mao']"
+553,want you DARLING,1723,11060,262000,"[u'pop', u'japanese', u'JPop', u'female vocalist', u'j-pop', u'Japanese pop', u'j pop', u'abe mao']"
+554,Don't leave me,1581,12097,313000,"[u'pop', u'japanese', u'blues', u'JPop', u'female vocalist', u'j-pop', u'Japanese pop', u'j pop', u'abe mao']"
+555,人見知りの唄～共感してもらえたら嬉しいって話です～,360,2997,0,[]
+556,ふりぃ,2683,28943,237000,"[u'abe mao', u'pop', u'japanese', u'free', u'JPop', u'female vocalist', u'j-pop', u'Japanese pop', u'j pop']"
+557,ウンディーネ,593,5961,127000,"[u'piano', u'instrumental', u'solo', u'Ballad', u'solo piano', u'mina kubota']"
+558,恋とはどんなもの?,237,2392,155000,"[u'instrumental', u'piano', u'solo piano']"
+559,Smile Again,1400,14717,172000,"[u'solo', u'piano', u'Ballad', u'piano aria', u'takeshi senoo']"
+560,遠い小舟,328,3710,168000,[]
+561,夏待ち,350,4280,145000,[]
+562,花冷え,356,4189,146000,[]
+563,AQUA,353,4022,144000,[]
+564,ユーフォリア,613,6243,143000,"[u'solo', u'piano', u'Ballad', u'mina kubota']"
+565,Rainbow,347,3858,185000,"[u'Soundtrack', u'instrumental', u'piano', u'solo piano']"
+566,そして舟は行く -Short Ver.-,214,2201,149000,[]
+567,サンタクロウスの空,544,5622,225000,"[u'piano', u'Soundtrack', u'instrumental', u'solo', u'Ballad', u'solo piano', u'takeshi senoo']"
+568,鐘楼のパトリ ～ネオ・ヴェネツィア～,230,2137,117000,[]
+569,ウンディーネ,593,5961,127000,"[u'piano', u'instrumental', u'solo', u'Ballad', u'solo piano', u'mina kubota']"
+570,恋とはどんなもの?,237,2392,155000,"[u'instrumental', u'piano', u'solo piano']"
+571,Smile Again,1400,14717,172000,"[u'solo', u'piano', u'Ballad', u'piano aria', u'takeshi senoo']"
+572,遠い小舟,328,3710,168000,[]
+573,夏待ち,350,4280,145000,[]
+574,花冷え,356,4189,146000,[]
+575,AQUA,353,4022,144000,[]
+576,ユーフォリア,613,6243,143000,"[u'solo', u'piano', u'Ballad', u'mina kubota']"
+577,Rainbow,347,3858,185000,"[u'Soundtrack', u'instrumental', u'piano', u'solo piano']"
+578,そして舟は行く -Short Ver.-,214,2201,149000,[]
+579,サンタクロウスの空,544,5622,225000,"[u'piano', u'Soundtrack', u'instrumental', u'solo', u'Ballad', u'solo piano', u'takeshi senoo']"
+580,鐘楼のパトリ ～ネオ・ヴェネツィア～,230,2137,117000,[]
+581,ウンディーネ,593,5961,127000,"[u'piano', u'instrumental', u'solo', u'Ballad', u'solo piano', u'mina kubota']"
+582,恋とはどんなもの?,237,2392,155000,"[u'instrumental', u'piano', u'solo piano']"
+583,Smile Again,1400,14717,172000,"[u'solo', u'piano', u'Ballad', u'piano aria', u'takeshi senoo']"
+584,遠い小舟,328,3710,168000,[]
+585,夏待ち,350,4280,145000,[]
+586,花冷え,356,4189,146000,[]
+587,Do the music,1710,4944,262000,[]
+588,Un Cerchio Giallo,553,1233,268000,[u'jazz-rock']
+589,2000 E Due Notti,310,657,335000,[]
+590,Cantilena,531,1152,235000,[]
+591,Alba Di Un Mondo,504,1095,173000,[]
+592,Eucalyptus,1179,2259,58000,"[u'rock progressivo italiano', u'jazz', u'Progressive rock', u'Fusion', u'jazz fusion', u'prog rock', u'italian prog', u'italiana', u'italian prog rock', u'rock progressive', u'Strumentale', u'ITALIAN ROCK PROGRESSIVE', u'ROCK PROGRESSIVE ITALIANO', u'PERIGEO']"
+593,Periplo,606,1296,304000,"[u'Progressive rock', u'italian']"
+594,Pensieri,708,1425,135000,[]
+595,Mistero Della Firefly,507,1121,356000,"[u'70s', u'italiana']"
+596,Looping,837,1773,186000,"[u'70s', u'jazz', u'italian', u'jazz-rock', u'jazzco', u'la valle dei templi']"
+597,La Valle Dei Templi,1072,2221,372000,"[u'Progressive rock', u'jazz', u'jazz-rock', u'italian', u'jazz fusion', u'italian progressive rock', u'jazzco']"
+598,Tamale,747,1726,272000,"[u'Progressive rock', u'jazz fusion', u'italian', u'jazz-rock', u'recos', u'jazzco']"
+599,Over My Head,22818,67436,228000,"[u'experimental', u'post-punk', u'Solomusika-Loved', u'chillout', u'chill', u'rock', u'favorites', u'Experimental Rock', u'psychedelic', u'lounge', u'Avant-Garde', u'american', u'punk rock', u'Chillosophy', u'proto-punk', u'4', u'1977', u'global fusion', u""'70s"", u'over 5 minutes long', u'pere ubu', u'lovedbybeyondwithin', u'the modern dance', u'avant dada mutant psych blues surrealistic superbly disjointed rock', u'Over My Head', u'chill906']"
+600,Real World,23514,71736,240000,"[u'experimental', u'new wave', u'post-punk', u'Solomusika-Loved', u'rock', u'70s', u'strange', u'Experimental Rock', u'Awesome', u'Avant-Garde', u'american', u'punk rock', u'1977', u'avant-garage', u""'70s"", u'Losing My Edge', u'critical theory', u'fast and bulbous', u'good in a strange way', u'khgj']"
+601,06 - Life Stinks,39,88,0,[]
+602,Chinese Radiation,31538,91148,209000,"[u'post-punk', u'experimental', u'Avant-Garde', u'70s', u'new wave', u'pere ubu', u'lizvelrene postpunk', u'rock', u'Cleveland', u'punk', u'Experimental Rock', u'Alternative  Punk', u'Post punk', u'avant garde', u'american', u'punk rock', u'Ohio', u'4', u'countries', u'Left of the Dial', u""'70s"", u'post-music', u'Solomusika-Loved', u'Pre-and-Post Punk', u'I want back to the 80s', u'legion etrang\xe8re', u'TNPHP Birthday Party', u'transitglambat', u'lingua', u'kalijaa', u'lizvelrene post punk', u'pxs: post-punk']"
+603,Street Waves,41400,123410,188000,"[u'post-punk', u'experimental', u'pere ubu', u'punk', u'new wave', u'1978', u'Avant-Garde', u'lizvelrene postpunk', u'rock', u'70s', u'alternative', u'Progressive rock', u'USA', u'Solomusika-Loved', u'miaowing', u'songs from under the floorboards', u'similar to: magazine', u'similar to: minutemen', u'similar to: mission of burma', u'pxs: post-punk', u'alternative rock', u'favorite songs', u'Love', u'jw', u'Experimental Rock', u'morning', u'3', u'art rock', u'punk rock', u'Garage Rock', u'4', u'indie disco', u'Shit Hot', u'anarchy', u'surf punk', u'YuM', u'cats', u'stuff', u'Cleveland', u'Left of the Dial', u'banned', u'psych-rock', u'Over and over', u'avant-garage', u""'70s"", u'david thomas', u'Pre-and-Post Punk', u'I want back to the 80s', u'merkliste', u'i want back to the 70s']"
+604,Laughing,26863,89475,342000,"[u'experimental', u'post-punk', u'rock', u'Avant-Garde', u'american', u'punk rock', u'lizvelrene postpunk', u'similar to: mission of burma', u'jazz', u'punk', u'epic', u'new wave', u'funk', u'Awesome', u'saxophone', u'postpunk', u'10 of 10 stars', u'pixies', u'The Shit', u'avant-garage', u'OWNAGE', u""'70s"", u'over 5 minutes long', u'Losing My Edge', u'Solomusika-Loved', u'favourite tracks of zimziki', u'Brill', u'boogie-rock', u'ubu', u'songs that quote the film badlands', u'Superclean Dreammachine', u'lizvelrene post punk', u'pxs: post-punk']"
+605,02 - Modern Dance,16,49,0,[]
+606,TSB,1,1,0,[]
+607,Joseph's Song,1,67,0,[]
+608,Bubble Guppies,1,90,0,[]
+609,Team Umizoomi,1,79,0,[]
+610,We Did It,1,64,0,[]
+611,Shimmer and Shine,1,51,0,[]
+612,Oldfield,1,81,0,[]
+613,Dora the Explorer,1,80,0,[]
+614,Little Charmers,1,64,0,[]
+615,Swashbuckle,1,24,0,[]
+616,Bathtime and Bubbles,1,15,0,[]
+617,Space Orgy,5464,18349,291000,"[u'post-hardcore', u'indie rock', u'Progressive']"
+618,Sea Of Glass,70,227,485000,[]
+619,On The Dark Side Of The Sun,94,259,311000,[]
+620,The Summit,101,298,246000,[]
+621,Theme Tune,1,5,0,[]
+622,Matchstalk Men and Matchstalk Cats and Dogs,279,2950,271000,"[u'70s', u'novelty', u'UK number ones', u'UK Gold', u'alans deep bath']"
+623,Shisheido,39437,142200,175000,"[u'ambient', u'experimental ambient', u'electronic', u'glitch', u'drone', u'experimental', u'summer', u'instrumental', u'sea', u'chillout', u'jazz', u'alternative', u'down tempo', u'downtempo', u'electro', u'slow', u'strange', u'other', u'guitar', u'Dreamy', u'Hope', u'Sleep', u'ethereal', u'mego', u'emd', u'nice', u'austrian', u'warm', u'shoegazer', u'4', u'chill out', u'SUN', u'E', u'sunset', u'soothing', u'ambient electronic', u'prda', u'electroacoustic improv', u'post-digital', u'rob pike', u'11111111111', u'Shisheido', u'Romantic Ambient']"
+624,Caecilia,44164,167035,206000,"[u'ambient', u'electronic', u'glitch', u'ambient electronic', u'experimental', u'idm', u'drone', u'beautiful noise', u'experimental ambient', u'fennesz', u'Love', u'minimal', u'beautiful', u'atmospheric', u'mego', u'electronica', u'instrumental', u'alternative', u'downtempo', u'Awesome', u'melodic', u'Dreamy', u'feel good', u'Fox', u'filmic', u'space', u'Mellow', u'great', u'melancholy', u'Sleep', u'gentle', u'electroacoustic', u'emd', u'melancholic', u'nice', u'good', u'bliss', u'00s', u'warm', u'soundscapes', u'Favorite', u'fav', u'lovely', u'sunset', u'light', u'feedback', u'metro downtempo', u'prda', u'Cloud', u'granular synthesis']"
+625,"Ra at Dawn, Part II {Numbed by Her Light}",2018,4616,856000,[]
+626,ash on the trees (the sudden ebb of a diatribe),724,1896,1028000,[]
+627,"Ra At Dawn Part I (Rapture, At Last)",47,116,0,[]
+628,Dysnystaxis (A Chance Meeting With Somnus),6,11,0,[]
+629,Sonate-Fantaisie in G sharp minor,6,25,0,[]
+630,Sonata No. 10,12,33,0,[]
+631,Sonata No. 9: Messe Noire,1,9,0,[]
+632,Sonata No. 8,6,24,0,[]
+633,Sonata No. 7: Messe Blanche,1,8,0,[]
+634,Sonata No. 6,10,30,0,[]
+635,Sonata No. 5,34,93,0,[]
+636,I Can Only Disappoint You,5654,20474,429000,"[u'post-rock', u'doom metal', u'drone', u'slowcore']"
+637,Aureated Skin,5541,16825,406000,"[u'post-rock', u'doom metal', u'Sludge', u'drone', u'Post-Metal']"
+638,Annul,6386,19543,436000,"[u'metal', u'doom metal', u'Sludge', u'drone', u'industrial metal', u'industrial post-metal']"
+639,Dethroned,8905,28223,432000,"[u'metal', u'adult swim', u'Post-Metal', u'industrial post-metal']"
+640,Rituale,446,1102,345000,"[u'Progressive rock', u'Avant-Garde', u'symphonic prog', u'chamber rock', u'Avant-Prog', u'musical gem']"
+641,Oro,665,1510,210000,"[u'Progressive rock', u'symphonic prog', u'chamber rock', u'Avant-Prog']"
+642,Deliée,27,191,0,[]
+643,"Ah, douleur",669,1763,255000,[]
+644,Il pavone,804,2415,292000,"[u'Progressive rock', u'symphonic prog', u'chamber rock']"
+645,Monologo,749,1729,157000,"[u'psychedelic', u'Avant-Garde', u'contemporary classical', u'Avant-Prog', u'Experimental Psychedelic']"
+646,L'altalena,677,1825,335000,"[u'Progressive rock', u'symphonic prog', u'chamber rock', u'recos2']"
+647,La marmellata,461,1374,153000,"[u'Progressive rock', u'symphonic prog', u'chamber rock', u'Avant-Prog']"
+648,Les Plaisirs Sont Deux,214,604,217000,[]
+649,Introspezione,875,2224,120000,"[u'70s', u'Progressive rock', u'Avant-Garde', u'italian progressive rock', u'italian rock', u'Avant-Prog', u'noise avant-garde']"
+650,Total Eclipse of the Sun,16786,83997,232000,"[u'industrial', u'experimental', u'avantgarde', u'intimate', u'dark ambient', u'silent intensity', u'seen live', u'crazy', u'haunting', u'Avant-Garde', u'deutsch', u'silent', u'just lovely', u'Einst\xfcrzende Neubauten', u'alternative', u'sexy', u'favorites', u'bass', u'cinematic', u'lounge', u'summer', u'beauty', u'winter', u'Mellow', u'poetic', u'dramatic', u'Berlin', u'loved', u'interesting', u'Favorite', u'fav', u'melancholie', u'8 of 10 stars', u'perfect', u'flying', u'november', u'personal favourites', u'aways', u'essentials', u'2002', u'2000', u'the end', u'miam', u'to own', u'subspace', u'Old school EBM', u'Neubauten', u'night drive', u'Soundtrack Of My Life', u'memo']"
+651,Dingsaller,18960,83468,347000,"[u'industrial', u'german', u'experimental', u'noise', u'Avant-Garde', u'avantgarde', u'intimate', u'just lovely', u'Neubauten', u'seen live', u'rock', u'alternative', u'reggae', u'singer-songwriter', u'romantic', u'Awesome', u'mute', u'deutsch', u'hypnotic', u'fav', u'personal favourites', u'sing along', u'2000', u'earworm', u'm83', u'best tracks ever', u'DE', u'5 of 10 stars', u'over 5 minutes long', u'Einst\xfcrzende Neubauten', u'Hafen1', u'I love them', u'I Luv', u'hans', u'shhh just dance', u'tu mi piaci', u'jiiir', u'I love Jessy', u'the time is now', u'leckerschmecker']"
+652,Redukt,22927,91826,613000,"[u'industrial', u'experimental', u'avantgarde', u'german', u'noise', u'Einst\xfcrzende Neubauten', u'Avant-Garde', u'Neubauten', u'violins', u'deutsch', u'YuM', u'warum nicht', u'god listens to this song every morning', u'braindustrial', u'seen live', u'alternative', u'singer-songwriter', u'mute', u'summer', u'great', u'loved', u'cool', u'modern classical', u'live', u'great lyrics', u'Favorite', u'perlen deutschsprachiger popmusik', u'essentials', u'different', u'2000', u'SPARKS', u'all time fav', u'DE', u'Awesomest', u'Metall', u'over 5 minutes long', u'love to death', u'schl4nd', u'Hafen1', u'good songs', u'die wahren perlen deutschsprachiger popmusik', u'goodlongsong', u'seen performed live', u'unaesthetic', u'punk poetry', u'All-Time GREATS', u'vivacubalibre loved tracks', u'freepurp1e', u'Bienenmeister', u'ur-industrial']"
+653,11 - Alles,250,773,0,[]
+654,Musentango,21088,92419,136000,"[u'industrial', u'experimental', u'Avant-Garde', u'german', u'noise', u'goth', u'indie', u'Classical', u'alternative', u'folk', u'romantic', u'tango', u'mute', u'avantgarde', u'Rousing', u'fav', u'melancholie', u'music', u'2000', u'best tracks ever', u'Einst\xfcrzende Neubauten', u'merkliste', u'warum nicht', u'jiiir', u'Songs on the verge of madness', u'deutsche Lyrik']"
+655,Sonnenbarke,20633,89059,469000,"[u'industrial', u'experimental', u'german', u'avantgarde', u'noise', u'Avant-Garde', u'seen live', u'Experimental Rock', u'mute', u'sunny', u'FM4', u'personal favourites', u'2000', u'silent', u'Orgasmic', u'Halcyon', u'Hammer', u'universe', u'over 5 minutes long', u'numa hammock', u'Einst\xfcrzende Neubauten', u'Neubauten', u'awesome songs', u'not noise', u'numa lacrimation', u'surrealistic', u'blinding', u'Nachtmusik', u'deutsche Lyrik', u'milchmusik', u'eternal wanderer', u'barbiturate jazz', u'fuer die schlaflosen naechte', u'spaete nacht', u'und jetz']"
+656,Die Befindlichkeit des Landes,29817,166291,343000,"[u'industrial', u'experimental', u'german', u'avantgarde', u'noise', u'Avant-Garde', u'industrial avantgarde experimental', u'alternative', u'perlen deutschsprachiger popmusik', u'die wahren perlen deutschsprachiger popmusik', u'seen live', u'classic', u'post-punk', u'night', u'90s', u'deutsch', u'summer', u'winter', u'darkwave', u'Berlin', u'loved', u'melancholie', u'machine', u'Solomusika-Loved', u'braindustrial', u'rock', u'alternative rock', u'sad', u'new age', u'bells', u'germany', u'mute', u'noir', u'Rousing', u'eerie', u'interesting', u'00s', u'fav', u'post-revolutionary pop song', u'personal favourites', u'angst', u'essentials', u'2000', u'yeah', u'just great', u'DE', u'melancholia', u'avante garde', u'melancolia', u'Duits']"
+657,Beauty,21869,87305,121000,"[u'industrial', u'experimental', u'Avant-Garde', u'noise', u'german', u'Einst\xfcrzende Neubauten', u'beauty itself', u'seen live', u'summer', u'avantgarde', u'spoken words', u'fav', u'melancholie', u'Perfection', u'kills me', u'essentials', u'2002', u'Neubauten', u'hypnotising', u'under 2 minutes long', u'h202', u'speak', u'sex and love', u'you know that do not you', u'may be not', u'beauty remains in the impossibilities of the body']"
+658,Heaven Is of Honey,20507,80882,229000,"[u'industrial', u'experimental', u'calm', u'quiet', u'shoegazing', u'Einst\xfcrzende Neubauten', u'bass', u'relaxed', u'avantgarde', u'german', u'sparse', u'title is a full sentence', u'2000', u'all time fav', u'kinky', u'in english', u'ny sang for meg', u'deliciously dark', u'Einfach die besten']"
+659,Zampano,22014,90307,333000,"[u'industrial', u'experimental', u'noise', u'Avant-Garde', u'industrial rock', u'german', u'bouncy', u'personal favourites', u'2000', u'seen live', u'rock', u'80s', u'alternative', u'alternative rock', u'fast', u'deep', u'Rousing', u'00s', u'fav', u'quaint', u'avant-garde rock', u'over 5 minutes long', u'Einst\xfcrzende Neubauten', u'Neubauten', u'beloved', u'pure energy', u'Solomusika-Loved', u'Note to self', u'jiiir', u'music and misanthropy without any martinis', u'immer 3mal mehr herzchen lieder']"
+660,04 - Newtons Gravitaetlichkeit,278,853,0,[]
+661,In Circles,22843,86827,150000,"[u'industrial', u'experimental', u'german', u'Avant-Garde', u'noise', u'seen live', u'avantgarde', u'post-revolutionary pop song', u'shoegazing', u'Einst\xfcrzende Neubauten', u'ambient', u'mute', u'waltz', u'summer', u'essentials', u'2002', u'music', u'2000', u'silent', u'physics', u'Neubauten', u'Einfach die besten']"
+662,Sabrina,42016,303839,279000,"[u'industrial', u'experimental', u'avantgarde', u'german', u'beautiful', u'noise', u'Avant-Garde', u'sexy', u'red', u'electronic', u'melancholy', u'soft', u'dark ambient', u'Dream', u'Neubauten', u'listen at night', u'like breathing', u'dreaming about nothing', u'live before you die', u'Came in my pants first time I heard', u'bohemia', u'beauty itself', u'chill', u'ambient', u'strange', u'romantic', u'Gothic', u'minimal', u'melodic', u'nostalgic', u'sex', u'male vocalists', u'eclectic', u'love songs', u'creepy', u'tops', u'freaky', u'experimental industrial', u'sabrina', u'diamonds on the soles of my shoes', u'drowning in darkness', u'poscielowa', u'test', u'seen live', u'80s', u'alternative', u'goth', u'emo', u'dark', u'new wave']"
+663,De Dødes Passage,1107,4606,84000,[u'death metal']
+664,Forkullede Rester,1349,5873,308000,[]
+665,Tvangstanker,1552,6812,307000,[u'metal']
+666,Evigt Lidende,1677,7289,261000,[u'death metal']
+667,Opslugt Af Mørket,1605,7397,269000,[]
+668,Dødshymne,1595,7148,168000,[]
+669,Englemagersken,1514,6853,34000,"[u'scandinavian', u'sludge metal', u'Scandinavian Death Metal']"
+670,Find Out,2771,11033,202000,"[u'B-Sides', u'1982 songs', u'synthpop songs']"
+671,Part Of You,2544,9456,172000,[]
+672,Deep Sleep,11289,36480,204000,"[u'new wave', u'80s', u'synthpop', u'songs about sleep or being tired', u'radio bav', u'fav songs', u'good1', u'the station that never sleeps', u'1982 songs', u'synthpop songs']"
+673,I Desire,11705,37421,193000,"[u'new wave', u'80s', u'electronic', u'devo', u'Old School Punk', u'Love', u'post-punk', u'Awesome', u'geek rock', u'dance party', u'Playlist', u'dantopluv', u'good8', u'superhappyfuntime', u'fish fry', u'loveydovey-me-oh-my']"
+674,What I Must Do,10533,34561,154000,"[u'new wave', u'80s', u'electronic', u'pop', u'rock', u'punk', u'alternative', u'synth pop', u'quirky', u'fun', u'geek rock', u'KICK', u'kcrw henry rollins', u'good4', u'anop', u'heps', u'electropearls', u'Decade80s', u'AvantPostWavePearls', u'recos2']"
+675,Speed Racer,17510,65217,158000,"[u'new wave', u'pop', u'weird', u'devo', u'electropop', u'american', u'lol', u'rock', u'classic', u'80s', u'Electroclash', u'electro', u'post-punk', u'Awesome', u'synth', u'Electro Pop', u'avantgarde', u'funny', u'anime', u""80's"", u'pirate', u'barbie', u'1980s', u'electro-pop', u'SPARKS', u'post-modern', u'talking heads', u'le tigre', u'tmbg', u'dissonant', u'stuff on my mp3 player', u'silent intensity', u'Music to confuse people', u'strangeromanticdeadrockcave', u'good7', u'james call', u'oingo boingo', u'mark mothersbaugh', u'mutato', u'fav songs', u'midwestern', u'B-52s', u'ancient history', u'cdv1443s', u'3-point-one-oh-six', u'far-out', u'german cars vs american homes', u'spooj', u'missing teens', u'adam beebe']"
+676,Big Mess,38550,154413,162000,"[u'new wave', u'80s', u'pop', u'amayzes loved', u'davaho53', u'rock', u'devo', u'synthpop songs', u'alternative', u'dance', u'happy', u'synth pop', u'Alternative  Punk', u'post-punk', u'synth', u'amazing', u'jazzy', u'good', u'High School', u'work', u'Rad', u'mood: upbeat', u'mood: powerful', u'dantopluv', u'james call', u'mod punk', u'mark mothersbaugh', u'fav songs', u'melhor do mundo', u'solx', u'kroq', u'ancient history', u'load the ipod and go running', u'good0', u'mishap', u'german cars vs american homes', u'missing teens', u'mishap crew', u'dead rockstars', u'cwdb - 80s', u'Buf', u'1982 songs', u'electropearls', u'awesme', u'kroq 1982', u'death by killer hook', u'Decade80s', u'clip 4', u'i love DEVO', u'makes-me-want-to']"
+677,Patterns,12259,43880,177000,"[u'new wave', u'alternative', u'synth pop', u'campari', u'good9', u'good testing']"
+678,That's Good,46076,176540,205000,"[u'new wave', u'80s', u'post-punk', u'rock', u'synthpop', u'synth-pop', u'My Favorites', u'pop', u'punk', u'synth pop', u'devo', u'music choice: classic alternative', u'trance', u'electronic', u'seen live', u'indie', u'Old School Punk', u'alternative', u'favorite songs', u'experimental', u'indie pop', u'New-Wave', u'prog', u'USA', u'dance', u'happy', u'RockPop', u'techno', u'Post punk', u'beautiful', u'Awesome', u'90s', u'eighties', u'crazy', u'new rave', u'party', u'freak folk', u'space rock', u'good', u'funny', u'hand claps', u""80's"", u'wave', u'space disco', u'alt rock', u'love at first listen', u'Great Lyricists', u'ironic', u'me likey', u'electro-pop']"
+679,Explosions,12713,43991,181000,"[u'new wave', u'post-punk', u'80s', u'indie', u'Love', u'synth pop', u'devo', u'good7', u'solx', u'to classify', u'coolbutnottheirbest', u'electronorock', u'errr ooor']"
+680,Out Of Sync,14010,48722,214000,"[u'new wave', u'alternative', u'synthpop', u'rock', u'Old School Punk', u'punk', u'Electroclash', u'USA', u'industrial', u'synth pop', u'post-punk', u'synthesizer', u'Ohio', u'synth-pop', u'Midwest', u'devo', u'akron', u'campari', u'New Wave and Eighties', u'out of sync', u'no thanks', u'solx', u'to classify', u'ancient history', u'steveadams fm', u'steveadamsfm', u'good1', u'all too true']"
+681,Peek-A-Boo!,15808,65286,181000,"[u'80s', u'new wave', u'alternative', u'post-punk', u'devo', u'electronic', u'Retro', u'rock', u'Old School Punk', u'punk', u'Alternative  Punk', u'american', u'synthpop', u'game', u'1982', u'the word peek', u'My Favorites', u'rape roleplay', u'rakt over disc', u'early mtv', u'i love DEVO']"
+682,Time Out For Fun,23042,95387,168000,"[u'new wave', u'post-punk', u'80s', u'coke party', u'pop', u'rock', u'classic', u'favorite songs', u'industrial', u'party', u'wave', u'fav', u'synth-pop', u'riff rock', u'Emotional Adult Rock', u'recently played', u'Radio Phantom Zone', u'tavfm', u'solx', u'to classify', u'Andy Partridge', u'ancient history', u'get em', u'good0', u'Sentimental Favorites From The 1980s', u'cwdb - 80s', u'classic electro-trash punk', u'electropearls', u'alternative cool', u'das leben ist kein ponyhof', u'festinha no morgatrio', u'KCDR', u'alternative in the 1980s', u'Decade80s', u'Noah Eatons All-Time Favorite Songs', u'T O F F', u'dykeman', u'time according to stretchead']"
+683,Long Live Chairman Mao,533,1300,118000,"[u'piano', u'contemporary classical', u'political', u'class struggle', u'contemporary piano']"
+684,Soon,206,589,107000,"[u'piano', u'piano solo']"
+685,Red Flag Prelude,1195,2767,187000,"[u'piano', u'chillout', u'chill', u'christmas', u'lounge', u'contemporary classical', u'political', u'Chillosophy', u'class struggle', u'solyaris', u'piano solo', u'contemporary piano', u'0004', u'Tang', u'conc', u'0001', u'Thanks to', u'spallumcheen', u'preludio', u'chill906', u'-o9', u'-35t', u'1010rh', u'the red flag', u'Cornelius Cardew Radio']"
+686,The East Is Red,618,1448,93000,"[u'fh veroniquecheval', u'piano', u'contemporary classical', u'political', u'class struggle', u'20th Century Classical', u'title is a full sentence', u'contemporary piano', u'headey cocktail', u'suggest to kemps', u'-l5', u'-55t', u'1010rh', u'nt1 rem 110125']"
+687,Bring the Land,1,10,0,[]
+688,Bethanien,608,1448,242000,"[u'piano', u'contemporary classical', u'contemporary piano']"
+689,Sailing The Seas,36,119,0,[]
+690,Song and Dance,929,2045,136000,"[u'mpsvd-classical-b', u'Classical', u'piano', u'contemporary classical', u'good', u'solyaris', u'neoclassic', u'contemporary piano', u'0004', u'Tang', u'conc', u'again', u'0001', u'Thanks to', u'morty', u'alvin curran', u'1307fh']"
+691,Charge,1114,2588,199000,"[u'piano', u'contemporary classical', u'piano solo', u'contemporary piano']"
+692,Four Principles On Ireland,896,2202,352000,"[u'mpsvd-classical-b', u'piano', u'contemporary classical', u'interesting', u'piano solo', u'contemporary piano', u'suggest to kemps', u'-e3', u'1010rh', u'change to recorder and oboe', u'nt5 rem 110125']"
+693,Father Murphy,1480,3668,179000,"[u'piano', u'mpsvd-classical-b', u'slow', u'contemporary classical', u'20th Century Classical', u'piano solo', u'contemporary piano', u'1104fh', u'becaming reds', u'20th century piano', u'alvin curran', u'cornelius cardew - father murphy', u'Cramps Records', u'-v212fh', u'-84t', u'3 rem 120303']"
+694,The Croppy Boy,1729,4553,167000,"[u'piano', u'mpsvd-classical-b', u'contemporary classical', u'instrumental', u'Avant-Garde', u'piano solo', u'contemporary piano', u'1210fh', u'-p213fh']"
+695,Rehearsal for Mortality,1547,5879,74000,"[u'punk rock', u'anarcho-punk']"
+696,House of the Void,1573,6180,77000,"[u'punk', u'alternative', u'punk rock']"
+697,Farewell Tomorrow,1544,6068,79000,"[u'punk', u'alternative', u'punk rock']"
+698,XN.H.S.,1616,6140,73000,"[u'punk rock', u'anarcho-punk', u'alternative']"
+699,The Enlightened Dreamer,1714,6818,68000,"[u'punk', u'alternative', u'punk rock']"
+700,The Curse,1765,7112,90000,"[u'punk', u'alternative', u'punk rock']"
+701,Mercy of Slumber,1820,7781,105000,"[u'punk rock', u'anarcho-punk', u'accelerando']"
+702,The Rain,1872,7572,100000,"[u'punk rock', u'rain', u'anarcho-punk']"
+703,Lost,1806,7401,70000,[]
+704,In Crematorium Flame,2099,9317,64000,"[u'anarcho-punk', u'hardcore', u'punk rock', u'anarcho punk']"
+705,Suffer,1955,7929,55000,"[u'punk rock', u'anarcho-punk']"
+706,One and All,2029,8084,80000,[u'gloom and doom']
+707,Throw Away The Rind,471,1071,139000,[]
+708,Maoam,1,122,0,[]
+709,I. Andante comodo,955,2383,0,"[u'conductor', u'Classical', u'symphony', u'gustav mahler', u'romantic period', u'Klassiek - spookachtig', u'klassik mahler', u'mahler 9']"
+710,Speech Contamination / German Fear of österreich,9171,25842,239000,"[u'emd', u'i want back to the 2000s', u'voodont', u'belboid']"
+711,Serious Brainskin,9013,28174,231000,"[u'electronica', u'indie', u'emd', u'voodont', u'belboid', u'schranzstep']"
+712,Family Feud,9590,30495,268000,"[u'electronica', u'indie', u'punk', u'Electroclash', u'electro', u'emd', u'clicks and crazy', u'voodont', u'belboid']"
+713,Flooded,10991,37158,286000,"[u'Disco', u'electronic', u'indie', u'hip hop', u'dub', u'glitchy', u'emd', u'interesting', u'fiesta', u'breaky', u'lyrics', u'trasnocho', u'2-step', u'Magic Beefheart', u'electrohard', u'hatthylla', u'Grumpyit', u'dancing you', u'voodont', u'belboid', u'funny german dubstep', u'rev 2']"
+714,The Rhinohead,13059,49962,256000,"[u'Drunken Heroes', u'electronic', u'electronica', u'Electroclash', u'Mark E Smith', u'WoopWoop', u'alternative rock', u'genius', u'emd', u'brilliant', u'Perfection', u'best of 2007', u'eclectonia', u'great voice', u'electro-fall', u'babababababa', u'mola', u'songs of the wilderness', u'dancing the night away', u'interested in', u'nastroteca 07-06-01', u'elektrobeats', u'kopf', u'uncut07', u'voodont', u'belboid']"
+715,Fledermaus Can't Get It,12306,45721,236000,"[u'electronic', u'electronica', u'Post punk', u'podcast', u'music for tractor drivers or lovers', u'indie', u'Electroclash', u'electro', u'techno', u'mental', u'genius', u'2007', u'emd', u'FM4', u'animals', u'science', u'120 minutes', u'knarz', u'knorpelfunky', u'Living Room', u'KEXP Song of the Day', u'broken-clash', u'club misfits', u'the modern dance', u'brett', u'very very knorpelfunky', u'nastroteca 07-06-01', u'very knorpelfunky', u'life-saver', u'the weird shit', u'im indiekeller', u'voodont', u'belboid', u'Crack The Whip', u'slurr']"
+716,Trip,263,537,821000,[]
+717,Chatiment,151,442,408000,[]
+718,Musillusion,260,523,234000,[]
+719,Rien,291,568,638000,[]
+720,Melopee,202,454,0,[]
+721,Borgia,318,641,142000,[]
+722,Femmes-fleurs,520,1168,162000,[]
+723,Diamond Mind,39,107,0,[]
+724,Antonia,50,121,0,[]
+725,Set Flames,1972,5954,625000,"[u'Masterpiece', u'mindfuck', u'i think i can die in peace now']"
+726,Mercy Dub,2189,6410,247000,[]
+727,Lonely,2461,8026,422000,[u'industrial']
+728,Terrorbird,3860,14165,271000,"[u'industrial', u'Music Video', u'drone doom', u'industrial drone doom']"
+729,Grey Is The Colour,8146,25982,274000,"[u'shoegaze', u'instrumental', u'post-rock', u'manly tears']"
+730,The Great Leveller,9184,30849,1048000,"[u'post-rock', u'shoegaze', u'Post-Metal', u'experimental', u'downtempo', u'doom metal', u'sludge metal', u'martial industrial', u'drone metal']"
+731,Everyday I Get Closer To The Light From Which I Came,10417,36459,454000,"[u'shoegaze', u'post-rock', u'doom metal', u'4 Stars', u'Ljeto', u'vodenasto']"
+732,Comforter,12107,46095,432000,"[u'post-rock', u'shoegaze', u'ambient', u'experimental', u'dream pop', u'4 Stars', u'Post-Metal']"
+733,Homesick,16227,57934,360000,"[u'shoegaze', u'post-rock', u'noise rock', u'Post-Metal', u'Justin Broadrick', u'Solitude', u'3 stars', u'lubie', u'odkrycie']"
+734,Worst Eyes Shut,528,1545,677000,[]
+735,Stomach Of The Sun,659,2285,537000,"[u'epic', u'intense', u'badass', u'Post-Metal', u'Dark as fuck', u'atmospheric sludge metal', u'Neurotic rock', u'Neurotic Metal']"
+736,El Baron,714,2371,409000,[]
+737,Hideaway,499,1649,330000,[]
+738,Blue Sky Fall,724,2325,382000,[]
+739,Drowning,712,2320,296000,"[u'ambient', u'drone', u'take me in your arms boys']"
+740,In My Collapse,807,2821,316000,"[u'hypnotic', u'beast', u'something new for the Mrs']"
+741,Pyramid,796,2742,356000,[]
+742,Vacant Monolith Rotation,821,2880,796000,[u'm o n o lith']
+743,Cash For Gold,160,2125,0,[]
+744,Uppsala,143,270,760000,"[u'Progressive rock', u'swedish folk']"
+745,Entrechocs,72,123,357000,"[u'Fusion', u'drum solo', u'solo', u'Guitar Solo']"
+746,Chant de nuit,81,134,188000,"[u'Progressive rock', u'Zeuhl', u'songs that me impressed', u'Dr Zul Tubal Zu s Black Tongue Chamber Tapes']"
+747,Antrada,67,109,558000,"[u'Fusion', u'guitar', u'zeuhlish', u'zeuhl fusion']"
+748,Etude No 1,2,3,0,[]
+749,Coup de folie,183,359,222000,"[u'experimental', u'alternative rock', u'Progressive rock', u'Experimental Rock', u'Avant-Garde', u'Progressive', u'underground', u'Avant-Pop', u'Avant-Prog', u'swedish folk', u'zeuhlish', u'Absolute Zero']"
+750,Boucle aux oiseaux d'en face,98,159,155000,[]
+751,Les nouvelles,120,218,384000,[]
+752,Coste and Jukka,135,220,250000,"[u'Progressive rock', u'Avant-Garde', u'Progressive', u'Zeuhl']"
+753,Algarade,119,206,273000,[]
+754,No Joy,10855,37308,688000,"[u'doom metal', u'Doom', u'drone', u'Sludge', u'drone metal', u'drone doom metal', u'noise', u'drone doom', u'experimental', u'Experimental Rock', u'Sludge Doom', u'abstract', u'emd', u'no wave', u'Favourites', u'Zone out', u'dark psychedelia', u'harsh noise', u'lotr', u'prda', u'avant rock', u'fucking brilliant', u'ambience and noise', u'Extreme Doom Metal', u'radio bav', u'zlo', u'gollum', u'stoned and heavy as fuck', u'petrified forest', u'no joy']"
+755,Under Rotting Sky,8136,29611,1098000,"[u'doom metal', u'drone', u'drone metal', u'drone doom', u'atmospheric', u'grim', u'drone doom metal', u'metal', u'ambient', u'USA', u'dark', u'Experimental Rock', u'abstract', u'Avant-Garde', u'intense', u'eerie', u'dark ambient', u'violent', u'Avant-garde Metal', u'murder', u'harsh noise', u'noise-rock', u'hateful', u'misanthropic', u'soma', u'Extreme Doom Metal', u'noise metal', u'scare the kids', u'Khanate', u'malefic', u'music to kill someone to']"
+756,Skin Coat,12161,45232,576000,"[u'doom metal', u'drone', u'drone doom', u'Sludge', u'metal', u'Doom', u'grim', u'stoner', u'noise', u'experimental', u'abstract', u'death metal', u'4', u'sludge metal', u'FUCKING AWESOME', u'Sludge Doom', u'Progressive Doom', u'prda', u'Sludgy', u'Extreme Doom Metal', u'doom sludge', u'zlo', u'OMG ITS STEPHEN OMALLEY', u'best work', u'background music while doing art', u'petrified forest', u'drone goe']"
+757,Pieces Of Quiet,10526,42324,974000,"[u'Doom', u'drone doom', u'doom metal', u'drone', u'Music to kill to', u'drone metal', u'drone doom metal', u'metal', u'ambient', u'USA', u'abstract', u'crazy', u'Avant-Garde', u'Sludge', u'dark ambient', u'evil', u'Avant-garde Metal', u'suicidal', u'harsh noise', u'noise-rock', u'All-time favourites', u'my favorite', u'Extreme Doom Metal', u'suicide music', u'ugly as fuck', u'played at bloodlust', u'standing in an empty overcast field', u'pieces of quiet', u'the symbolic poem of 19th century macabre']"
+758,Super Mantis (Blackmass Plastics Remix),852,2379,307000,"[u'dub', u'dubstep', u'mick harris', u'wow', u'future awesome', u'plastic coffin']"
+759,Super Mantis,850,2426,395000,"[u'dubstep', u'industrial', u'wow', u'basssss']"
+760,Sarabande (Two),1,28,0,[]
+761,Sarabande (One),1,24,0,[]
+762,Sarabande-Duel,9898,24173,191000,"[u'Soundtrack', u'Classical', u'Handel', u'baroque', u'classic', u'Barroco', u'sarabande', u'Musica Clasica', u'Stanley Kubrick', u'soundtracks i just love', u'alinda the lost girl in long stockings: the official soundtrack', u'cool classic', u'mag ich', u'barocco', u'qwerty', u'the classy playlist', u'kubrick', u'Barry Lindon', u'barroco baroque', u'lyndon', u'1209fh', u'1209', u'lowscrobbles 140213', u'lowscrobbles140307', u'lowscrob140317']"
+763,Labyrinth,2725,5879,135000,"[u'Progressive rock', u'Avant-Garde', u'Zeuhl', u'RIO', u'songs about work', u'Avant-Prog', u'songs about greed']"
+764,Embryonic Fusion,1653,4511,1449000,"[u'Progressive', u'alternative rock', u'Progressive rock', u'guitar', u'song noir', u'Solomusika-Loved', u'EPIC ROCK TRACK', u'awky']"
+765,Promises,1527,4261,343000,"[u'afro armpit funk', u'Afro Armpit Funk-']"
+766,Tumbleweed,1861,4862,238000,[u'Progressive rock']
+767,Naked Death,2138,5759,938000,"[u'Progressive rock', u'best song', u'chapot', u'kappe 80', u'kappe fav']"
+768,Archana,1675,7345,441000,[u'black metal']
+769,Mortem Pyre (In Darkness and Blood),1434,5263,440000,[]
+770,Serpentine Ayat,1744,7438,192000,[]
+771,Cacophony! Black Sun Dragon's Tongue!,1592,6619,303000,[u'black metal']
+772,Weapon,1828,6822,235000,[u'Mindboggling Intro']
+773,10_The Holy Rood Of Bromholm,7,10,0,[]
+774,The Black Dog,236,624,342000,[]
+775,08_The Gay Goshawk,6,9,0,[]
+776,07_Galliard Merric England Is Music Box,6,10,0,[]
+777,06_Stone Angel,7,12,0,[]
+778,Black Sailed Traders,304,995,304000,[]
+779,Traveller's Tale,299,826,341000,[]
+780,03_Pastime With Good Company,9,14,0,[]
+781,The Skater,313,916,193000,[u'british folk']
+782,01_The Bells Of Dunwich,9,23,0,[]
+783,She Cheated on You Twice,3069,8032,223000,"[u'Sludge', u'wait for it', u'Remember When I Set You On Fire']"
+784,Last One In the Noose,3554,9415,207000,"[u'Sludge', u'noise', u'metal', u'grindcore', u'dark', u'moody', u'death metal', u'aggressive', u'heard on Pandora', u'stoner metal', u'negative', u'soilent green']"
+785,Daydreaming the Color of Blood,3217,8348,180000,"[u'metal', u'Sludge', u'death metal']"
+786,Clockwork of Innocence,3312,8803,173000,"[u'metal', u'Sludge']"
+787,Amsterdam,22,36,0,[]
+788,The Sky is Grey,10174,41490,342000,"[u'downtempo', u'lounge', u'digitalis', u'for rainy days', u'somafm', u'electronic', u'ambient']"
+789,Silent Lucidity (MTV Unplugged),1,1,0,[]
+790,I Got This Down,137033,505072,249000,"[u'electronic', u'electro', u'electronica', u'dance', u'alternative', u'british', u'Electroclash', u'House', u'new rave', u'Disco', u'ElectglitchdubhoP', u'simian mobile disco', u'party', u'techno', u'2007', u'Kicks ass', u'head-boppin', u'i got this down', u'electropop', u'chill', u'downtempo', u'happy', u'electro house', u'tech house', u'lounge', u'3', u'download', u'Electro Pop', u'club', u'electro disco', u'tight', u'nice', u'cool', u'dj', u'00s', u'Workout', u'alternative dance', u'Favorite', u'kick your ass', u'english', u'get', u'new funk', u'I Like It', u'sick', u'2', u'acid house', u'Good Stuff', u'<3', u'100', u'stuff']"
+791,Dandelion Spheres,8563,19139,213000,[u'ambient']
+792,VL AL 5,18994,58067,296000,"[u'electronic', u'idm', u'experimental', u'glitch', u'ambient', u'emotronica', u'indiecore', u'Awesome', u'noise', u'electronica', u'industrial', u'Warp', u'radiohead', u'mike patton', u'venetian snares', u'power electronics', u'NSHN', u'instrumental', u'Love', u'dark', u'techno', u'8bit', u'Canadian', u'8-bit', u'bleepy', u'Avant-Garde', u'psychill', u'amazing', u'ebm', u'darkwave', u'Coldplay', u'breakcore', u'dark ambient', u'michael jackson', u'steve aoki', u'lemon demon', u'2010', u'reverb', u'Rhythmic Noise', u'mad rhythms', u'United Kingdom', u'Animal Collective', u'crackly', u'jazz house', u'people who are freakier and folkier than motherfucking devendra banhart', u'alternative techno', u'poop', u'last fm noise mafia', u'Dj Tiesto', u'delicious flat chest']"
+793,Been Up Long (Falsedawn),4143,14376,268000,"[u'breakbeat', u'big beat', u'electronic', u'hardcore', u'electro', u'industrial', u'Rave', u'dance-punk', u'ElectronicaDance']"
+794,Endlessly Bountiful,11379,45499,236000,"[u'Progressive metal', u'Progressive rock']"
+795,Stripsearch,125651,765703,270000,"[u'rock', u'alternative rock', u'mike patton', u'alternative', u'90s', u'alternative metal', u'experimental', u'crossover', u'faith no more', u'metal', u'atmospheric', u'electronic', u'beautiful', u'patton', u'hard rock', u'Experimental Rock', u'haunting', u'relaxing', u'1997', u'heavy metal', u'chillout', u'Grunge', u'sexy', u'funk metal', u'avant garde', u'american', u'smooth', u'male vocalists', u'songs i love', u'sensual', u'3 stars', u'electronic rock', u'experimental metal', u'awesome bass', u'larger than life', u'Classic shit', u'Mike Patton Projects', u'electronica', u'trip-hop', u'seen live', u'indie', u'chill', u'favorite songs', u'ambient', u'Progressive rock', u'pop rock', u'favorites', u'calm', u'dark', u'industrial']"
+796,Empty Words (Live in L.A. - 1998),14,18,0,[]
+797,Bet'sher Head,652,1413,0,[]
+798,Scarlet Letters,39455,215636,235000,"[u'Nu Metal', u'metal', u'alternative', u'alternative metal', u'rock', u'Awesome', u'Hard', u'2008', u'Passionate', u'00s', u'4-STAR', u'Nu-metal', u'create new tag', u'mudvayne', u'my music', u'nice intro', u'spoko', u""2000's"", u'three days grace', u'full track', u'radioultra', u'mo6no', u'mudvayane']"
+799,Genghis Khan,10,22,0,[]
+800,Comin' Home (Bonus Track),13,33,0,[]
+801,Fasting On Deception,10204,28509,228000,"[u'grindcore', u'death metal', u'death', u'deathgrind', u'5 of 10 stars', u'metal united']"
+802,Us Against the World (Live),27,91,0,[]
+803,metro,98842,671380,0,"[u'metal', u'alternative metal', u'alternative', u'rock', u'cover', u'hard rock', u'System of a Down', u'soad', u'alternative rock', u'covers', u'Soundtrack', u'Nu Metal', u'favourite', u'Soil', u'metro', u'Progressive', u'punk', u'Hard', u'Progressive metal', u'favorites', u'urban', u'Berlin', u'rythmic', u'great cover', u'favorite covers', u'heavy metal', u'hardcore', u'Progressive rock', u'industrial', u'Awesome', u'Melodic Death Metal', u'weird', u'bounce', u'thrash metal', u'summer', u'deep', u'good shit', u'best covers', u'male vocalist', u'industrial metal', u'Ballad', u'cover songs', u'Down', u'manic', u'spring', u'FUCKING AWESOME', u'10 of 10 stars', u'2000', u'Nu-metal', u'dracula']"
+804,Preperation's Kids Choir,2952,7205,160000,[]
+805,Alone,24793,103397,264000,"[u'thrash metal', u'metal', u'crossover', u'hardcore', u'hardcore punk', u'heavy metal', u'punk', u'rock', u'funk metal', u'thrash', u'crossover thrash', u'Suicidal Tendencies', u'seen live', u'hard rock', u'punk rock', u'screamo', u'favourite', u'Ballad', u'francais', u'4 Stars', u'Faves', u'punk hardcore', u'All time favourites', u'Punk Metal', u'ulubione', u'9 lbs hammer', u'real punk', u'fave song', u'Mike Muir', u'rating 4', u'd radio', u'pkh', u'regi kedvenc']"
+806,Magic Dragon,38645,179812,360000,"[u'thrash metal', u'metal', u'thrash', u'german thrash metal', u'sodom', u'teutonic thrash metal', u'heavy metal', u'80s', u'germany', u'old school thrash metal', u'old school', u'german', u'718 Metal', u'brutal thrash metal', u'progressive blackened thrash metal', u'black metal', u'epic', u'vietnam', u'7 of 10 stars', u'Favourite Songs', u'Megadeth', u'Testament', u'Vietnam War', u'exodus', u'gatling', u'war lyrics', u'roh', u'metal highlights', u'dense-sounded thrash', u'dense-sounding thrash', u'canavar gibi', u'haohmaru', u'Brutal Assault 2014', u'myk sodom', u'500th play', u'Totalnie rozpierdalajcy pozerstwo po przez analna destrukcje trve oldskulowy teutonski thrashowy Stuff']"
+807,Big River,6,7,0,[]
+808,Angel Of Death,44,77,0,[]
+809,Lost!,95,237,0,[]
+810,YYZ (Live R40 Tour),2,2,0,[]
+811,The Atrocity Exhibition,25060,91043,633000,"[u'thrash metal', u'metal', u'death metal', u'bay area thrash', u'heavy metal', u'speed metal', u'exodus', u'thrash', u'good', u'groove metal', u'bay area trash', u'i want to kill people to this song', u'2007', u'male vocalists', u'00s', u'english', u'long songs', u'2000s', u'Bay Area', u'Better than Metallica', u'Songs over 10 minutes long', u'aggressive depression', u'end all the pain', u'plead not guilty', u'the rival believer', u'longevity', u'Andy Sneap', u'Awesome Songs That Are Over 7 Minutes Long', u'the atrocity exhibition - exhibit a', u'myk exodus', u'Apocalyptic Riffs', u'My Heavy Shit', u'swallow my venom']"
+812,Waiting to Die,6419,30044,196000,"[u'claudia schiffer', u'chloe mozar', u'black angelika', u'cintia dicker', u'irina shayk', u'virginie caprice', u'claire dames']"
+813,Everflow,4984,13744,61000,"[u'grindcore', u'brutal truth', u'metal']"
+814,Nothing Left 1,8,10,0,[]
+815,For The Glory Of...,43107,184044,72000,"[u'thrash metal', u'metal', u'instrumental', u'thrash', u'music that makes me want to beat children', u'Brutal Legend', u'heavy metal', u'hard rock', u'rock n roll', u'00s', u'guitar virtuoso', u'instrumetal', u'Bay Area', u'Megadeth', u'music that makes your head explode of amazement', u'white power', u'particularly hairy music', u'the most metal thing i have ever heard in my whole life', u'instrumental thrash metal', u'mister-thrash-metal-headbanger-man', u'White Pride', u'red x', u'gets me in the mood to par-tee down', u'100 times bigger than the beatles', u'Blex is gay', u'Punch it Chewie', u'bombast thrash']"
+816,The One Who Help to Set the Sun,2,2,0,[]
+817,Yr City's a Sucker,12,22,0,[]
+818,The Funny Cypress Hill S**t,2,7,0,[]
+819,Trilobite,68023,261301,389000,"[u'Progressive metal', u'Sludge', u'metal', u'metalcore', u'post-hardcore', u'heavy metal', u'rock', u'hardcore', u'alternative metal', u'stoner', u'sludge metal', u'i am anti-social and maladjusted here is my soundtrack', u'whalecore', u'heavy', u'experimental', u'post-rock', u'prog', u'psychedelic', u'guitar', u'atmospheric', u'Progressive', u'melancholic', u'loved', u'00s', u'math metal', u'progressive stoner metal', u'over 5 minutes long', u'Progressive Sludge Metal', u'Mastodon', u'serpentine', u'prehistoric', u'fuckin ace', u'xunk', u'Isis like', u'best drummers ever', u'hardrock nu metal progressive', u'a check', u'Octobersound', u'zuh', u'ohmibod']"
+820,Time to Get Away,41,75,0,[]
+821,Merchants Of Deceit,9516,45466,205000,"[u'death metal', u'Technical Death Metal', u'seen live', u'supreme technicality']"
+822,Captain Marvel (feat. Return to Forever) [Live],7,12,0,[]
+823,As I Was Saying,47,141,0,[]
+824,Don't Believe a Thing I Say,46,168,0,[]
+825,Tape Deck,49,171,0,[]
+826,Never Fade,54,195,0,[]
+827,Shot Reverse Shot,50,199,0,[]
+828,Washing Dishes,71,251,0,[]
+829,I Got You,136,502,0,[]
+830,Comeback Kid,22,37,0,[]
+831,You're In Love With a Psycho,77,154,0,[]
+832,"""5150""",13,297,0,[]
+833,Love Walks In,33,74,0,[]
+834,Best of Both Worlds,29,54,0,[]
+835,Summer Nights,14,27,0,[]
+836,Dreams,47,103,0,[]
+837,Get Up,15,22,0,[]
+838,Why Can't This Be Love,67,196,0,[]
+839,Good Enough,20,40,0,[]
+840,Gas Lamp Blues,4,4,0,[]
+841,Above & Below,4,4,0,[]
+842,"Water On the Brain, Pt. 2",2,2,0,[]
+843,Zone,3,5,0,[]
+844,Funnels,4,6,0,[]
+845,Alphrazallan,3,5,0,[]
+846,The Things You See,5,8,0,[]
+847,Lanyard Loop,9,12,0,[]
+848,Perpetual Change,11,24,0,[]
+849,Awaken,9,15,0,[]
+850,When The Link Becomes Missing,23211,95423,315000,"[u'Progressive metal', u'Power metal', u'metal', u'progressive death metal', u'progressive power metal', u'Chuck Schuldiner', u'heavy metal', u'death metal', u'Masterpiece', u'prog metal', u'Technical Progressive Power Metal', u'Control Denied', u'beautiful', u'Awesome', u'90s', u'Progressive', u'soft', u'emotional', u'complex', u'super band', u'4', u'FUCKING AWESOME', u'wonderful', u'emusic', u'progressive death', u'best songs ever', u'Technical Metal', u'mystic', u'beautiful melodies', u'superb', u'Awesome solo', u'best ever', u'great guitar solo', u'beautiful solo', u'best band', u'nice vocals', u'best songs', u'Beautiful atmosphere', u'fav songs', u'epic vocals', u'super music', u'genious riffs', u'wonderful vocals', u'tim aymar', u'no words can describe this', u'very emotional', u'genious guitar themes', u'Atmospheric masterpiece', u'genious solo', u'fantastic feeling']"
+851,What If...?,18898,74272,270000,"[u'Progressive metal', u'Power metal', u'metal', u'Chuck Schuldiner', u'progressive power metal', u'progressive death metal', u'prog metal', u'Control Denied', u'technical prog power', u'prog', u'death', u'control denied - What if', u'beautiful', u'90s', u'death metal', u'wonderful', u'timeless', u'beautiful solo', u'awesome riffs', u'awesome feeling', u'Technical Progressive Power Metal', u'awsome shit', u'tim aymar', u'no words can describe this', u'genious solo', u'asdfghjkl', u'strict heavy', u'fan heavy', u'listen any heavy', u'metadeath', u'listenanyheavy', u'best solos ever', u'wonderful solo', u'The eternal mastery of Evil ChucK']"
+852,Expect The Unexpected,26584,121096,396000,"[u'Progressive metal', u'Chuck Schuldiner', u'Power metal', u'Technical Metal', u'metal', u'death metal', u'progressive power metal', u'heavy metal', u'progressive death', u'prog metal', u'technically progressive melodic death metal', u'Technical Death Metal', u'Masterpiece', u'great guitar', u'Control Denied', u'prog', u'USA', u'favorites', u'beautiful', u'Awesome', u'psychedelic', u'90s', u'death', u'american', u'Progressive', u'complex', u'super band', u'FUCKING AWESOME', u'wonderful', u'Eargasm', u'7 of 10 stars', u'progressive death metal', u'genious', u'superb', u'best ever', u'technical progressive Death Metal', u'beautiful solo', u'best band', u'technical progressive metal', u'intensive', u'dream-like', u'Beautiful atmosphere', u'super music', u'beautiful intro', u'genious riffs', u'power-death metal', u'genious guitar themes', u'chuck is god', u'genious solo', u'bizarre feeling']"
+853,Breaking The Broken,26454,113876,340000,"[u'Progressive metal', u'Technical Metal', u'metal', u'Power metal', u'progressive power metal', u'progressive death metal', u'heavy metal', u'beautiful solo', u'Technical Progressive Power Metal', u'Progressive', u'death metal', u'super band', u'progressive death', u'bass solo', u'best ever', u'Chuck Schuldiner', u'super music', u'fast', u'epic', u'beautiful', u'Awesome', u'90s', u'Technical Death Metal', u'emusic', u'prog metal', u'genious', u'superb', u'riffs', u'Energic', u'best band', u'bang your head', u'intensive', u'monumental', u'Speedy', u'genious riffs', u'songs I play on guitar', u'superb story', u'bizarre feeling', u'very goooooooood', u'fantastic feeling', u'Asskicking Songs', u'bizarre riffs', u'some bizarre riffs', u'acid death']"
+854,Consumed,31192,138599,444000,"[u'Progressive metal', u'Power metal', u'heavy metal', u'progressive death metal', u'metal', u'death metal', u'Technical Metal', u'best songs ever', u'progressive power metal', u'Chuck Schuldiner', u'thrash metal', u'Technical Death Metal', u'favorites', u'american', u'chill', u'doom metal', u'epic', u'beautiful', u'Awesome', u'Melodic Death Metal', u'90s', u'death', u'Progressive', u'thrash', u'melodic speed metal', u'8 of 10 stars', u'melodic metal', u'wonderful', u'emusic', u'florida', u'old school death metal', u'prog metal', u'genious', u'US MEtal', u'superb', u'melodic death', u'beautiful solo', u'over 5 minutes long', u'awesome riffs', u'cd1', u'boogie on down', u'epic vocals', u'Control Denied', u'genious riffs', u'wonderful vocals', u'consumed', u'genious guitar themes', u'genious solo', u'fantastic feeling', u'genious atmosphere']"
+855,祭 / Hanabeam,408,1799,0,[u'Breakbeats']
+856,麦酒 / Mr. Beer Surf Demolition mix,21,107,0,[]
+857,旅行 / TOURING TOUR,12,33,0,[]
+858,通信 / Skipless Loops,348,1173,0,[]
+859,遭遇 / UFO,11,33,0,[]
+860,災難 / DIE VERY HARD,343,1039,0,[]
+861,恋愛 / Lan Lan,15,45,0,[]
+862,電話 / Damn What Ringtone,417,1488,0,[]
+863,労働 / WORK IT!!!,15,46,0,[]
+864,出勤 / WAKE UP,14,69,0,[]
+865,朝食 / Robot Nametake,536,1648,0,[]
+866,Carla,8546,20042,333000,"[u'Carla Bruni', u'carla morrison', u'carla giraldo', u'carla connor', u'girls name']"
+867,Vitamin,8891,20432,266000,[u'Old School Jam']
+868,We Can Do It,9342,21244,246000,[]
+869,Dr Buzz,10078,23610,361000,[]
+870,Nights Out In The Jungle,10223,23149,309000,[]
+871,Summer Girl,11182,26363,331000,[]
+872,Something About You,13286,30817,238000,[]
+873,Hot Property,11972,30277,271000,[]
+874,Superfresh,12857,31443,228000,[]
+875,Cloud 9,26920,93635,236000,"[u'funk', u'british', u'acid jazz', u'synthfunk', u'2017 single']"
+876,Automaton,29480,119172,288000,"[u'funk', u'electronic', u'electropop', u'british', u'electro', u'dance', u'electro funk', u'Jamiroquai', u'electrofunk', u'future funk', u'AI', u'2017', u'2017 single']"
+877,Shake It On,15520,38252,0,"[u'Disco', u'nu disco']"
+878,Abyssous,14591,45546,90000,"[u'death metal', u'dark ambient', u'florida', u'metal', u'ambient', u'USA', u'90s', u'atmospheric', u'old school', u'old school death metal', u'interlude']"
+879,Place of Many Deaths,13844,42396,253000,"[u'death metal', u'metal', u'instrumental', u'USA', u'old school death metal', u'interlude', u'epilogue']"
+880,Stricken Arise,16084,53103,250000,"[u'death metal', u'old school death metal', u'metal', u'Technical Death Metal', u'thrash metal', u'USA', u'Melodic Death Metal', u'Extreme Metal', u'angel', u'progressive death metal', u'Brutal Death Metal', u'Death Black Metal', u'Black and Death Metal', u'metal masterclass']"
+881,Praise the Strength,16418,53913,316000,"[u'death metal', u'metal', u'Technical Death Metal', u'Brutal Death Metal', u'Melodic Death Metal', u'old school death metal', u'thrash metal', u'Progressive metal', u'USA', u'Progressive', u'florida death metal', u'morbid angel', u'heretic', u'Trey Azaghtoth', u'Trey Azagthoth', u'Prasie the Strength', u'steve tucker']"
+882,Curse the Flesh,17396,59895,215000,"[u'death metal', u'old school death metal', u'metal', u'USA', u'Brutal Death Metal', u'Cures the Flesh']"
+883,Beneath the Hollow,18253,61547,260000,"[u'death metal', u'metal', u'old school death metal', u'Brutal Death Metal', u'heavy metal', u'thrash metal', u'old school', u'Technical Death Metal', u'Floridian death metal', u'USA', u'Melodic Death Metal', u'guitar', u'90s', u'Extreme Metal', u'Avant-garde Metal', u'progressive death metal', u'florida', u'Fucking Metal', u'morbid angel', u'Extreme music for extreme people']"
+884,Enshrined By Grace,24210,96075,267000,"[u'death metal', u'metal', u'Brutal Death Metal', u'old school death metal', u'Technical Death Metal', u'morbid angel', u'pete sandoval is a beast', u'seen live', u'USA', u'favorites', u'Melodic Death Metal', u'american', u'thrash metal', u'heard on Pandora', u'Morbid Metal', u'Trey Azagthoth', u'Appolyon Approved', u'brutal horror massacre', u'infectious death']"
+885,Cleansed in Pestilence (Blade of Elohim),14735,47501,275000,"[u'death metal', u'metal', u'Brutal Death Metal', u'USA', u'heard on Pandora', u'old school death metal']"
+886,Every Day I Love,31954,89850,155000,"[u'guitar', u'classical guitar', u'instrumental', u'electronic', u'electronica', u'idm', u'str1ngs', u'Classical', u'ambient', u'downtempo', u'bass', u'emotronica', u'kl4ss1k4l', u'GUITAR BACK GROUND NICE', u'noise', u'british', u'favorites', u'Favorite', u'adult swim', u'Gay Fish', u'instrumental goodness', u'Sleep Mix', u'solo bass', u'delicious flat chest', u'electrock', u'flamenco guitar', u'psychoalgie', u'Marie Antoinette Soundtrack', u'Eremuse - Deva Imagination', u'indiecore', u'warm fuzzies', u'bonito', u'guitarr', u'classical jazz guitar', u'Bass legend', u'boig', u'I would like to get to know the people I call friends apparently you dont which is kinda funny and makes me wonder if you have no real friends', u'guitar spectacular', u'guitar-for-meggs', u'kl4ss1k4l str1ngs']"
+887,Tommib Help Buss,93334,300611,130000,"[u'ambient', u'electronic', u'experimental', u'idm', u'Marie Antoinette Soundtrack', u'instrumental', u'Soundtrack', u'soundtrackgdchill', u'chillout', u'electronica', u'marie antoinette', u'electro', u'beautiful', u'atmospheric', u'Mellow', u'melodic ambient', u'minimal', u'emotronica', u'soft', u'emotional', u'melancholic', u'nice', u'squarepusher', u'music to fall asleep to', u'lullaby', u'k1mo recommends', u'sofia coppola', u'Sofia Coppola-like', u'noise', u'chill', u'best of 2006', u'favorites', u'Love', u'Dreamy', u'morning', u'free', u'Avant-Garde', u'Progressive', u'ost', u'great', u'ethereal', u'synthesizer', u'quiet', u'depressing', u'00s', u'relax', u'underground', u'great songs', u'suicide', u'i miss you']"
+888,Tetra-Sync,26241,92128,567000,"[u'idm', u'jazz', u'electronica', u'bass', u'electro', u'squarepusher', u'freestyle', u'electronic', u'experimental', u'acid jazz', u'Awesome', u'Warp', u'trip-hop', u'instrumental', u'ambient', u'epic', u'Drum and bass', u'Avant-Garde', u'Progressive', u'emotronica', u'bass solo', u'its a hit', u'brain jazz', u'ultravisitor', u'dr4mnj4ngl3', u'electronic chill ambient', u'noise', u'nu jazz', u'chillout', u'beautiful', u'crazy', u'atmospheric', u'mental', u'breakbeat', u'brilliant', u'silly', u'slap bass', u'sick', u'FUCKING AWESOME', u'Favourite Songs', u'Electronic Jazz', u'Orgasmic', u'metro downtempo', u'mindblowing', u'IIIIIIIIII AMAZING TRACK :D IIIIIIIIII', u'Gay Fish', u'savage', u""D'n'B"", u'bass guitar', u'play it again play it again']"
+889,Circlewave,24809,67335,388000,"[u'jazz', u'idm', u'drums', u'electronic', u'experimental', u'electronica', u'instrumental', u'ambient', u'organ', u'pop', u'jazz fusion', u'atmospheric', u'Mellow', u'emotronica', u'jazzy', u'00s', u'big beat', u'JazzTronica', u'noise', u'test', u'british', u'sad', u'post-rock', u'Love', u'tempo', u'piano', u'intro', u'breaks', u'warm', u'drum solo', u'Gay Fish', u'no lyrics', u'cinematic ambient', u'sleeptronica', u'Marie Antoinette Soundtrack', u'confritura', u'indiecore', u'funky beat', u'sounds like Tokyo', u'dr4mnj4ngl3']"
+890,District Line II,23393,60542,513000,"[u'idm', u'electronic', u'noise', u'experimental techno', u'glitch', u'drill and bass', u'n01s3 n k0r3', u'Warp', u'emotronica', u'exprerimental', u'dr4mnj4ngl3', u'experimental', u'Drum and bass', u'Like', u'frenetic', u'static', u'Gay Fish', u""D'n'B"", u'neo-nazi', u'Marie Antoinette Soundtrack', u'indiecore', u'white power electronics', u'sick as hell', u'late night energy and inspiration music', u'ectrouck', u'drillz clickz cutz', u'didfeedme', u'jungly electronica']"
+891,Telluric Piece,27182,69494,113000,"[u'ambient', u'idm', u'electronic', u'noise', u'electronica', u'experimental', u'emotronica', u'instrumental', u'minimal', u'soundscape', u'Gay Fish', u'this is so drug music', u'lyricless', u'less than 2 minutes', u'psychoalgie', u'abstract electro', u'Marie Antoinette Soundtrack', u'indiecore', u'n01s3 n k00l', u'tripbaar']"
+892,An Arched Pathway,23231,59252,246000,"[u'idm', u'noise', u'electronic', u'instrumental', u'experimental', u'glitch', u'emotronica', u'working', u'electronica', u'Warp', u'fucked', u'contemporary classical', u'squarepusher', u'fav', u'Gay Fish', u""D'n'B"", u'Marie Antoinette Soundtrack', u'indiecore', u'jazzy dnb experimental edgy weird electronic', u'iron jesus', u'4working', u'megafav', u'askew', u'n01s3 n k00l', u'str1ngs j4zz', u'1 dr1ll m', u'An Arched Pathway']"
+893,Steinbolt,25936,74212,464000,"[u'idm', u'noise', u'electronic', u'electronica', u'experimental', u'glitch', u'drill and bass', u'tagteamers instrumentals', u'metal', u'alternative', u'easy listening', u'experimental techno', u'psychedelic', u'Acid', u'Drum n Bass', u'emotronica', u'breakcore', u'terrifying', u'fried my brain the first time i heard it so i had to listen again', u'mental trash compactor', u'robotic catharsis', u'the forces of darkness', u'dark', u'crazy', u'Avant-Garde', u'top', u'intense', u'live', u'Favourites', u'poignant', u'fucked up', u'Amen break', u'delicate', u'alien', u'Drill n Bass', u'ExC', u'electronical', u'Gay Fish', u'robot music', u'Terror', u'fucking incredible', u""D'n'B"", u'holy fuck', u'Basically Bass', u'if this were a pokemon i would catch it', u'ill', u'grungy', u'Marie Antoinette Soundtrack', u'indiecore', u'abgedreht']"
+894,C-Town Smash,29429,81652,89000,"[u'electronic', u'idm', u'experimental', u'jazz', u'instrumental', u'emotronica', u'noise', u'test', u'nu jazz', u'electronica', u'acid jazz', u'Warp', u'free jazz', u'Distorted', u'Favorite', u'6 of 10 stars', u'Electronic Jazz', u'sample', u'favs', u'uwielbiam', u'Gay Fish', u'another planet', u'Marie Antoinette Soundtrack', u'indiecore', u'fucked up jazz', u'dat bass', u'str1ngs j4zz', u'hella sweet bass groove', u'five-star', u'Five-star Electronica', u'avanr-garde jazz', u'Fantastic bass playing']"
+895,Menelec,28848,80033,343000,"[u'experimental', u'electronic', u'electronica', u'Warp', u'idm', u'Drum n Bass', u'emotronica', u'noise', u'metal', u'psychedelic', u'glitch', u'genius', u'braindance', u'breakcore', u'Gay Fish', u'mind ache', u'glitchy jam', u'you know you wanna roll to it', u'Marie Antoinette Soundtrack', u'indiecore', u'WOOOOHAAAAA', u'n01s3 n k0r3', u'heisse scheibe', u'dr4mnj4ngl3']"
+896,50 Cycles,30275,81566,513000,"[u'electronic', u'idm', u'glitch', u'experimental', u'Hip-Hop', u'jazz', u'emotronica', u'electronica', u'dance', u'dark', u'techno', u'abstract', u'bass', u'scary', u'pulsing', u'disjointed', u'experimental hip-hop', u'abstract electro', u'noise', u'instrumental', u'crisp', u'strange', u'experimental hip hop', u'Warp', u'ominous', u'bounce', u'Avant-Garde', u'Favorite', u'Playful', u'halloween music', u'transport', u'chip music', u'hatecore', u'crisp percussion', u'mashed', u'Gay Fish', u'damn', u'progressive hip-hop', u'progressive rap', u'Marie Antoinette Soundtrack', u'indiecore', u'an experience', u'white power electronics', u'DMT', u'Irresistable', u'dark and long', u'Broken Toys', u'obeyos', u'n01s3 n k00l', u'Heart Burster']"
+897,Andrei,36493,114370,120000,"[u'electronic', u'instrumental', u'ambient', u'idm', u'kl4ss1k4l', u'dance', u'emotronica', u'squarepusher', u'bass guitar', u'Porieux-loved', u'kl4ss1k4l str1ngs', u'noise', u'chillout', u'electronica', u'beautiful', u'guitar', u'nice', u'Crap', u'lovedtrack', u'mark-test2', u'umlaute', u'feelgood', u'blissful', u'blue', u'Gay Fish', u's', u'Marie Antoinette Soundtrack', u'indiecore', u'finally breating oxygen', u'of special note', u'sunkissed', u'fiskepind', u'kosmobeatz', u'newmedieval', u'namenamename', u'too many small things']"
+898,Iambic 9 Poetry,54700,235479,415000,"[u'electronic', u'idm', u'chillout', u'electronica', u'beautiful', u'ambient', u'jazz', u'genius', u'instrumental', u'experimental', u'chill', u'electro', u'favorites', u'Awesome', u'breaks', u'holy shit', u'favorite songs', u'downtempo', u'acid jazz', u'bass', u'drums', u'Drum and bass', u'smooth', u'emotronica', u'squarepusher', u'Jam', u'delicious', u'most beautiful', u'Awesome Drums', u'beautiful drumming', u'fucking magic', u'Iambic 9 Poetry', u'to bot or not to bot', u'noise', u'seen live', u'indie', u'rock', u'soul', u'alternative rock', u'sexy', u'dub', u'Progressive rock', u'dance', u'happy', u'Love', u'minimal', u'melodic', u'Warp', u'2004', u'groove']"
+899,I Fulcrum,33026,93413,211000,"[u'electronic', u'experimental', u'acid jazz', u'squarepusher', u'electronica', u'instrumental', u'dance', u'idm', u'emotronica', u'4v4nt g4rd3', u'noise', u'jazz', u'Warp', u'Dreamy', u'Avant-Garde', u'Electro-Jazz', u'jazzy', u'bass solo', u'Gay Fish', u'bass guitar', u'abstract electro', u'Marie Antoinette Soundtrack', u'frickel', u'indiecore', u'jazz inspired', u'disturbed jazz guitar', u'geddit', u'jazz oriented', u'is ok', u'jazz  informed']"
+900,Ultravisitor,41555,139990,513000,"[u'idm', u'electronic', u'electronica', u'ambient', u'Drum n Bass', u'experimental', u'glitch', u'Acid', u'dance', u'Drum and bass', u'jazz', u'instrumental', u'UK', u'bass', u'emotronica', u'breakcore', u'noise', u'chillout', u'british', u'downtempo', u'energy', u'Warp', u'late night', u'breaks', u'breakbeat', u'dnb', u'intense', u'sex', u'space music', u'Recommended', u'drill and bass', u'Favourites', u'out there', u'drum & bass', u""drill'n'bass"", u'4 Stars', u'6 of 10 stars', u'Essex', u'bondage', u'Hopping', u'juicy', u'delay', u'Gay Fish', u'loved tracks', u""D'n'B"", u'chelmsford', u'this is so drug music', u'fit', u'chord progression', u'Marie Antoinette Soundtrack']"
+901,Global Warning (Live),65,143,256000,[]
+902,Panorama (Live),64,163,189000,"[u'Progressive metal', u'thrash metal']"
+903,Overreaction (live),78,225,325000,[]
+904,Tribal Convictions (Live),228,883,0,[]
+905,Ravenous Medicine (live),124,436,0,[]
+906,Ripping Headaches (live),98,315,0,[]
+907,The Prow (live),88,431,226000,[]
+908,The Unknown Knows (Live),98,303,280000,[]
+909,Voivod (live),179,772,230000,[]
+910,The Gates of Delirium,18,63,0,[]
+911,"Cans and Brahms (Extracts from Brahms' 4th Symphony In e Minor, Third Movement)",57,175,0,[]
+912,Material Real,1,1,0,[]
+913,Was There?,1,1,0,[]
+914,Tokyo Dream,1,1,0,[]
+915,Water On The Brain Pt.2,1,1,0,[]
+916,Road Games,1,2,0,[]
+917,Three Sheets To The Wind,1,1,0,[]
+918,"Going For the One (Live From Tsongas Arena, Lowell, MA/2004)",1,1,0,[]
+919,Wonderlove,1,1,0,[]
+920,No Way We Can Lose,2,2,0,[]
+921,Our Song,19,31,0,[]
+922,White Car,6,15,0,[]
+923,It Was All We Knew,9,10,0,[]
+924,"Long Distance Runaround (Live From Tsongas Arena, Lowell, MA/2004)",1,1,0,[]
+925,It Can Happen,25,40,0,[]
+926,"Mind Drive, Pt. 1 & 2 (Live From Tsongas Arena, Lowell, MA/2004)",1,1,0,[]
+927,Holy Lamb,5,7,0,[]
+928,Lift Me Up,6,17,0,[]
+929,Somehow.....Someday,1,1,0,[]
+930,"Yours Is No Disgrace (Live at Greensboro Coliseum, Greensboro, North Carolina November 12, 1972)",1,1,0,[]
+931,"Intro / Firebird Suite (Live From Tsongas Arena, Lowell, MA/2004)",1,1,0,[]
+932,Five Per Cent for Nothing,55,160,0,[]
+933,"Time Is Time (Live From Tsongas Arena, Lowell, MA/2004)",1,1,0,[]
+934,Into the Lens,9,10,0,[]
+935,Going for the One,9,12,0,[]
+936,"Opening (Excerpt From Firebird Suite) / Siberian Khatru (Live at Nassau Coliseum, Uniondale, New York November 20, 1972)",2,2,0,[]
+937,Onward,8,84,0,[]
+938,Take the Water to the Mountain (Edit),3,5,0,[]
+939,Tempus Fugit,15,21,0,[]
+940,Rhythm of Love,14,25,0,[]
+941,Endless Dream: Silent Spring Talk Endless Dream,1,1,0,[]
+942,Roundabout,419,4060,0,[]
+943,Where Will You Be,1,1,0,[]
+944,The Fish (Schindleria Praematurus),32,58,0,[]
+945,We Have Heaven,55,171,0,[]
+946,Saving My Heart,5,16,0,[]
+947,"Sweet Dreams (Live From Tsongas Arena, Lowell, MA/2004)",1,1,0,[]
+948,Wonderous Stories,7,10,0,[]
+949,The Calling,1,1,0,[]
+950,Walls,1,1,0,[]
+951,"Cans and Brahms (Extracts from Brahms' 4th Symphony In e Minor, Third Movement)",57,175,0,[]
+952,Use Your Head (Live),1779,4689,318000,"[u'thrash metal', u'metal', u'thrash', u'Overkill', u'Live recording', u'fuck you and then some']"
+953,A Rush of Blood to the Head,32,53,0,[]
+954,Suicide Pact,33,75,0,[]
+955,Ascension,9574,35025,193000,[]
+956,Life In Technicolor,92,206,0,[]
+957,Beep Twist,1505,5305,406000,[]
+958,Belly Of The Beast,73582,294768,286000,"[u'thrash metal', u'metal', u'heavy metal', u'thrash', u'Anthrax', u'rock', u'speed metal', u'80s', u'hard rock', u'90s', u'classic metal', u'progressive thrash metal', u'90s hard rock', u'90s heavy metal', u'classic rock', u'seen live', u'classic', u'cowbell', u'Favoriter', u'new', u'heard on Pandora', u'live', u'songs i love', u'Power metal', u'FUCKING AWESOME', u'classic hard rock', u'english lyrics', u'4 of 10 stars', u'american artist', u'Favourite Songs', u'trash metal', u'old', u'Paul', u'90s Rock', u'All time favourites', u'rap-metal', u'5 of 10 stars', u'9 lbs hammer', u'christian black metal', u'rogainecore', u'John Bush', u'Scott Ian', u'my favorite', u'recommended listening', u'my stuff', u'belly', u'crybbage power', u'classic heavy metal', u'131', u'90s metal']"
+959,9027 Km,4,4,0,[]
+960,Pro,2336,14143,230000,"[u'misogyny', u'misogynistic overtones but I like it anyway']"
+961,Live Forever,73156,280628,286000,"[u'heavy metal', u'metal', u'rock', u'Black Sabbath', u'british', u'hard rock', u'doom metal', u'2013', u'British Metal', u'death metal', u'male vocalist', u'9 of 10 stars', u'reunion', u'Power metal', u'life', u'10s', u'2010s', u'english lyrics', u'13', u'Eternity', u'classic metal', u'classic heavy metal', u'classic british heavy metal', u'symphonic metal', u'melodic metal', u'k1r7m']"
+962,Tribunal of the Dead,15331,62527,354000,"[u'death metal', u'Technical Death Metal', u'Brutal Death Metal', u'metal', u'heavy', u'brutal', u'guitar', u'bass', u'drums', u'death', u'american', u'percussion', u'Brutal Technical Death Metal', u'2012', u'10s', u'7 of 10 stars', u'Technical Brutal Death Metal', u'Technical Metal', u'Karl Sanders', u'George Kollias', u'At the Gate of Sethu', u'Dallas Toler Wade', u'Jason Hagan', u'Jon Vesano', u'Mike Breazeale']"
+963,Pleasant Screams / Forbidden Crypts,1931,7744,259000,[u'Razorback']
+964,Action Radius,44121,172898,233000,"[u'electronic', u'big beat', u'dance', u'electronica', u'metal', u'need for speed', u'techno', u'breaks', u'trance', u'Soundtrack', u'alternative', u'bigbeat', u'junkie xl', u'heavy metal', u'black metal', u'trip-hop', u'rock', u'rap', u'breakbeat', u'death metal', u'break beat', u'Neuroshima', u'Q-mix', u'hip hop', u'viking metal', u'Drum n Bass', u'deutsch', u'party', u'good shit', u'male vocalists', u'play', u'Disturbed', u'Rammstein', u'eletronic', u'netherlands', u'Rap-Rock', u'metallica', u'VivaNOLA 1', u'Kicks ass', u'NFS', u'need for speed underground', u'electronic taste', u'Nu Skool', u'running mix', u'game ost', u'hemi', u'Rock influence', u'yoyoyo', u'myfavoritesongs', u'NFSU']"
+965,Electrocution,25042,106729,191000,"[u'thrash metal', u'metal', u'80s', u'718 Metal', u'german thrash metal', u'sodom', u'heavy metal', u'old school', u'heard on Pandora', u'Megadeth', u'Testament', u'brutal thrash metal', u'nice vocals', u'exodus', u'Teutonic Thrash', u'teutonic thrash metal', u'kkk', u'aboooo', u'main riff fucks your wife while you are out', u'haohmaru', u'myk sodom', u'how thrash metal is supposed to sound', u'Wyjebany Teutonski Nakurw']"
+966,Round and Around,5,5,0,[]
+967,We Got the Power (feat. Jehnny Beth),46,118,0,[]
+968,Snot (Live),1,1,0,[]
+969,Intro (Snot/Alive) [Live],1,2,0,[]
+970,Michael Jackson,7,7,0,[]
+971,Hear My Name,5,5,0,[]
+972,The Edge,18628,79970,177000,"[u'thrash metal', u'heavy metal', u'Power metal', u'metal', u'speed metal', u'gargulec', u'heavy', u'thrash', u'Ballad', u'Trash', u'01', u'fajny', u'slgdmbestof', u'slgdm', u'the edke', u'slgdmbllds', u'Glam Thrash Metal']"
+973,Sealed With a Fist,31416,125199,215000,"[u'thrash metal', u'metal', u'exodus', u'heavy metal', u'Trash', u'Bay Area', u'Megadeth', u'thrash', u'feminist', u'metallica', u'Mosh', u'true metal', u'Old School Metal', u'old school thrash metal', u'bay area thrash', u'Testament', u'white power', u'nuclear assault', u'White Pride', u'bats out of hell', u'true metal gods', u'jeff young', u'Tempo Of The Damned', u'myk exodus', u'hell angels', u'BleederLOCO', u'Thee Diablero', u'Bay Area', u'k1r7m']"
+974,Country Sad Ballad Man (2012 - Remaster),414,714,0,[]
+975,Never Never,34,130,0,[]
+976,Wot's... Uh the Deal?,6,10,0,[]
+977,Missing Time,7522,30702,676000,"[u'Progressive metal', u'math metal', u'progressive death metal', u'jazz', u'grindcore', u'thrash metal', u'alternative metal', u'death metal', u'mathcore', u'Technical Death Metal', u'Technical Metal', u'Post-Thrash', u'tech metal', u'from: sweden', u'dissonance', u'Avant-Garde Death Metal', u'songs to obsess over', u'alien jazz']"
+978,Surrender To Reason,22,77,0,[]
+979,"(Reach Up For The) Sunrise (Live At The MEN Arena, Manchester, England / 2011)",37,92,0,[]
+980,Prison Without Walls,36874,123188,38000,"[u'grindcore', u'death metal', u'hardcore', u'under a minute', u'Brutal Death Metal', u'deathgrind', u'Short Track', u'black metal', u'brutal', u'Extreme Metal', u'death-grind', u'Grind', u'gore death metal', u'Black and Death Metal', u'heavy metal', u'metal', u'80s', u'punk', u'Melodic Death Metal', u'death', u'shit', u'english', u'crust punk', u'1980s', u'scum', u'1987', u'Fucking Brutal', u'Napalm Death', u'death - black', u'Political Grindcore', u'Brutal Gore Metal', u'police and thieves', u'Mendigao thrash', u'Fuckin Metal', u'grind and grindcore', u'GrindGoreHardcoreMetal', u'metal united', u'k1r7m']"
+981,Straight Jacket,166,442,238000,[]
+982,Celice,48335,274563,221000,"[u'pop', u'new wave', u'norwegian', u'80s', u'rock', u'a-ha', u'synth pop', u'synthpop', u'electronic', u'alternative rock', u'00s', u'pop rock', u'scandinavian', u'Norway', u'2005', u'single', u'opening track', u'classic rock', u'electronica', u'alternative', u'indie pop', u'sad', u'dance', u'Love', u'guitar', u'upbeat', u'pretty', u'melancholy', u'male vocalist', u'male vocalists', u""80's"", u'love at first listen', u'perfect', u'heavenly voices', u'names', u'impressive', u'mood music', u'songs named after girls', u'lyricism', u'celice', u'feeling in love', u'chillout', u'seen live', u'Favorite Bands', u'favorites', u'RockPop', u'eighties', u'Like', u'heard on Pandora', u'best']"
+983,One Night in Vegas,3896,7407,0,[]
+984,All I Got Is You,6729,14184,0,[]
+985,Hip Boots,4453,8261,203000,[]
+986,Time for Bedlam,9173,20321,0,"[u'hard rock', u'rock']"
+987,Evidence,96668,887092,276000,"[u'doom metal', u'metal', u'Progressive metal', u'melancholic', u'Katatonia', u'depressive rock', u'Gothic Metal', u'dark rock', u'Progressive rock', u'rock', u'swedish', u'Doom', u'dark', u'Gothic', u'Dark metal', u'Love', u'Progressive', u'emotive', u'excellent lyrics', u'seen live', u'alternative', u'favorites', u'atmospheric', u'alternative metal', u'Favourites', u'lyrics', u'melodic doom metal', u'melancholic rock', u'great lyrics', u'Gothic Rock', u'brilliant', u'evidence', u'Passion', u'progressive doom metal', u'timeless road', u'great vocals', u'awesome harmony', u'q4jslfm', u'slgdm', u'worshippable', u'noise', u'heavy metal', u'alternative rock', u'favorite songs', u'heavy', u'sad', u'scandinavian', u'Awesome', u'me', u'nordic']"
+988,Scourge of Iron,22558,135579,284000,"[u'death metal', u'metal', u'Brutal Death Metal', u'Slamming Brutal Death Metal', u'torture', u'thrash metal', u'10 of 10 stars', u'Megadeth', u'Killer', u'cannibal corpse', u'jeff young', u'royal ruckus', u'Olivia Wilde', u'morgane laporte', u'cindy dollar', u'clanddi jinkcego', u'jessie volt']"
+989,Dead Words Speak,11209,83083,481000,"[u'funeral doom metal', u'doom metal', u'Death Doom Metal', u'dark', u'beautiful', u'Sweden', u'metal', u'swedish', u'atmospheric', u'death metal', u'favourite', u'melancholic', u'male vocalists', u'drone doom', u'Favourite Songs', u'Swedish Metal', u'funeral doom', u'depressive', u'to listen at night', u'epic as fuck', u'funeral doom death metal', u'depressive doom metal', u'deepest']"
+990,Funeralopolis,114331,794516,523000,"[u'doom metal', u'stoner metal', u'stoner doom', u'Stoner Rock', u'Sludge', u'metal', u'Doom', u'stoner', u'stoner doom metal', u'sludge metal', u'psychedelic', u'heavy', u'heavy metal', u'Awesome', u'heavy as fuck', u'Electric Wizard', u'Sludge Doom', u'Psychedelic metal', u'UK', u'00s', u'crushing', u'great riffs', u'heavy as hell', u'downtempo', u'favourite', u'Psychedelic Rock', u'drugs', u'dirge', u'Orgasmic', u'riff', u'Nihilistic', u'stoner sludge', u'Sludgy', u'nomadic rituals', u'stoned as fuck', u'desert doom', u'deliciously evil', u'doomgasm', u'vinum sabbathi', u'Hard and horny', u'massive riffage', u'black sabbath worship', u'Bass Rape', u'chillout', u'seen live', u'rock', u'british', u'dark', u'moody', u'90s']"
+991,Proton / Electron,15693,141331,404000,"[u'ambient', u'psychill', u'electronic', u'Acid', u'voice samples', u'psybient', u'chillout', u'swedish', u'Progressive', u'deep', u'spacey', u'loved', u'euphoria', u'brilliant', u'2006', u'fat beat', u'delicious', u'tb303', u'most beautiful', u'ultimae', u'Echoes', u'deep bass', u'slow beat', u'ambiendelica', u'psytrance and goa', u'sorcelot', u'atomic activity on the moon']"
+992,Supersede,40371,293778,480000,"[u'ambient', u'electronic', u'downtempo', u'psybient', u'psychill', u'ambient morning trance', u'chillout', u'Awesome', u'Ambient Techno', u'chill', u'swedish', u'2010', u'trance', u'sexy', u'electro', u'dance', u'psychedelic', u'atmospheric', u'unique', u'Random', u'favourite', u'ebm', u'trippy', u'strong', u'Favorite', u'fav', u'lovely', u'second', u'addictive', u'Nature', u'early morning music', u'elektronic beats', u'4 Stars', u'CD', u'Guitar Gods', u'42', u'Tag', u'oh', u'psy', u'CBL', u'somafm', u'ultimae', u'psyambient', u'AB', u'si', u'zz', u'theta inducing', u'Torquemada', u'spacy downtempo', u'333']"
+993,Pickup Song,25911,101281,164000,"[u'slowcore', u'indie rock', u'shoegaze', u'indie', u'sadcore', u'heavy', u'sad', u'90s', u'codeine', u'heavy bottom end', u'cathartic', u'fuzzy guitar goodness', u'new thing', u'where is my bong', u'release', u'strangegalaxie', u'this will floor you', u'Sub Pop Wave 1', u'good old 90ies', u'gr 100-50', u'I wish I had never seen your face']"
+994,Aeternus,10838,72035,746000,"[u'doom metal', u'funeral doom metal', u'Death Doom Metal', u'Doom', u'dark beauty', u'swedish', u'favorites', u'death metal', u'i fucking love this song', u'Sweden', u'Favourite Songs', u'funeral doom', u'Extreme Doom Metal', u'epic as fuck', u'me like', u'songs to play after you sit for an hour waiting for a bus']"
+995,Comfortably Numb,845022,7884010,536000,"[u'Progressive rock', u'classic rock', u'Pink Floyd', u'Psychedelic Rock', u'rock', u'psychedelic', u'70s', u'british', u'beautiful', u'Guitar Solo', u'Progressive', u'epic', u'Awesome Guitar Jams', u'art rock', u'guitar', u'favorites', u'Awesome', u'amazing', u'sad', u'Masterpiece', u'classic', u'Favourites', u'comfortably numb', u'great guitar solo', u'Mellow', u'melancholic', u'favorite songs', u'space rock', u'the wall', u'melancholy', u'alternative', u'Favorite', u'guitar virtuoso', u'experimental', u'perfect', u'1979', u'100 Greatest Guitar Solos', u'pop', u'oldies', u'favourite', u'great lyrics', u'FUCKING AWESOME', u'Floyd', u'best guitar solo ever', u'chillout', u'atmospheric', u'Favourite Songs', u'relaxing', u'10 of 10 stars', u'Legendary']"
+996,Insipid 2000,97049,602939,225000,"[u'Melodic Death Metal', u'metal', u'death metal', u'gothenburg metal', u'Swedish Metal', u'In Flames', u'swedish', u'melodeath', u'8 of 10 stars', u'melodic metal', u'seen live', u'Awesome', u'fav', u'Sweden', u'Swedish Death Metal', u'Swedish Melodic Death Metal', u'heavy metal', u'rock', u'Love', u'melodic', u'Extreme Metal', u'favourite tracks', u'power death metal', u'Melodic Deathmetal', u'false death metal', u'music that rocks a lot', u'good1', u'Angels Metal Zone', u'dragonslayer metal', u'harry metal', u'metalmat', u'Insipid 2000', u'otem', u'dt riff']"
+997,Threw It Away,21505,99911,207000,"[u'metal', u'Nu Metal', u'hard rock', u'alternative metal']"
+998,None But My Own,76677,355495,374000,"[u'thrash metal', u'metal', u'groove metal', u'heavy metal', u'metalcore', u'Machine Head', u'seen live', u'rock', u'hard rock', u'favorites', u'90s', u'thrash', u'Nu Metal', u'Extreme Metal', u'9 of 10 stars', u'7 of 10 stars', u'Post-Thrash', u'top10', u'suitable soundtrack for giant robot warfare', u'jump da fuck up', u'over 5 minutes long', u'songs by bands with the suffix head', u'anger is a gift', u'strength in adversity', u'the group with the biggest members number new song game thread', u'to own and possess', u'dark groove metal']"
+999,Heaven's Blade,33249,178520,498000,"[u'experimental', u'industrial', u'clinically romantic', u'electronic', u'Coil', u'homosexual intifada', u'pure energy', u'trip-hop', u'avantgarde', u'achingly intelligent', u'transgressive', u'miaou', u'street ambient', u'Street Industrial', u'post-punk pimps', u'electronica', u'80s', u'sexy', u'House', u'minimal', u'psychedelic', u'haunting', u'Avant-Garde', u'club', u'darkwave', u'loved', u'psytrance', u'dark ambient', u'interesting', u'FUCKING AWESOME', u'post-revolutionary pop song', u'creepy', u'brooding', u'suicidal', u'Post-Industrial', u'Eros', u'genious', u'post industrial', u'death industrial', u'beloved', u'music to slit your wrists to', u'Memorable', u'icsipsilonzeta-loved', u'hp fanfic soundtrack', u'Pre-and-Post Punk', u'smart pop that would never be played on the radio', u'razor advertisement', u'subtle commercial', u'Legopop', u'glitchy and scratchy']"
